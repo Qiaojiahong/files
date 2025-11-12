@@ -1,0 +1,4383 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        178,
+                        75,
+                        433,
+                        96
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                178,
+                                75,
+                                433,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        178,
+                                        75,
+                                        433,
+                                        96
+                                    ],
+                                    "type": "text",
+                                    "content": "认知治疗量表的发展与临床应用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        183,
+                        114,
+                        426,
+                        129
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                183,
+                                114,
+                                426,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        183,
+                                        114,
+                                        426,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "朱雅雯<sup>1</sup>, 马艳艳<sup>1</sup>, 宋晶晶<sup>1</sup>, 李荔波<sup>2</sup>, 王建平<sup>3</sup>"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        130,
+                        131,
+                        479,
+                        145
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                130,
+                                131,
+                                479,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        130,
+                                        131,
+                                        479,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "(1. 西北师范大学心理学院, 甘肃省行为与心理健康重点实验室, 兰州 730070;"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        120,
+                        147,
+                        485,
+                        160
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                120,
+                                147,
+                                485,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        120,
+                                        147,
+                                        485,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "2.宁波大学科学技术学院，宁波315000；3.北京师范大学心理学部，应用实验心理"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        118,
+                        163,
+                        491,
+                        176
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                118,
+                                163,
+                                491,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        118,
+                                        163,
+                                        491,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "北京市重点实验室，心理学国家级实验教学示范中心[北京师范大学]，北京100875)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        82,
+                        183,
+                        529,
+                        252
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                183,
+                                529,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        183,
+                                        529,
+                                        252
+                                    ],
+                                    "type": "text",
+                                    "content": "【摘要】认知治疗量表被广泛应用于评估认知行为取向心理咨询/治疗师的专业胜任力，包括原版认知治疗量表(Cognitive Therapy Scale,CTS)和认知治疗量表修订版(Cognitive Therapy Scale-Revised,CTS-R)。CTS和CTS-R在国外被广泛应用于认知行为治疗的临床督导与专业培训中，但在国内很少应用。文章主要介绍了CBT专业胜任力评估工具以及CTS和CTS-R的具体内容与临床应用，以期让更多的CBT心理咨询/治疗师认识并使用CTS或CTS-R，从而不断提升国内CBT心理咨询/治疗师的专业胜任力。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        82,
+                        255,
+                        326,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                255,
+                                326,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        255,
+                                        326,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "【关键词】认知治疗量表；认知治疗量表修订版；专业胜任力"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        83,
+                        275,
+                        165,
+                        286
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                275,
+                                165,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        275,
+                                        165,
+                                        286
+                                    ],
+                                    "type": "text",
+                                    "content": "中图分类号：R395.5"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        316,
+                        275,
+                        487,
+                        285
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                316,
+                                275,
+                                487,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        275,
+                                        487,
+                                        285
+                                    ],
+                                    "type": "text",
+                                    "content": "DOI: 10.16128/j.cnki.1005-3611.2022.04.007"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        141,
+                        294,
+                        468,
+                        308
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                141,
+                                294,
+                                468,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        141,
+                                        294,
+                                        468,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "The Development and Clinical Application of Cognitive Therapy Scale"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        164,
+                        310,
+                        445,
+                        323
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                164,
+                                310,
+                                445,
+                                323
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": "ZHU Ya-wen"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": ", MA Yan-yan"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": ", SONG Jing-jing"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": ", LI Li-bo"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "text",
+                                    "content": ", WANG Jian-ping"
+                                },
+                                {
+                                    "bbox": [
+                                        164,
+                                        310,
+                                        445,
+                                        323
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{3}"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        88,
+                        324,
+                        518,
+                        350
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                324,
+                                518,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        324,
+                                        518,
+                                        350
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>1</sup>Key Laboratory of Behavioral and Mental Health of Gansu Province, School of Psychology, Northwest Normal University, Lanzhou 730070, China; <sup>2</sup>School of Science and Technology, Ningbo University, Ningbo 315000, China;"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        86,
+                        353,
+                        520,
+                        379
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                353,
+                                520,
+                                379
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        353,
+                                        520,
+                                        379
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>3</sup>Beijing Key Laboratory of Applied Experimental Psychology, National Demonstration Center for Experimental Psychology Education (Beijing Normal University), Faculty of Psychology, Beijing Normal University, Beijing 100875, China"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        82,
+                        381,
+                        528,
+                        492
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                381,
+                                528,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        381,
+                                        528,
+                                        492
+                                    ],
+                                    "type": "text",
+                                    "content": "【Abstract】The Cognitive Therapy Scale is widely used to evaluate the professional competence of Cognitive Behavioral Therapy (CBT) psychological counselors/therapists. There are two versions of the Cognitive Therapy Scale which are the original Cognitive Therapy Scale (CTS) and the Revised Cognitive Therapy Scale (CTS-R). CTS and CTS-R have been used in CBT clinical supervision and professional training to promote the professional development of CBT psychological counselors/therapists widely in foreign countries but rarely in China. This article mainly introduced CBT professional competence assessment tools and the specific contents and clinical application of CTS and CTS-R. The authors hope that more CBT psychological counselors/therapists have opportunities to understand and use CTS or CTS-R to improve the professional competence of CBT psychological counselors/therapists in China."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        82,
+                        496,
+                        437,
+                        508
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                496,
+                                437,
+                                508
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        496,
+                                        437,
+                                        508
+                                    ],
+                                    "type": "text",
+                                    "content": "【Key words】 Cognitive therapy scale; Cognitive therapy scale-revised; Professional competence"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        61,
+                        518,
+                        296,
+                        614
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                518,
+                                296,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        518,
+                                        296,
+                                        614
+                                    ],
+                                    "type": "text",
+                                    "content": "随着社会的发展，心理问题与精神疾患越来越受到人们的广泛关注，人们对心理咨询与心理治疗的需求也日益上升。为了保障来访者的权益，促进心理咨询/治疗行业的可持续发展，非常有必要对心理咨询/治疗师的专业胜任力进行科学有效的评估[1]。目前，针对心理咨询/治疗师专业胜任力的评估工具有许多[2,3]，其中一些评估工具专门用于评估认知行为取向心理咨询/治疗师的专业胜任力[4-6]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        61,
+                        618,
+                        296,
+                        715
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                618,
+                                296,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        618,
+                                        296,
+                                        715
+                                    ],
+                                    "type": "text",
+                                    "content": "基于 Beck 的认知理论, 认知行为治疗 (Cognitive Behavioral Therapy, CBT) 关注于解决个体当前的心理问题, 着眼于矫正个体功能不良的认知和行为。CBT 作为一种有效的心理治疗方法, 可以较好地干预抑郁障碍[7]、焦虑障碍[8]、强迫障碍[9]、进食障碍[10]、睡眠障碍[11]等心理障碍。CBT之所以可以有效地干预多种心理障碍, 除了实施有针对性的干预策略外, 合格胜任的 CBT 心理咨询/治疗师也是影响干预效果的"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        313,
+                        518,
+                        548,
+                        600
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                518,
+                                548,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        518,
+                                        548,
+                                        600
+                                    ],
+                                    "type": "text",
+                                    "content": "一个非常重要的因素[12,13]。在众多CBT专业胜任力的评估工具中，Young和Beck提出的认知治疗量表(Cognitive Therapy Scale,CTS)，以及在CTS的基础上，Blackburn等人提出的认知治疗量表修订版(Cognitive Therapy Scale-Revised,CTS-R)，被广泛应用于CBT临床督导与专业培训中，以监测与评估CBT心理咨询/治疗师的专业胜任力[14]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "bbox": [
+                        313,
+                        603,
+                        548,
+                        686
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                603,
+                                548,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        603,
+                                        548,
+                                        686
+                                    ],
+                                    "type": "text",
+                                    "content": "然而，在国内CBT临床督导与专业培训中，对CBT心理咨询/治疗师专业胜任力的评估却重视不足，对CTS和CTS-R的使用还较为欠缺。本文将主要介绍CBT专业胜任力的评估工具，以及CTS和CTS-R的具体内容与临床应用，以期让更多的CBT心理咨询/治疗师了解并使用CTS或CTS-R，从而不断提升国内CBT心理咨询/治疗师的专业胜任力。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "bbox": [
+                        314,
+                        696,
+                        482,
+                        711
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                314,
+                                696,
+                                482,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        696,
+                                        482,
+                                        711
+                                    ],
+                                    "type": "text",
+                                    "content": "1 CBT专业胜任力的评估工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "bbox": [
+                        313,
+                        721,
+                        548,
+                        761
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                721,
+                                548,
+                                761
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        721,
+                                        548,
+                                        761
+                                    ],
+                                    "type": "text",
+                                    "content": "胜任力(Competence)最早由戴维·麦克兰德(David·McClelland)于1973年提出，通过界定从业者的胜任力特征由哪些成分构成，进而通过系统的培训和活动提升从业者的胜任"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        53,
+                        100,
+                        63
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                53,
+                                100,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        53,
+                                        100,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "784·"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        306,
+                        52,
+                        533,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                52,
+                                533,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        52,
+                                        533,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "Chinese Journal of Clinical Psychology Vol.30 No.4 2022"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        61,
+                        725,
+                        295,
+                        750
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                725,
+                                295,
+                                750
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        725,
+                                        295,
+                                        750
+                                    ],
+                                    "type": "text",
+                                    "content": "【基金项目】国家社会科学基金西部项目(20XMZ071)和甘肃省教育科学规划项目(GS[2020]GHB4666)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "bbox": [
+                        62,
+                        753,
+                        211,
+                        764
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                753,
+                                211,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        753,
+                                        211,
+                                        764
+                                    ],
+                                    "type": "text",
+                                    "content": "通讯作者：李荔波，E-mail:gill008@163.com"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 26
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        75,
+                        296,
+                        257
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                75,
+                                296,
+                                257
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        75,
+                                        296,
+                                        257
+                                    ],
+                                    "type": "text",
+                                    "content": "力，以此来预测和提高工作绩效。为了保障来访者的权益，促进心理咨询/治疗行业的可持续发展，不同的学者针对心理咨询/治疗师的专业胜任力评估，提出了不同的理论与观点。有研究者提出用金字塔型的框架(知识、运用知识的能力、演示能力及实践能力)评估心理咨询/治疗师的专业胜任力；也有研究者从专业职能、基本胜任力和模型适用的专业范畴，提出了心理咨询/治疗师胜任力评估模型[15]。吴垠和桑志芹提出心理咨询/治疗师的胜任力特质模型，该模型由基准性胜任特质和鉴别性胜任特质两部分组成[16]。张爱莲编制的《心理健康服务人员胜任特征问卷》，将心理咨询/治疗师的胜任力划分为一般特质、专业特质、知识修养、专业技能和职业伦理五个因素[3]。樊富珉认为心理咨询/治疗师的核心能力应包含知识、技能、态度和价值观三个层面[17]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        61,
+                        258,
+                        296,
+                        524
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                258,
+                                296,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        258,
+                                        296,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "目前，有多种评估心理咨询/治疗师基础胜任力的评估工具[2,3]，但这些评估工具均无法全面准确地评估CBT心理咨询/治疗师的专业胜任力。Roth和Pilling认为有胜任力的CBT心理咨询/治疗师应具备以下五种核心能力，即一般治疗能力、基本CBT能力、特定CBT技术、特定问题的能力及元能力[18]。在已有的CBT专业胜任力评估工具中，有些研究者关注对CBT陈述性知识和程序性知识的测量评估[19,20]。Muse和McManus编制了CBT核心技能评估量表(Assessment Core CBT Skills, ACCS)，重点考察CBT心理咨询/治疗师对有关CBT程序性知识的掌握[19]。Kuyken等人则关注对CBT心理咨询/治疗师个案概念化能力的评估，认为个案概念化应具有可理解、简约、条理清晰、措辞严谨且有意义的特征[21]。随后有研究基于CBT心理咨询/治疗师个案概念化能力，编制了协同个案概念化评定量表(Collaborative Case Conceptualization Rating Scale, CCC-RS)[4]。除此之外，认知治疗意识量表(Cognitive Therapy Awareness Scale, CTAS)、认知行为治疗知识测验(Cognitive Behavioural Therapy Knowledge Quiz, CBTKQ)，以及认知治疗量表及其修订版均被用于评估CBT心理咨询/治疗师的专业胜任力[5,6,14]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        61,
+                        527,
+                        296,
+                        695
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                527,
+                                296,
+                                695
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        527,
+                                        296,
+                                        695
+                                    ],
+                                    "type": "text",
+                                    "content": "针对CBT专业胜任力的评估工具有许多，但在临床应用中却发现部分CBT专业胜任力评估工具的信效度不够理想[19]，无法较好地检验CBT心理咨询/治疗师的专业胜任力。已有研究发现，使用个别工具评估CBT心理咨询/治疗师的专业胜任力，所表现出的CBT专业胜任力与心理咨询/治疗的干预效果之间并不存在一致性[20]。然而，CTS和CTS-R均经过科学规范的信效度检验[22,23]。Strunk等人使用CTS评估CBT心理咨询/治疗师的专业胜任力，发现CBT心理咨询/治疗师在CTS上一些评估项目的得分变化，可以显著预测心理咨询/治疗的干预效果[24]。除此之外，CTS还被用于评估CBT心理咨询/治疗师对社交焦虑障碍和反社会人格障碍的临床干预能力[19]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        61,
+                        704,
+                        224,
+                        718
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                704,
+                                224,
+                                718
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        704,
+                                        224,
+                                        718
+                                    ],
+                                    "type": "text",
+                                    "content": "2CTS和CTS-R的具体内容"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        61,
+                        727,
+                        167,
+                        739
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                727,
+                                167,
+                                739
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        727,
+                                        167,
+                                        739
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1 CTS的具体内容"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        61,
+                        743,
+                        296,
+                        768
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                743,
+                                296,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        743,
+                                        296,
+                                        768
+                                    ],
+                                    "type": "text",
+                                    "content": "CTS基于Beck的认知理论，由Beck和Young提出，分别从一般治疗技能和认知治疗特定技能评估CBT心理咨询/治"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        313,
+                        75,
+                        548,
+                        285
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                75,
+                                548,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        75,
+                                        548,
+                                        285
+                                    ],
+                                    "type": "text",
+                                    "content": "疗师的专业胜任力[5]。最初CTS作为他评量表，用于督导师评估CBT心理咨询/治疗师的专业胜任力。随着CTS的广泛使用，CTS也被用作自评量表，用于CBT心理咨询/治疗师进行自我评估，从而促进自身专业胜任力的提升。CTS包括11个项目，其中议程设置、反馈、理解、人际效能、合作属于一般治疗技能；议程设置、掌握节奏并有效利用时间、引导式发现、聚焦于关键的认知和行为、改变策略、认知行为技术的应用及家庭作业属于认知治疗特定技能。该量表采用0~6七点计分：“很糟糕”记0分，“差强人意”记1分，“中等”记2分，“基本满意”记3分，“很好”记4分，“非常好”记5分，“十分出色”记6分。最高得分为66分，得分越高说明CBT心理咨询/治疗师的专业胜任力水平越高。已有研究发现，CTS得分不低于40分可视为CBT心理咨询/治疗师具有合格的CBT专业胜任力[14]。CTS具有良好的信效度，CTS总量表及各项目的内部一致性信度在 "
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        75,
+                                        548,
+                                        285
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "0.84\\sim 0.95^{[23]}"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        313,
+                        287,
+                        548,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                287,
+                                548,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        287,
+                                        548,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "由于CTS的科学有效，因而被广泛应用于临床实践中。在临床应用的过程中，临床工作者也发现CTS存在一些不足之处[14,22]：(1)尽管CTS是0~6七点评分量表，但在临床使用中仅给出了四个评分点(0、2、4、6)，增大了各评分点之间的跨度，致使评分较为模糊，未能较好地区分CBT心理咨询/治疗师的专业胜任力；(2)CBT比较注重来访者的认知、行为及情绪表现，但在CTS中对认知和行为并未作出清晰的划分，且欠缺与情绪表达相关的评估项目；(3)CTS中的一些项目存在重合，使得项目内容表述不清。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        313,
+                        415,
+                        432,
+                        426
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                415,
+                                432,
+                                426
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        415,
+                                        432,
+                                        426
+                                    ],
+                                    "type": "text",
+                                    "content": "2.2 CTS-R的具体内容"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        313,
+                        430,
+                        548,
+                        555
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                430,
+                                548,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        430,
+                                        548,
+                                        555
+                                    ],
+                                    "type": "text",
+                                    "content": "与CTS相比，CTS-R有如下变化[22,25]：(1)针对每个项目的评估内容，CTS-R均提供了具体的七点评分表述，不仅缩短了评分点间的跨度，还使评分变得更加清晰；(2)将CTS中的“聚焦于关键的行为和认知”分解为“引出关键认知”和“引出行为”，并新增一项促进情绪处理的项目“引出适当的情绪表达”；(3)将CTS中的“改变策略”和“认知行为技术的应用”合并为“改变方法的应用”；将“理解”和“人际效能”合并为“人际效能”；新增一项关注个案概念化的项目“概念整合”，具体变化见表1。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        314,
+                        576,
+                        548,
+                        751
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                314,
+                                576,
+                                548,
+                                751
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        576,
+                                        548,
+                                        751
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                576,
+                                                548,
+                                                751
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\">CTS</td><td colspan=\"2\">CTS-R</td></tr><tr><td>项目</td><td>内容</td><td>项目</td><td>内容</td></tr><tr><td>项目1</td><td>议程</td><td>项目1</td><td>议程设置与遵循情况</td></tr><tr><td>项目2</td><td>反馈</td><td>项目2</td><td>反馈</td></tr><tr><td>项目3</td><td>理解</td><td>项目3</td><td>合作关系</td></tr><tr><td>项目4</td><td>人际效能</td><td>项目4</td><td>会谈节奏和有效利用时间</td></tr><tr><td>项目5</td><td>合作</td><td>项目5</td><td>人际效能</td></tr><tr><td>项目6</td><td>掌握节奏并有效利用时间</td><td>项目6</td><td>引出适当的情绪表达</td></tr><tr><td>项目7</td><td>引导性发现</td><td>项目7</td><td>引出关键认知</td></tr><tr><td>项目8</td><td>聚焦于关键的认知和行为</td><td>项目8</td><td>引出行为</td></tr><tr><td>项目9</td><td>改变策略</td><td>项目9</td><td>引导性发现</td></tr><tr><td>项目10</td><td>认知行为技术的应用</td><td>项目10</td><td>概念整合</td></tr><tr><td>项目11</td><td>家庭作业</td><td>项目11</td><td>改变方法的应用</td></tr><tr><td></td><td></td><td>项目12</td><td>家庭作业设置</td></tr></table>",
+                                            "image_path": "6ae5ea590c20e51bd7dbbb40404c3d52e4db77271771deed99817ad0eb440393.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                368,
+                                562,
+                                492,
+                                574
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        562,
+                                        492,
+                                        574
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                368,
+                                                562,
+                                                492,
+                                                574
+                                            ],
+                                            "type": "text",
+                                            "content": "表 1 CTS 与 CTS-R 项目内容"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                313,
+                                753,
+                                500,
+                                763
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        753,
+                                        500,
+                                        763
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                753,
+                                                500,
+                                                763
+                                            ],
+                                            "type": "text",
+                                            "content": "注：CTS：认知治疗量表；CTS-R：认知治疗量表修订版"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        51,
+                        269,
+                        64
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                51,
+                                269,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        51,
+                                        269,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "中国临床心理学杂志 2022年 第30卷 第4期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        512,
+                        53,
+                        534,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                512,
+                                53,
+                                534,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        512,
+                                        53,
+                                        534,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "785·"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        75,
+                        297,
+                        229
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                75,
+                                297,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        75,
+                                        297,
+                                        229
+                                    ],
+                                    "type": "text",
+                                    "content": "CTS-R包含12个项目，分为一般项目和认知治疗相关项目，同样采用0~6七点计分，但对每一点计分表述得更为具体，0代表“缺少该要素或表现极为不当”；1代表“表现不当，明显存在重大问题”；2代表“有一定胜任力，但存在许多问题，表现不稳定”；3代表“能够胜任，但存在一些问题和/或有些不稳定”；4代表“该要素表现良好，但存在轻微问题和/或稍有不稳定”；5代表“该要素表现非常好，存在极少问题和/或极少不稳定”；6代表“表现优异，或即使面对具有挑战性的患者也表现非常好”。CTS-R最高得分为72分，得分越高说明CBT心理咨询/治疗师的专业胜任力水平越高。CTS-R总得分36分被视为CBT心理咨询/治疗师专业胜任力的最"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        313,
+                        75,
+                        548,
+                        172
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                75,
+                                548,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        75,
+                                        548,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": "低标准，平均每项得分为3分[14]。已有研究表明，CTS-R同样具有较好的信度指标，CTS-R的总量表及各项目的内部一致性信度在 "
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        75,
+                                        548,
+                                        172
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "0.75\\sim 0.97^{[22]}"
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        75,
+                                        548,
+                                        172
+                                    ],
+                                    "type": "text",
+                                    "content": " 。在Kelleher的研究中，督导师和医院心理治疗服务中心的负责人同时使用CTS-R，对CBT心理咨询/治疗师的专业胜任力进行评估，结果发现两者的评估结果具有较高的一致性[26]，由此可见CTS-R可以确保评估的可靠性与准确性。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        313,
+                        174,
+                        548,
+                        229
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                174,
+                                548,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        174,
+                                        548,
+                                        229
+                                    ],
+                                    "type": "text",
+                                    "content": "在CTS-R中，一般项目包括项目1~5，认知治疗相关项目包括项目1及项目6~12。在使用CTS-R对CBT心理咨询/治疗师进行专业胜任力评估时，每一个项目中均注明了需要评估者注意的关键要素[6](具体详见表2)。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        62,
+                        252,
+                        548,
+                        421
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                62,
+                                252,
+                                548,
+                                421
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        252,
+                                        548,
+                                        421
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                252,
+                                                548,
+                                                421
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>项目</td><td>关键要素</td></tr><tr><td>项目1</td><td>关注是否设置了清晰明确、共同商定、有优先级，且在有限时间内可以灵活处理的议程，议程内容的适当性，以及议程的遵循情况。</td></tr><tr><td>项目2</td><td>关注是否有反馈及反馈的频率，反馈内容是否适当，以及给予和引出反馈的方式。</td></tr><tr><td>项目3</td><td>关注咨询师的言语技巧、非言语技巧和分享书面总结。</td></tr><tr><td>项目4</td><td>关注会谈经过彼此独立的各个阶段的顺利程度，整个会谈的节奏是否适宜，以及配合来访者学习速度的程度。</td></tr><tr><td>项目5</td><td>关注共情、真诚和温暖。</td></tr><tr><td>项目6</td><td>关注促进来访者觉察各种不同的情绪，适当地利用和控制情绪表达，以及促进情绪表达，鼓励适当地觉察和区分不同的情绪。</td></tr><tr><td>项目7</td><td>关注引出与痛苦情绪有关的认知，所使用方法的熟练度和广度，以及在咨询的不同阶段选择适当的认知层面对其工作。</td></tr><tr><td>项目8</td><td>关注引出与痛苦情绪有关的行为，以及所使用方法的熟练度和广度。</td></tr><tr><td>项目9</td><td>关注咨询师的风格，以及有效使用提问技术，应鼓励来访者发现有助于其获得更好理解的有用信息。</td></tr><tr><td>项目10</td><td>关注是否形成了与咨询目标一致的适当的概念化，以及概念化的使用方式。</td></tr><tr><td>项目11</td><td>关注认知技术和行为技术的适用性和广泛性，应用方法的熟练度，以及改变方法是否适合来访者的需要。</td></tr><tr><td>项目12</td><td>关注是否布置了家庭作业，其中设定了清晰明确的目标，任务应该来源于会谈时讨论的材料，以及家庭作业应该由咨询师和来访者合作布置。</td></tr></table>",
+                                            "image_path": "a8fafd83ec2d6c2fb2cbe6079652cd6a3cd3174bcb32530f2c36bd333777b4f4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                244,
+                                239,
+                                365,
+                                251
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        244,
+                                        239,
+                                        365,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                244,
+                                                239,
+                                                365,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "表2CTS-R各项目关键要素"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                422,
+                                179,
+                                432
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        422,
+                                        179,
+                                        432
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                61,
+                                                422,
+                                                179,
+                                                432
+                                            ],
+                                            "type": "text",
+                                            "content": "注:CTS-R:认知治疗量表修订版。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        61,
+                        443,
+                        224,
+                        457
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                443,
+                                224,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        443,
+                                        224,
+                                        457
+                                    ],
+                                    "type": "text",
+                                    "content": "3CTS和CTS-R的临床应用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        61,
+                        467,
+                        209,
+                        479
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                467,
+                                209,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        467,
+                                        209,
+                                        479
+                                    ],
+                                    "type": "text",
+                                    "content": "3.1 在CBT临床督导中的应用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        61,
+                        482,
+                        296,
+                        580
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                482,
+                                296,
+                                580
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        482,
+                                        296,
+                                        580
+                                    ],
+                                    "type": "text",
+                                    "content": "在CBT临床督导中，督导师可以通过观看心理咨询/治疗师提交的会谈录像，听取心理咨询/治疗师提供的会谈录音，或在现场直接观察心理咨询/治疗师进行咨询/治疗会谈的过程，对心理咨询/治疗师的CBT专业胜任力进行评估。在一项为期15周的研究生课程中，研究者每周为参与该课程学习的学生提供团体督导和个体督导，并使用CTS进行月监测，结果发现参与该课程学生的CBT专业胜任力显著提升[27]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        61,
+                        582,
+                        296,
+                        693
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                582,
+                                296,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        582,
+                                        296,
+                                        693
+                                    ],
+                                    "type": "text",
+                                    "content": "通过对CBT心理咨询/治疗师进行CTS或CTS-R的评估，督导师可以更好地了解心理咨询/治疗师对CBT知识的理解及对CBT技能的运用。通过督导真实的心理咨询/治疗个案，CBT心理咨询/治疗师得以获得理论上的学习，态度上的转变，以及与个案相关重要CBT技能的提升[14]。与此同时，在CBT临床督导中，借助CTS或CTS-R的专业评估，有助于促进CBT心理咨询/治疗师的自我觉察与反思，进一步提升CBT心理咨询/治疗师的专业胜任力。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        61,
+                        696,
+                        296,
+                        765
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                696,
+                                296,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        696,
+                                        296,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "随着心理咨询/治疗的进行，一些CBT心理咨询/治疗师可能会偏离CBT的工作框架与会谈结构。为了保障来访者的权益，保证心理咨询/治疗的效果，有必要对CBT心理咨询/治疗师持续进行临床督导，并持续使用CTS或CTS-R对CBT心理咨询/治疗师的专业胜任力进行评估。在临床督导中，"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        313,
+                        442,
+                        548,
+                        510
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                442,
+                                548,
+                                510
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        442,
+                                        548,
+                                        510
+                                    ],
+                                    "type": "text",
+                                    "content": "对CBT心理咨询/治疗师而言，CTS或CTS-R各项目的评估得分可以起到提醒与督促作用，帮助CBT心理咨询/治疗师在咨询/治疗会谈中，更好地设置会谈议程、更有效地布置家庭作业、更恰当地进行引导式发现，从而有意识、有目的地进行CBT技能的训练[28]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        313,
+                        513,
+                        462,
+                        525
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                513,
+                                462,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        513,
+                                        462,
+                                        525
+                                    ],
+                                    "type": "text",
+                                    "content": "3.2 在CBT专业培训中的应用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        313,
+                        528,
+                        548,
+                        637
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                528,
+                                548,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        528,
+                                        548,
+                                        637
+                                    ],
+                                    "type": "text",
+                                    "content": "在CBT专业培训中，CTS和CTS-R被广泛用于评估CBT心理咨询/治疗师的专业胜任力，以检验CBT专业培训效果。Chevron和Rounsaville指出在CBT专业培训中，仅使用非正式的评估方法(例如，口头报告、书面报告或学时证明)对CBT心理咨询/治疗师的专业胜任力进行评估，所得出的评估结果可能缺乏可靠性与准确性[29]。因此，需要使用较为科学客观的评估工具评估CBT心理咨询/治疗师的专业胜任力，以检验CBT专业培训效果。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        313,
+                        640,
+                        548,
+                        765
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                640,
+                                548,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        640,
+                                        548,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "目前，认知治疗量表已成为检验CBT专业培训效果的一种既定评估工具[30-33]。McManus等人对参与1年制牛津认知治疗培训课程的248名学生进行了一项追踪调查，收集了10年来学生的书面论文、个案报告和CTS得分，评估所有课程参与者对CBT知识与技能的掌握情况，结果发现课程参与者的CTS得分均存在不同程度的提高[34]。Liness等人的研究也发现，对CBT学员在培训开始、中期和结束时，分别通过CTS-R对其会谈录音进行评分，结果发现CBT学员的专业技能显著提升[33]。都柏林圣三一学院的认知行为治疗课程也"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        53,
+                        100,
+                        63
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                53,
+                                100,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        53,
+                                        100,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "786·"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        306,
+                        52,
+                        533,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                52,
+                                533,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        52,
+                                        533,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "Chinese Journal of Clinical Psychology Vol.30 No.4 2022"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        75,
+                        296,
+                        204
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 4,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                61,
+                                75,
+                                290,
+                                87
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        75,
+                                        290,
+                                        87
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                61,
+                                                75,
+                                                290,
+                                                87
+                                            ],
+                                            "type": "text",
+                                            "content": "广泛使用CTS-R，将其作为评估课程授课效果的一种方式[26]。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                89,
+                                296,
+                                204
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        89,
+                                        296,
+                                        204
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                61,
+                                                89,
+                                                296,
+                                                204
+                                            ],
+                                            "type": "text",
+                                            "content": "在CBT专业培训中，使用CTS或CTS-R评估CBT心理咨询/治疗师的专业胜任力，有助于培训者掌握受训者CBT技能的学习情况，同时还有助于培训者检验培训内容是否达到培训目标。对CBT受训者CTS或CTS-R各项得分的统计分析将有助于培训者发现受训者的一些共性问题，从而促进培训者总结与反思培训课程。此外，根据受训者CBT专业胜任力的特点，培训者可以有针对性地对其进行专业培训，以不断提升培训效果[14]。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        61,
+                        215,
+                        145,
+                        228
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                215,
+                                145,
+                                228
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        215,
+                                        145,
+                                        228
+                                    ],
+                                    "type": "text",
+                                    "content": "4 总结与展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        61,
+                        239,
+                        257,
+                        252
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                239,
+                                257,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        239,
+                                        257,
+                                        252
+                                    ],
+                                    "type": "text",
+                                    "content": "4.1 进一步检验CTS与CTS-R的信效度"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        61,
+                        254,
+                        296,
+                        412
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                254,
+                                296,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        254,
+                                        296,
+                                        412
+                                    ],
+                                    "type": "text",
+                                    "content": "CTS-R并非是对CTS的否定，基于CTS已有的设计与框架，CTS-R进一步明确了量表七点评分的表述，并对部分项目进行了完善、优化和整合。在临床实践中，CTS和CTS-R均被用于评估CBT心理咨询/治疗师的专业胜任力。Kazantzis等人采用CBT治疗抑郁症的过程中，分别使用CTS和CTS-R评估治疗师的CBT专业胜任力，结果发现CTS和CTS-R均可较好预测心理治疗的干预效果[25]。因此，未来的研究需进一步检验CTS与CTS-R在中国文化背景下的信效度。通过对比CTS和CTS-R的测量学指标，为临床工作者提供更为科学可靠的评估工具，用于评估CBT心理咨询/治疗师的专业胜任力。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        61,
+                        416,
+                        268,
+                        429
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                416,
+                                268,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        416,
+                                        268,
+                                        429
+                                    ],
+                                    "type": "text",
+                                    "content": "4.2 不断提高CTS与CTS-R评分的准确性"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        61,
+                        431,
+                        296,
+                        560
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                431,
+                                296,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        431,
+                                        296,
+                                        560
+                                    ],
+                                    "type": "text",
+                                    "content": "无论是CTS还是CTS-R，均主要用于督导师对CBT心理咨询/治疗师的专业胜任力的评估。由于评估者之间存在个体差异性，可能会使评估结果具有主观色彩，表现出评估结果不一致的现象[14]。在未来的临床实践中，可以采用联合评估的方式，将督导师他评与受督者自评相结合。通过比较两份评估结果，帮助CBT心理咨询/治疗师发现，哪些评估项目是他评与自评结果一致的，而哪些评估项目是他评和自评结果不一致的。需要认真分析为何不一致，从而较为全面客观地评估CBT心理咨询/治疗师的专业胜任力。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        61,
+                        565,
+                        236,
+                        576
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                565,
+                                236,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        565,
+                                        236,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "4.3 推广CTS与CTS-R的临床应用"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        61,
+                        580,
+                        296,
+                        767
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                580,
+                                296,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        580,
+                                        296,
+                                        767
+                                    ],
+                                    "type": "text",
+                                    "content": "CTS和CTS-R作为评估CBT心理咨询/治疗师专业胜任力的评估工具，在国外CBT临床督导和专业培训中均被广泛应用。评估CBT心理咨询/治疗师的专业胜任力，可以帮助CBT心理咨询/治疗师充分认识自身的优势与不足，有针对性地提升自身的专业胜任力；与此同时，还可以较好地预测心理咨询/治疗干预效果及CBT专业培训效果。然而，在我国CBT临床督导与专业培训中，却较少使用CTS或CTS-R对CBT心理咨询/治疗师的专业胜任力进行评估。在未来的临床实践中，应大力推广CTS或CTS-R在CBT临床督导与专业培训中的应用。此外，结合我国学历教育的特点，在研究生的课程教学中，也应注重使用CTS或CTS-R评估学生学习和掌握CBT技能的情况，从而更好地培养学生心理咨询/治疗的专业胜任力。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        397,
+                        75,
+                        465,
+                        87
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                397,
+                                75,
+                                465,
+                                87
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        397,
+                                        75,
+                                        465,
+                                        87
+                                    ],
+                                    "type": "text",
+                                    "content": "参考文献"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        314,
+                        89,
+                        547,
+                        765
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 29,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                315,
+                                89,
+                                547,
+                                115
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        89,
+                                        547,
+                                        115
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                89,
+                                                547,
+                                                115
+                                            ],
+                                            "type": "text",
+                                            "content": "1 王铭, 江光荣, 闫玉朋, 等. 我国心理咨询师与治疗师职业资格认证办法. 中国心理卫生杂志, 2015, 29(7): 503-509"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                118,
+                                547,
+                                143
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        118,
+                                        547,
+                                        143
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                118,
+                                                547,
+                                                143
+                                            ],
+                                            "type": "text",
+                                            "content": "2 沈洁, 吴正言. 国内心理治疗师胜任力评估研究述评. 医学与哲学, 2021, 42(12): 50-53"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                146,
+                                547,
+                                171
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        146,
+                                        547,
+                                        171
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                146,
+                                                547,
+                                                171
+                                            ],
+                                            "type": "text",
+                                            "content": "3 张爱莲. 心理健康服务人员核心胜任特征研究. 重庆: 西南大学博士论文, 2011"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                175,
+                                547,
+                                213
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        175,
+                                        547,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                175,
+                                                547,
+                                                213
+                                            ],
+                                            "type": "text",
+                                            "content": "4 Orley J. Collaborative case conceptualization: Working effectively with clients in cognitive-behavioral therapy. New York: Guilford Press, 2009"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                218,
+                                547,
+                                243
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        218,
+                                        547,
+                                        243
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                218,
+                                                547,
+                                                243
+                                            ],
+                                            "type": "text",
+                                            "content": "5 Young J, Beck AT. Cognitive therapy scale rating manual, 1980, from https://www.beckinstitute.org"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                246,
+                                547,
+                                285
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        246,
+                                        547,
+                                        285
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                246,
+                                                547,
+                                                285
+                                            ],
+                                            "type": "text",
+                                            "content": "6 Blackburn IM, James IA, Milne DL, et al. Cognitive therapy scale-revised (CTS-R), 2001, from https://www.researchgate.net/publication/267817288"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                288,
+                                547,
+                                341
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        288,
+                                        547,
+                                        341
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                288,
+                                                547,
+                                                341
+                                            ],
+                                            "type": "text",
+                                            "content": "7 Zhao SS, Richards D, Goodson N. Self- management of depression in axialspondyloarthritis using internet-delivered cognitive behavioural therapy: A feasibility study. Rheumatology, 2021, 60(suppl.1): 176"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                345,
+                                547,
+                                397
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        345,
+                                        547,
+                                        397
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                345,
+                                                547,
+                                                397
+                                            ],
+                                            "type": "text",
+                                            "content": "Silverman WK, Marin CE, Rey Y, et al. Group- versus parent- involvement CBT for childhood anxiety disorders: Treatment specificity and long-term recovery mediation. Clinical Psychological Science, 2019, 7(4): 840-855"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                314,
+                                402,
+                                547,
+                                454
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        402,
+                                        547,
+                                        454
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                402,
+                                                547,
+                                                454
+                                            ],
+                                            "type": "text",
+                                            "content": "9 Guzick AG, McCabe RE, Storch EA. A review of motivational interviewing in cognitive behavioral therapy for obsessive-compulsive disorder. Journal of Cognitive Psychotherapy, 2021, 35(2): 116-132"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                458,
+                                547,
+                                482
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        458,
+                                        547,
+                                        482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                458,
+                                                547,
+                                                482
+                                            ],
+                                            "type": "text",
+                                            "content": "10 邹蕴灵, 陈珏. 认知行为疗法在进食障碍治疗中的应用. 临床精神医学杂志, 2019, 29(3): 214-215"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                486,
+                                547,
+                                552
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        486,
+                                        547,
+                                        552
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                486,
+                                                547,
+                                                552
+                                            ],
+                                            "type": "text",
+                                            "content": "11 Bramoweth AD, Lederer LG, Youk AO, et al. Brief behavioral treatment for insomnia vs. cognitive behavioral therapy for insomnia: Results of a randomized noninferiority clinical trial among veterans science direct. Behavior Therapy, 2020, 51(4): 535-547"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                557,
+                                547,
+                                623
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        557,
+                                        547,
+                                        623
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                557,
+                                                547,
+                                                623
+                                            ],
+                                            "type": "text",
+                                            "content": "12 Weck F, Richtberg S, Esch S, et al. The relationship between therapist competence and homework compliance in maintenance cognitive therapy for recurrent depression: Secondary analysis of a randomized trial. Behavior Therapy, 2013, 44 (1): 162-172"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                627,
+                                547,
+                                680
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        627,
+                                        547,
+                                        680
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                627,
+                                                547,
+                                                680
+                                            ],
+                                            "type": "text",
+                                            "content": "13 Weck F, Grikscheit F, Hofling V, et al. The role of treatment delivery factors in exposure-based cognitive behavioral therapy for panic disorder with agoraphobia. Journal of Anxiety Disorders, 2016, 42: 10-18"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                683,
+                                547,
+                                708
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        683,
+                                        547,
+                                        708
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                683,
+                                                547,
+                                                708
+                                            ],
+                                            "type": "text",
+                                            "content": "14 Sudak, Codd D, Fox R, et al. 认知行为治疗培训与督导. 王建平, 徐谦, 余萌, 译. 北京: 人民卫生出版社, 2019"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                711,
+                                547,
+                                737
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        711,
+                                        547,
+                                        737
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                711,
+                                                547,
+                                                737
+                                            ],
+                                            "type": "text",
+                                            "content": "15 刘研, 马云, 李占江. 认知行为治疗师胜任特征研究进展. 中国健康心理学杂志, 2018, 26(1): 151-155"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                739,
+                                547,
+                                765
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        739,
+                                        547,
+                                        765
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                739,
+                                                547,
+                                                765
+                                            ],
+                                            "type": "text",
+                                            "content": "16 吴垠, 桑志芹. 心理咨询师胜任特征的定性研究. 中国心理卫生杂志, 2010, 24(10): 731-736"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        51,
+                        269,
+                        64
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                51,
+                                269,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        51,
+                                        269,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "中国临床心理学杂志 2022年 第30卷 第4期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        512,
+                        53,
+                        534,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                512,
+                                53,
+                                534,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        512,
+                                        53,
+                                        534,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "787"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 30
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        75,
+                        296,
+                        525
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                75,
+                                296,
+                                102
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        75,
+                                        296,
+                                        102
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                75,
+                                                296,
+                                                102
+                                            ],
+                                            "type": "text",
+                                            "content": "17 樊富珉. 心理咨询师核心能力之我见. 心理学通讯, 2018, 1(3): 177-180"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                103,
+                                296,
+                                157
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        103,
+                                        296,
+                                        157
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                103,
+                                                296,
+                                                157
+                                            ],
+                                            "type": "text",
+                                            "content": "18 Roth AD, Pilling S. The competences required to deliver effective cognitive and behavioural therapy for people with depression and with anxiety disorders. London: Department of Health, 2007"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                160,
+                                296,
+                                201
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        160,
+                                        296,
+                                        201
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                160,
+                                                296,
+                                                201
+                                            ],
+                                            "type": "text",
+                                            "content": "19 Muse K, McManus F. A systematic review of methods for assessing competence in cognitive-behavioural therapy. Clinical Psychology Review, 2013, 33(3): 484-499"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                203,
+                                296,
+                                257
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        203,
+                                        296,
+                                        257
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                203,
+                                                296,
+                                                257
+                                            ],
+                                            "type": "text",
+                                            "content": "20 Anne DS, David CR, Jamie LS. Wanted: Reliable and valid measures for the science of cognitive behavioral therapy dissemination and implementation. Clinical Psychology: Science and Practice, 2013, 20(2): 181-194"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                260,
+                                296,
+                                299
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        260,
+                                        296,
+                                        299
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                260,
+                                                296,
+                                                299
+                                            ],
+                                            "type": "text",
+                                            "content": "21 Kuyken W, Fothergill CD, Musa M, et al. The reliability and quality of cognitive case formulation. Behaviour Research and Therapy, 2005, 43(9): 187-201"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                302,
+                                296,
+                                341
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        302,
+                                        296,
+                                        341
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                302,
+                                                296,
+                                                341
+                                            ],
+                                            "type": "text",
+                                            "content": "22 Reichelt FK, James IA, Blackburn IM. Impact of training on rating competence in cognitive therapy. Journal of Behavior Therapy and Experimental Psychiatry, 2003, 34(2): 87-99"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                345,
+                                296,
+                                383
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        345,
+                                        296,
+                                        383
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                345,
+                                                296,
+                                                383
+                                            ],
+                                            "type": "text",
+                                            "content": "23 McManus F, Keen A, Clark G, et al. Measuring competence in CBT. Paper Presented at the Meeting of the World Conference of Behavioral and Cognitive Therapies, 2010"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                387,
+                                296,
+                                440
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        387,
+                                        296,
+                                        440
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                387,
+                                                296,
+                                                440
+                                            ],
+                                            "type": "text",
+                                            "content": "24 Strunk DR, Brotman MA, DeRubeis RJ, et al. Therapist competence in cognitive therapy for depression: Predicting subsequent symptom change. Journal of Consulting and Clinical Psychology, 2010, 78(3): 429-437"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                444,
+                                296,
+                                511
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        444,
+                                        296,
+                                        511
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                444,
+                                                296,
+                                                511
+                                            ],
+                                            "type": "text",
+                                            "content": "25 Kazantzis N, Clayton X, Cronin TJ, et al. The cognitive therapy scale and cognitive therapy scale—revised as measures of therapist competence in cognitive behavior therapy for depression: Relations with short and long term outcome. Cognitive Therapy and Research, 2018, 42: 385-397"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                514,
+                                296,
+                                525
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        514,
+                                        296,
+                                        525
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                514,
+                                                296,
+                                                525
+                                            ],
+                                            "type": "text",
+                                            "content": "26 Kelleher E, Hayde M, Tone Y, et al. Cognitive-behavioural"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        315,
+                        76,
+                        548,
+                        510
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 22,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                328,
+                                76,
+                                548,
+                                115
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        76,
+                                        548,
+                                        115
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                328,
+                                                76,
+                                                548,
+                                                115
+                                            ],
+                                            "type": "text",
+                                            "content": "therapy by psychiatric trainees: Can a little knowledge be a good thing? British Journal of Psychiatry Bulletin, 2015, 39 (1): 39-44"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                118,
+                                548,
+                                172
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        118,
+                                        548,
+                                        172
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                118,
+                                                548,
+                                                172
+                                            ],
+                                            "type": "text",
+                                            "content": "27 Gudino OG. Improving child and adolescent CBT competence using competency-based supervision. Journal of the American Academy of Child and Adolescent Psychiatry, 2020, 59(10): S80"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                175,
+                                548,
+                                229
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        175,
+                                        548,
+                                        229
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                175,
+                                                548,
+                                                229
+                                            ],
+                                            "type": "text",
+                                            "content": "28 Newman CF. Training cognitive behavioral therapy supervisors: Didactics, simulated practice, and \"mata-supervision\". Journal of Cognitive Psychotherapy: An International Quarterly, 2013, 27(1): 5-18"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                231,
+                                548,
+                                271
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        231,
+                                        548,
+                                        271
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                231,
+                                                548,
+                                                271
+                                            ],
+                                            "type": "text",
+                                            "content": "29 Chevron ES, Rounsaville BJ. Evaluating the clinical skills of psychotherapists: A comparison of techniques. Archives of General Psychiatry, 1983, 40(10): 1129-1132"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                274,
+                                548,
+                                327
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        274,
+                                        548,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                274,
+                                                548,
+                                                327
+                                            ],
+                                            "type": "text",
+                                            "content": "30 Beale S, Vitoratou S, Liness S. An investigation into the factor structure of the cognitive therapy scale- revised (CTS-R) in a CBT training sample. Behavioural and Cognitive Psychotherapy, 2021, 49(6): 1-11"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                330,
+                                548,
+                                370
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        330,
+                                        548,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                330,
+                                                548,
+                                                370
+                                            ],
+                                            "type": "text",
+                                            "content": "31 Branson A, Shafran R, Myles P. Investigating the relationship between competence and patient outcome with CBT. Behaviour Research and Therapy, 2015, 68: 19-26"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                373,
+                                548,
+                                412
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        373,
+                                        548,
+                                        412
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                373,
+                                                548,
+                                                412
+                                            ],
+                                            "type": "text",
+                                            "content": "32 Liness S, Beale S, Lea S, et al. The sustained effects of CBT training on therapist competence and patient outcomes. Cognitive Therapy and Research, 2018, 43: 631-641"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                415,
+                                548,
+                                454
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        415,
+                                        548,
+                                        454
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                415,
+                                                548,
+                                                454
+                                            ],
+                                            "type": "text",
+                                            "content": "33 Liness S, Beale S, Lea S, et al. Multi- professional IAPT CBT training: Clinical competence and patient outcomes. Behavioural and Cognitive Psychotherapy, 2019, 47(6): 1-14"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                458,
+                                548,
+                                510
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        458,
+                                        548,
+                                        510
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                458,
+                                                548,
+                                                510
+                                            ],
+                                            "type": "text",
+                                            "content": "34 McManus F, Westbrook D, Vazquez-Montez M, et al. An evaluation of the effectiveness of diploma-level training in cognitive behavior therapy. Behavior Therapy and Research, 2010, 48(11): 1123-1132"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        449,
+                        514,
+                        547,
+                        524
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                514,
+                                547,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        514,
+                                        547,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "（收稿日期：2021-05-08）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "bbox": [
+                        63,
+                        540,
+                        118,
+                        551
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                540,
+                                118,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        540,
+                                        118,
+                                        551
+                                    ],
+                                    "type": "text",
+                                    "content": "（上接第777页）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "bbox": [
+                        63,
+                        554,
+                        296,
+                        693
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 29,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                554,
+                                296,
+                                594
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        554,
+                                        296,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                554,
+                                                296,
+                                                594
+                                            ],
+                                            "type": "text",
+                                            "content": "21 Pestalozzi J. The symbolic and concrete: Psychotic adolescents in psychoanalytic psychotherapy. The International Journal of Psychoanalysis, 2003, 84(3): 733-753"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                597,
+                                296,
+                                636
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        597,
+                                        296,
+                                        636
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                597,
+                                                296,
+                                                636
+                                            ],
+                                            "type": "text",
+                                            "content": "22 Niedecken D. The primal scene and symbol formation. The International Journal of Psychoanalysis, 2016, 97(3): 665-683"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                640,
+                                296,
+                                679
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        640,
+                                        296,
+                                        679
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                640,
+                                                296,
+                                                679
+                                            ],
+                                            "type": "text",
+                                            "content": "23 Da Rocha Barros EM. Symbolformationandtransformationin-theoryandinpractice. Canadian Journal of Psychoanalysis, 2018, 26(2): 222-237"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                682,
+                                296,
+                                693
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        682,
+                                        296,
+                                        693
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                682,
+                                                296,
+                                                693
+                                            ],
+                                            "type": "text",
+                                            "content": "24 Bion WR. Notes on the theory of schizophrenia. Internation-"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        315,
+                        541,
+                        548,
+                        679
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 36,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                328,
+                                541,
+                                502,
+                                552
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        541,
+                                        502,
+                                        552
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                328,
+                                                541,
+                                                502,
+                                                552
+                                            ],
+                                            "type": "text",
+                                            "content": "al Journal of Psychoanalysis, 1954, 35: 113-118"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                555,
+                                528,
+                                566
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        555,
+                                        528,
+                                        566
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                555,
+                                                528,
+                                                566
+                                            ],
+                                            "type": "text",
+                                            "content": "25瞿明安.象征人类学理论.北京：人民出版社，2014.5"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                569,
+                                548,
+                                594
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        569,
+                                        548,
+                                        594
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                569,
+                                                548,
+                                                594
+                                            ],
+                                            "type": "text",
+                                            "content": "26瞿明安.儒家礼学的象征人类学解释.思想战线，2012,38(3):6-11"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                598,
+                                548,
+                                623
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        598,
+                                        548,
+                                        623
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                598,
+                                                548,
+                                                623
+                                            ],
+                                            "type": "text",
+                                            "content": "27 何星亮. 中国传统文化的象征体系. 中南民族大学学报 (人文社会科学版), 2003, (6): 25-36"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                626,
+                                548,
+                                651
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        626,
+                                        548,
+                                        651
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                626,
+                                                548,
+                                                651
+                                            ],
+                                            "type": "text",
+                                            "content": "28 罗建平. 夜的眼睛----中国梦文化象征. 成都: 四川人民出版社, 2005.35"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                654,
+                                548,
+                                679
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        654,
+                                        548,
+                                        679
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                654,
+                                                548,
+                                                679
+                                            ],
+                                            "type": "text",
+                                            "content": "29 刘达临, 胡宏霞. 云雨阴阳----中国性文化象征. 成都: 四川人民出版社, 2005.169-170"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        449,
+                        683,
+                        547,
+                        693
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                683,
+                                547,
+                                693
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        683,
+                                        547,
+                                        693
+                                    ],
+                                    "type": "text",
+                                    "content": "（收稿日期：2021-05-08）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 37
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        53,
+                        99,
+                        63
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                53,
+                                99,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        53,
+                                        99,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "788·"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        306,
+                        52,
+                        533,
+                        64
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                306,
+                                52,
+                                533,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        306,
+                                        52,
+                                        533,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "Chinese Journal of Clinical Psychology Vol.30 No.4 2022"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        18,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                18,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        18,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 38
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 4
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}
