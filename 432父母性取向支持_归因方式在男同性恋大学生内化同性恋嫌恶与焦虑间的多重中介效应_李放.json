@@ -1,0 +1,4648 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        129,
+                        75,
+                        481,
+                        119
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                129,
+                                75,
+                                481,
+                                119
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        129,
+                                        75,
+                                        481,
+                                        119
+                                    ],
+                                    "type": "text",
+                                    "content": "父母性取向支持、归因方式在男同性恋大学生内化同性恋嫌恶与焦虑间的多重中介效应"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        171,
+                        138,
+                        438,
+                        152
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                171,
+                                138,
+                                438,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        171,
+                                        138,
+                                        438,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "李放1,2，周星霖1,3，王刚1，文岱1，李琦琛1，刘赛凤1"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        156,
+                        154,
+                        454,
+                        167
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                156,
+                                154,
+                                454,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        156,
+                                        154,
+                                        454,
+                                        167
+                                    ],
+                                    "type": "text",
+                                    "content": "(1.四川师范大学心理学院,成都610068;2.四川性社会学与性教育"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        160,
+                        171,
+                        448,
+                        183
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                160,
+                                171,
+                                448,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        160,
+                                        171,
+                                        448,
+                                        183
+                                    ],
+                                    "type": "text",
+                                    "content": "研究中心，成都611730；3. 华南师范大学心理学院，广州510631）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        82,
+                        191,
+                        527,
+                        260
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                191,
+                                527,
+                                260
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        191,
+                                        527,
+                                        260
+                                    ],
+                                    "type": "text",
+                                    "content": "【摘要】目的：考察父母性取向支持、归因方式在男同性恋大学生内化同性恋嫌恶与焦虑间的多重中介机制。方法：选取313名男同性恋大学生，使用内化同性恋嫌恶量表、父母性取向支持量表、归因方式量表、焦虑量表进行测量。结果：男同性恋大学生内化同性恋嫌恶与焦虑呈显著正相关。父母性取向支持在内化同性恋嫌恶与焦虑间存在显著的中介效应，且父母性取向支持与归因方式在内化同性恋嫌恶与焦虑间存在显著的链式中介效应。结论：增强父母的性取向支持和改善自身的归因方式，是缓解高内化同性恋嫌恶男同性恋大学生焦虑水平的有效措施。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        82,
+                        262,
+                        365,
+                        274
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                262,
+                                365,
+                                274
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        262,
+                                        365,
+                                        274
+                                    ],
+                                    "type": "text",
+                                    "content": "【关键词】同性恋；父母性取向支持；归因方式；内化同性恋嫌恶；焦虑"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        83,
+                        282,
+                        164,
+                        294
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                282,
+                                164,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        282,
+                                        164,
+                                        294
+                                    ],
+                                    "type": "text",
+                                    "content": "中图分类号：R395.2"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        317,
+                        282,
+                        487,
+                        294
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                317,
+                                282,
+                                487,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        317,
+                                        282,
+                                        487,
+                                        294
+                                    ],
+                                    "type": "text",
+                                    "content": "DOI: 10.16128/j.cnki.1005-3611.2022.01.012"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        108,
+                        302,
+                        498,
+                        331
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                108,
+                                302,
+                                498,
+                                331
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        108,
+                                        302,
+                                        498,
+                                        331
+                                    ],
+                                    "type": "text",
+                                    "content": "Multiple Mediating Effects of Parental Support for Sexual Orientation and Attribution Style between Internalized Homonegativity and Anxiety in Gay College Students"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        153,
+                        333,
+                        455,
+                        346
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                153,
+                                333,
+                                455,
+                                346
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": "LI Fang"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1,2}"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": ", ZHOU Xing-lin"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1,3}"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": ", WANG Gang"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": ", WEN Dai"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": ", LI Qi-chen"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "text",
+                                    "content": ", LIU Sai-feng"
+                                },
+                                {
+                                    "bbox": [
+                                        153,
+                                        333,
+                                        455,
+                                        346
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        168,
+                        347,
+                        441,
+                        360
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                168,
+                                347,
+                                441,
+                                360
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        168,
+                                        347,
+                                        441,
+                                        360
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{1}"
+                                },
+                                {
+                                    "bbox": [
+                                        168,
+                                        347,
+                                        441,
+                                        360
+                                    ],
+                                    "type": "text",
+                                    "content": "School of Psychology, Sichuan Normal University, Chengdu 610068, China;"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        140,
+                        362,
+                        467,
+                        374
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                140,
+                                362,
+                                467,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        140,
+                                        362,
+                                        467,
+                                        374
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{2}"
+                                },
+                                {
+                                    "bbox": [
+                                        140,
+                                        362,
+                                        467,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "Sichuan Research Centre of Sexual Sociology and Sex Education, Chengdu 611730, China;"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        158,
+                        376,
+                        452,
+                        388
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                158,
+                                376,
+                                452,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        158,
+                                        376,
+                                        452,
+                                        388
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "^{3}"
+                                },
+                                {
+                                    "bbox": [
+                                        158,
+                                        376,
+                                        452,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "School of Psychology, South China Normal University, Guangzhou 510631, China"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        82,
+                        390,
+                        527,
+                        501
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                390,
+                                527,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        390,
+                                        527,
+                                        501
+                                    ],
+                                    "type": "text",
+                                    "content": "【Abstract】Objective: To investigate the multiple mediating mechanisms of parental support for sexual orientation and attribution style between internalized homonegativity and anxiety in gay college students. Methods: 313 gay college students were selected and tested with the internalized homonegativity scale, parental support for sexual orientation scale, attribution style scale and anxiety scale. Results: A positive correlation was existed between the internalized homonegativity and anxiety. There was a significant mediating effect of parental support for sexual orientation between internalized homonegativity and anxiety, and there was a significant chain mediating effect of parental support for sexual orientation and attribution style. Conclusion: Strengthening parental support for sexual orientation and improving their own attribution style are effective measures to alleviate the anxiety of gay college students with high internalized homonegativity."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        82,
+                        504,
+                        496,
+                        516
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                504,
+                                496,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        504,
+                                        496,
+                                        516
+                                    ],
+                                    "type": "text",
+                                    "content": "【Key words】Gay; Parental support for sexual orientation; Attribution style; Internalized homonegativity; Anxiety"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        61,
+                        529,
+                        296,
+                        715
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                529,
+                                296,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        529,
+                                        296,
+                                        715
+                                    ],
+                                    "type": "text",
+                                    "content": "大学生作为国家的栋梁之材，其心理健康一直受到各界高度关注。而在大学生中，存在一个身份隐秘但绝对数量不低的群体——男同性恋者[1]。调查表明，同性恋者心理健康问题出现率显著高于普通人群[2]。焦虑(anxiety)是男同性恋者最典型的心理健康问题之一。研究发现，焦虑是男同性恋者最常诉求于心理治疗的问题之一[3]。男同性恋者患焦虑障碍的可能性是男异性恋者的数倍，且他们比男异性恋者报告了更多不同类型的焦虑症状[4,5]。内化同性恋嫌恶(internalized homonegativity)指同性恋个体内化了外界歧视和偏见后对自己性取向的消极态度[6]。它不仅是同性恋者认同发展的必经过程，"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        312,
+                        529,
+                        548,
+                        604
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                312,
+                                529,
+                                548,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        529,
+                                        548,
+                                        604
+                                    ],
+                                    "type": "text",
+                                    "content": "也是一种在其身上长期存在的心理压力[6,7]。一系列研究揭示内化同性恋嫌恶是导致个体焦虑的关键原因。例如，高内化同性恋嫌恶者有更大概率被诊断为焦虑症[3]。Thies等[8]也发现内化同性恋嫌恶正向预测广泛性焦虑障碍程度。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        312,
+                        607,
+                        548,
+                        762
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                312,
+                                607,
+                                548,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        607,
+                                        548,
+                                        762
+                                    ],
+                                    "type": "text",
+                                    "content": "尽管内化同性恋嫌恶与焦虑的关系得到了现有研究支持，但对其中介机制的探讨还不充分。依据Hatzenbuehler[9]提出的少数压力心理中介模型及李放等[6]提出的内化同性恋嫌恶影响机制模型，内化同性恋嫌恶可通过影响同性恋者接收或感知到的社会支持程度间接影响其心理健康。但这两个理论侧重关注一般性社会支持(针对大众普遍生活问题的社会支持)，较少考察针对同性恋相关问题的社会支持(如对性取向的支持)。而社会支持的匹配理论主张，外界提供的支持要与解决特定问题相关才能发挥"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        77,
+                        53,
+                        96,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                53,
+                                96,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        53,
+                                        96,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "60"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        309,
+                        52,
+                        535,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                309,
+                                52,
+                                535,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        52,
+                                        535,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "Chinese Journal of Clinical Psychology Vol.30 No.1 2022"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        61,
+                        726,
+                        287,
+                        738
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                726,
+                                287,
+                                738
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        726,
+                                        287,
+                                        738
+                                    ],
+                                    "type": "text",
+                                    "content": "【基金项目】 四川性社会学与性教育研究中心项目（SXJYC1803）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "bbox": [
+                        61,
+                        740,
+                        211,
+                        751
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                740,
+                                211,
+                                751
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        740,
+                                        211,
+                                        751
+                                    ],
+                                    "type": "text",
+                                    "content": "通讯作者：李放，Email:lifang_sicnu@126.com"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "bbox": [
+                        61,
+                        753,
+                        168,
+                        764
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                753,
+                                168,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        753,
+                                        168,
+                                        764
+                                    ],
+                                    "type": "text",
+                                    "content": "李放与周星霖为共同第一作者"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        74,
+                        296,
+                        167
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                74,
+                                296,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        74,
+                                        296,
+                                        167
+                                    ],
+                                    "type": "text",
+                                    "content": "最大作用[10]。外界对同性性取向的歧视和偏见是同性恋者生活中面临的主要问题，针对性取向的支持比一般性社会支持更能缓解同性恋者的心理问题[11]。因而考察性取向支持的中介机构不仅能更深入理解内化同性恋嫌恶影响焦虑的过程，还能更有效地对高嫌恶男同性恋大学生的焦虑问题进行干预。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        61,
+                        169,
+                        297,
+                        466
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                169,
+                                297,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        169,
+                                        297,
+                                        466
+                                    ],
+                                    "type": "text",
+                                    "content": "作为一种特定的性取向支持来源，父母性取向支持(parental support for sexual orientation)很值得关注。受儒家文化影响，国人很强调家庭关系的重要性[11]。家庭支持是同性恋者心理健康发展的重要基础[12]。支持性亲子关系可提供同性恋者更多安全感和情感关怀，使其感知更多父母的接纳，保护其免于心理健康问题[13]。然而，受传统家庭观对同性恋否定态度的影响，家庭反而成为国内同性恋人群最强大的压力源之一[14]，家庭对性取向的不支持也成为同性恋者出现心理问题的主要原因。实证研究发现，父母性取向支持显著负向预测焦虑、抑郁等负性心理健康指标[13,15]。而另一方面，高内化同性恋嫌恶者更担忧他人对自身性取向的拒绝，更少公开性取向，这使他们少有机会接受他人给予的性取向支持[16,17]。同时，高嫌恶者还倾向认为他人无法提供有效关怀，从而降低对外界支持的寻求[18,19]，进而拥有更少社会支持。因此本研究推测，父母性取向支持在男同性恋大学生内化同性恋嫌恶与焦虑间起中介作用。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        61,
+                        468,
+                        297,
+                        767
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                468,
+                                297,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        468,
+                                        297,
+                                        767
+                                    ],
+                                    "type": "text",
+                                    "content": "另外，少数压力心理中介模型及内化同性恋嫌恶影响机制模型在探讨社会支持的中介机构时，较忽略社会支持与这些模型提出的其他中介变量（如认知方式）间的关系。例如，少有研究探究社会支持与认知方式在内化同性恋嫌恶与焦虑间的链式中介作用。归因方式(attribution style)是认知方式的一种，指个体对特定事件发生原因的一种习惯性推测[20]。若个体对负性事件习惯采用外部、可变和局部的归因，则归因方式偏积极；反之，若个体对负性事件常采用内部、稳定和全局的归因，则归因方式偏消极[21]。有研究指出，内部、稳定和全局的消极归因方式是导致心理健康问题的重要前因，对青少年的内化问题有极强的预测作用[20]。而依据焦虑/抑郁的无助-无望理论，对生活及未来的失控感和不确定感是引发焦虑的最关键的危险因素，而这种危险因素与消极归因方式直接相关[22]。实证研究也表明归因方式越积极，焦虑程度越低；反之归因方式越消极，焦虑程度越高[23]。另外，社会支持影响个体的归因方式。感知社会支持低者倾向于消极地看待事件"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        313,
+                        74,
+                        548,
+                        230
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                74,
+                                548,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        74,
+                                        548,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "发生的内外部原因，感知社会支持水平高者则倾向于积极地看待事件发生的原因[24]。Mo等[25]认为，社会支持不仅有益于增加个体对负性事件的抵抗力，还有益于增强个体应对负性事件的技能。因此，受到高社会支持的个体很少将消极事件视为不可改变和掌控的，更少出现消极归因。由此推测，父母性取向支持可通过归因方式间接影响焦虑程度。由于前文已说明内化同性恋嫌恶可预测感知父母性取向支持水平，因而本研究推测父母性取向支持与归因方式在内化同性恋嫌恶与焦虑间起链式中介作用。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        313,
+                        240,
+                        388,
+                        254
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                240,
+                                388,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        240,
+                                        388,
+                                        254
+                                    ],
+                                    "type": "text",
+                                    "content": "1 方法"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        313,
+                        265,
+                        385,
+                        277
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                265,
+                                385,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        265,
+                                        385,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "1.1 研究对象"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        313,
+                        280,
+                        548,
+                        514
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                280,
+                                548,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        280,
+                                        548,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "为选取大量身份隐秘的同性恋者，本研究将问卷的链接经人介绍传至同性恋交友软件、贴吧、QQ/微信群等匿名性较好的网络平台，供其自愿填写。为确认被试的性取向和大学生身份，本研究对所有填写问卷者进行回访。目前，学界普遍比较认可在心理学研究中以被试是否认可自己是同性恋作为筛选同性恋者的标准[18,19,26]。其逻辑是，被试只有认可自己是同性恋，才能真正感受到这个身份所带给自己的压力，以及才会出现因这类压力引发的心理效应。共筛选出313名在回访中认可自己是男同性恋的大学生作为有效被试。被试平均年龄为 "
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        280,
+                                        548,
+                                        514
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "20.94 \\pm 2.79"
+                                },
+                                {
+                                    "bbox": [
+                                        313,
+                                        280,
+                                        548,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": " 岁，其中18岁以下有13人，18-22岁有228人，22岁以上有72人。来自师范类院校的102人，理工类院校的117人，综合类院校的37人，其他类院校的57人。来自本科院校的268人，专科类院校45人。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        313,
+                        517,
+                        385,
+                        529
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                517,
+                                385,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        517,
+                                        385,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "1.2 研究工具"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        313,
+                        532,
+                        548,
+                        765
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 13,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                313,
+                                532,
+                                548,
+                                608
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        532,
+                                        548,
+                                        608
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                532,
+                                                548,
+                                                608
+                                            ],
+                                            "type": "text",
+                                            "content": "1.2.1 内化同性恋嫌恶量表 采用李放等[18]修订后的中文版内化同性恋嫌恶问卷，量表包含8个条目，使用1-5五点计分。计算量表总分，总分越高代表内化同性恋嫌恶越高。该量表在本研究中Cronbach'α系数为0.89。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                313,
+                                611,
+                                548,
+                                702
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        611,
+                                        548,
+                                        702
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                611,
+                                                548,
+                                                702
+                                            ],
+                                            "type": "text",
+                                            "content": "1.2.2 父母性取向支持量表 此量表由Mohr和Fassinger[27]编制,Shao等[11]改编,用于考察个体感知到的父母对其性取向的支持程度。此量表分为父亲性取向支持和母亲性取向支持两个因素,各4个条目。量表按6级计分,分数越高表明感知到的支持程度越大。本研究中量表的Cronbach' "
+                                        },
+                                        {
+                                            "bbox": [
+                                                313,
+                                                611,
+                                                548,
+                                                702
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\alpha"
+                                        },
+                                        {
+                                            "bbox": [
+                                                313,
+                                                611,
+                                                548,
+                                                702
+                                            ],
+                                            "type": "text",
+                                            "content": " 系数为0.90。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                313,
+                                705,
+                                548,
+                                765
+                            ],
+                            "type": "text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        705,
+                                        548,
+                                        765
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                705,
+                                                548,
+                                                765
+                                            ],
+                                            "type": "text",
+                                            "content": "1.2.3 归因方式量表 该量表包括6个积极事件和6个消极事件情境，考察被试对这些事件的反应。该量表总共48个题项参与计分，使用1-7计分。用对积极事件反应的得分减去对消极事件反应的得"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "sub_type": "text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        51,
+                        269,
+                        64
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                51,
+                                269,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        51,
+                                        269,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "中国临床心理学杂志 2022年 第30卷 第1期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        515,
+                        53,
+                        533,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                515,
+                                53,
+                                533,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        515,
+                                        53,
+                                        533,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "61"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        74,
+                        295,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                74,
+                                295,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        74,
+                                        295,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "分, 得分越高表明被试越倾向进行积极归因, 得分越低代表被试越倾向进行消极归因[28]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        61,
+                        107,
+                        296,
+                        167
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                107,
+                                296,
+                                167
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        107,
+                                        296,
+                                        167
+                                    ],
+                                    "type": "text",
+                                    "content": "1.2.4 焦虑量表 使用焦虑自评量表的中文修订版测查个体焦虑程度[29]。量表有20个条目，按4点计分，计算量表总分，总分越高表明个体焦虑水平越高。本研究中该量表的Cronbach'α为0.80。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        62,
+                        170,
+                        134,
+                        182
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                62,
+                                170,
+                                134,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        170,
+                                        134,
+                                        182
+                                    ],
+                                    "type": "text",
+                                    "content": "1.3 数据处理"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        61,
+                        186,
+                        296,
+                        214
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                186,
+                                296,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        186,
+                                        296,
+                                        214
+                                    ],
+                                    "type": "text",
+                                    "content": "本研究使用SPSS24.0和AMOS24.0分析数据。使用SPSS24.0进行描述性分析和Pearson相关分析；"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        313,
+                        75,
+                        547,
+                        103
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                75,
+                                547,
+                                103
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        75,
+                                        547,
+                                        103
+                                    ],
+                                    "type": "text",
+                                    "content": "使用 AMOS24.0 进行验证性因素分析, 并构建结构方程模型进行中介效应分析。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        313,
+                        115,
+                        388,
+                        128
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                115,
+                                388,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        115,
+                                        388,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "2 结果"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        313,
+                        139,
+                        448,
+                        151
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                139,
+                                448,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        139,
+                                        448,
+                                        151
+                                    ],
+                                    "type": "text",
+                                    "content": "2.1 描述性分析和相关分析"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        312,
+                        154,
+                        548,
+                        215
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                312,
+                                154,
+                                548,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        154,
+                                        548,
+                                        215
+                                    ],
+                                    "type": "text",
+                                    "content": "表1列出了各变量的描述性统计以及Pearson相关分析结果。结果表明，内化同性恋嫌恶与焦虑呈显著正相关，且内化同性恋嫌恶、父母性取向支持、归因方式与焦虑两两间均呈显著相关。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        62,
+                        239,
+                        548,
+                        319
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                62,
+                                239,
+                                548,
+                                319
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        239,
+                                        548,
+                                        319
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                239,
+                                                548,
+                                                319
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td></td><td>M</td><td>SD</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr><tr><td>1.年龄</td><td>20.94</td><td>2.79</td><td>-</td><td></td><td></td><td></td><td></td></tr><tr><td>2.内化同性恋嫌恶</td><td>16.88</td><td>7.60</td><td>0.09</td><td>-</td><td></td><td></td><td></td></tr><tr><td>3.父母性取向支持</td><td>27.28</td><td>11.01</td><td>0.06</td><td>-0.46***</td><td>-</td><td></td><td></td></tr><tr><td>4.归因方式</td><td>1.98</td><td>2.73</td><td>0.03</td><td>-0.16**</td><td>0.19**</td><td>-</td><td></td></tr><tr><td>5.焦虑</td><td>37.22</td><td>9.08</td><td>-0.10</td><td>0.19**</td><td>-0.23***</td><td>-0.31***</td><td>-</td></tr></table>",
+                                            "image_path": "41fb66488a481c7e0b5ad79813f1bdfe44482bd25f1f2354260ac87aed45f586.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                232,
+                                227,
+                                376,
+                                238
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        232,
+                                        227,
+                                        376,
+                                        238
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                232,
+                                                227,
+                                                376,
+                                                238
+                                            ],
+                                            "type": "text",
+                                            "content": "表 1 变量的描述性分析和相关分析"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                321,
+                                165,
+                                332
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        321,
+                                        165,
+                                        332
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                321,
+                                                165,
+                                                332
+                                            ],
+                                            "type": "text",
+                                            "content": "注：\\*\\*P<0.01，\\*\\*\\*P<0.001。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "table_footnote"
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        61,
+                        344,
+                        290,
+                        356
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                344,
+                                290,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        344,
+                                        290,
+                                        356
+                                    ],
+                                    "type": "text",
+                                    "content": "2.2 父母性取向支持与归因方式的中介效应检验"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        61,
+                        360,
+                        296,
+                        577
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                360,
+                                296,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "text",
+                                    "content": "本研究在进行中介效应检验前，设置一个部分中介模型(模型1，设置内化同性恋嫌恶直接预测焦虑的路径)和一个完全中介模型(模型2，不设置内化同性恋嫌恶直接预测焦虑的路径)进行比较。依据前文假设，本研究在两个模型中均设置“内化同性恋嫌恶-父母性取向支持-焦虑”以及“内化同性恋嫌恶-父母性取向支持-归因方式-焦虑”这两条中介路径。结果显示，模型1拟合指标为 "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\chi^2 / df = 3.24"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "text",
+                                    "content": "，TLI=0.95，CFI=0.98，RMSEA=0.09，模型2拟合指标为 "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\chi^2 / df = 2.93"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "text",
+                                    "content": "，TLI=0.96，CFI=0.98，RMSEA=0.08。两模型指标的 "
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\Delta \\chi^2 = 2.00 (\\Delta df = 1)"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "text",
+                                    "content": "，"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "P > 0.05"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        360,
+                                        296,
+                                        577
+                                    ],
+                                    "type": "text",
+                                    "content": "，表明两模型指标差异不显著。因模型1中内化同性恋嫌恶不能显著直接预测焦虑，同时根据简洁性标准，选择模型2为最终模型(见图1)。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        76,
+                        587,
+                        272,
+                        677
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                76,
+                                587,
+                                272,
+                                677
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        587,
+                                        272,
+                                        677
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                587,
+                                                272,
+                                                677
+                                            ],
+                                            "type": "image",
+                                            "image_path": "b4e816b184a96b604860471091b9703ec48d31887c8a90ed0bc24a892ecf6dec.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "angle": 0,
+                            "type": "image_body"
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                714,
+                                287,
+                                725
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        714,
+                                        287,
+                                        725
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                714,
+                                                287,
+                                                725
+                                            ],
+                                            "type": "text",
+                                            "content": "图1 父母性取向支持与归因方式的多重中介作用模型"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17,
+                            "angle": 0,
+                            "type": "image_caption"
+                        },
+                        {
+                            "bbox": [
+                                73,
+                                685,
+                                283,
+                                711
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        685,
+                                        283,
+                                        711
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                73,
+                                                685,
+                                                283,
+                                                711
+                                            ],
+                                            "type": "text",
+                                            "content": "注：父母性取向支持包括父亲性取向支持和母亲性取向支持两个指标。出于简洁，此模型图不呈现指标。"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "angle": 0,
+                            "type": "image_footnote"
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        61,
+                        735,
+                        296,
+                        765
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                735,
+                                296,
+                                765
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        735,
+                                        296,
+                                        765
+                                    ],
+                                    "type": "text",
+                                    "content": "最终模型显示，内化同性恋嫌恶显著负向预测父母性取向支持，父母性取向支持显著负向预测焦"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        312,
+                        343,
+                        548,
+                        467
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                312,
+                                343,
+                                548,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        343,
+                                        548,
+                                        467
+                                    ],
+                                    "type": "text",
+                                    "content": "虑, 说明父母性取向支持在内化同性恋嫌恶与焦虑间起中介作用。另外, 父母性取向支持显著正向预测归因方式, 归因方式显著负向预测焦虑水平, 说明父母性取向支持与归因方式在内化同性恋嫌恶与焦虑间存在链式中介作用。使用偏差校正百分位bootstrap法对上述中介效应进行检验(重复抽样1000次)。结果表明, 所有中介效应的置信区间均不包含0(见表2), 因而上述中介作用均显著。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        314,
+                        491,
+                        548,
+                        550
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                314,
+                                491,
+                                548,
+                                550
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        314,
+                                        491,
+                                        548,
+                                        550
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                314,
+                                                491,
+                                                548,
+                                                550
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>中介路径</td><td>中介效应\n估计值</td><td>95%置信区间</td></tr><tr><td>内化同性恋嫌恶-父母性取向支持-焦虑</td><td>0.09</td><td>[0.03, 0.16]</td></tr><tr><td>内化同性恋嫌恶-父母性取向支持-归因方式-焦虑</td><td>0.03</td><td>[0.02, 0.07]</td></tr></table>",
+                                            "image_path": "9cf5319f26f2dbc63af45949cdc20940301b0c5d67c6f7bdc4e43fa68ddb335c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21,
+                            "angle": 0,
+                            "type": "table_body"
+                        },
+                        {
+                            "bbox": [
+                                361,
+                                478,
+                                500,
+                                489
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        361,
+                                        478,
+                                        500,
+                                        489
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                361,
+                                                478,
+                                                500,
+                                                489
+                                            ],
+                                            "type": "text",
+                                            "content": "表2 各中介效应的bootstrap检验"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "angle": 0,
+                            "type": "table_caption"
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "bbox": [
+                        313,
+                        557,
+                        388,
+                        571
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                557,
+                                388,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        557,
+                                        388,
+                                        571
+                                    ],
+                                    "type": "text",
+                                    "content": "3 讨论"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "bbox": [
+                        312,
+                        581,
+                        548,
+                        768
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                312,
+                                581,
+                                548,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        312,
+                                        581,
+                                        548,
+                                        768
+                                    ],
+                                    "type": "text",
+                                    "content": "本研究发现，父母性取向支持在男同性恋大学生内化同性恋嫌恶与焦虑间起中介作用。此结果一定程度上延伸了少数压力心理中介模型及内化同性恋嫌恶影响机制模型的观点[6,9]，即性取向支持和一般性社会支持都能成为内化同性恋嫌恶和心理健康间的中介变量。家庭是国内同性恋者最强的压力源之一[14]，而内化同性恋嫌恶会加重男同性恋者对偏见的敏感度，增加对家庭施加压力的预期。高嫌恶男同性恋大学生认为与父母谈论性取向会遭到反对和不理解。他们很难向父母公开谈论自身性取向，也不相信父母能真正意义上理解和接纳其性取向，从而很难寻求和感受到父母的性取向支持[16,18]。而"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 23
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        77,
+                        53,
+                        96,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                53,
+                                96,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        53,
+                                        96,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "62"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        309,
+                        52,
+                        535,
+                        63
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                309,
+                                52,
+                                535,
+                                63
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        309,
+                                        52,
+                                        535,
+                                        63
+                                    ],
+                                    "type": "text",
+                                    "content": "Chinese Journal of Clinical Psychology Vol.30 No.1 2022"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 24
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        61,
+                        74,
+                        296,
+                        198
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                74,
+                                296,
+                                198
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        74,
+                                        296,
+                                        198
+                                    ],
+                                    "type": "text",
+                                    "content": "良好的亲子关系和性取向支持对国内男同性恋者均是特别重要的资源[11]。缺少父母性取向支持，男同性恋大学生可能对自己的未来更加迷茫，在处理与性取向相关事件时更没有方向感，从而更加焦虑。本研究提示对于高内化同性恋嫌恶的男大学生，增强其父母对同性恋现象的理解和接纳，使其敢于向父母寻求并感受到关于性取向的支持，是改善其焦虑非常重要的途径。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        61,
+                        201,
+                        297,
+                        403
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                201,
+                                297,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        201,
+                                        297,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "另外，本研究还证实父母性取向支持与归因方式在内化同性恋嫌恶与焦虑间存在链式中介效应。此结果同样扩充了少数压力心理中介模型及内化同性恋嫌恶影响机制模型的观点[6,9]，即内化同性恋嫌恶还能通过社会支持和认知方式的相互作用去影响心理健康。内化同性恋嫌恶导致男同性恋大学生无法获得足够父母性取向支持，会降低个体面对压力的抵抗力和应对技能[25]，这使他们在面对压力时有很强的自卑感和无力感。他们会认为自己的遭遇都是由于自己不好，自己无法改变这种现状，也无法增加生活的确定感，最终形成持续的消极归因。一旦采用消极归因，强烈的失控感会使他们更担忧自己的生活，变得更加焦虑[1]。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        144,
+                        411,
+                        214,
+                        422
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                144,
+                                411,
+                                214,
+                                422
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        144,
+                                        411,
+                                        214,
+                                        422
+                                    ],
+                                    "type": "text",
+                                    "content": "参考文献"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        62,
+                        425,
+                        296,
+                        764
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                425,
+                                296,
+                                465
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        425,
+                                        296,
+                                        465
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                425,
+                                                296,
+                                                465
+                                            ],
+                                            "type": "text",
+                                            "content": "1 周杰, 李放, 刘小丹, 吴庭钰. 男同性恋大学生拒绝预期与焦虑的关系: 多重中介作用分析. 中国临床心理学杂志, 2021, 29(1): 152-155"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                468,
+                                296,
+                                523
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        468,
+                                        296,
+                                        523
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                468,
+                                                296,
+                                                523
+                                            ],
+                                            "type": "text",
+                                            "content": "2 Pachankis JE, Sullivan TJ, Feinstein BA, et al. Young adult gay and bisexual men's stigma experiences and mental health: An 8- year longitudinal study. Developmental Psychology, 2018, 54(7): 1381-1393"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                525,
+                                296,
+                                578
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        525,
+                                        296,
+                                        578
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                525,
+                                                296,
+                                                578
+                                            ],
+                                            "type": "text",
+                                            "content": "3 Griffin JA, Drescher CF, Eldridge ED, et al. Predictors of anxiety among sexual minority individuals in the Southern US. American Journal of Orthopsychiatry, 2018, 88(6): 723-731"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                582,
+                                296,
+                                636
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        582,
+                                        296,
+                                        636
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                582,
+                                                296,
+                                                636
+                                            ],
+                                            "type": "text",
+                                            "content": "4 Bostwick W, Boyd CJ, Hughes TL, et al. Dimensions of sexual orientation and the prevalence of mood and anxiety disorders in the United States. American Journal of Public Health, 2010, 100(3): 468-475"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                639,
+                                296,
+                                692
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        639,
+                                        296,
+                                        692
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                639,
+                                                296,
+                                                692
+                                            ],
+                                            "type": "text",
+                                            "content": "5 Pachankis JE, Bernstein LB. An etiological model of anxiety in young gay men: From early stress to public self-consciousness. Psychology of Men & Masculinity, 2012, 13 (2): 107-112"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                696,
+                                296,
+                                721
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        696,
+                                        296,
+                                        721
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                696,
+                                                296,
+                                                721
+                                            ],
+                                            "type": "text",
+                                            "content": "6 李放, 王一博, 邢锦涛, 等. 同性恋者的内化同性恋嫌恶: 形成及影响机制. 心理科学, 2018, 41(6): 1470-1476"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                725,
+                                296,
+                                764
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        725,
+                                        296,
+                                        764
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                62,
+                                                725,
+                                                296,
+                                                764
+                                            ],
+                                            "type": "text",
+                                            "content": "7 Meyer IH. Prejudice, social stress, and mental health in lesbian, gay, and bisexual populations. Psychological Bulletin, 2003, 129(5): 674-697"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        313,
+                        76,
+                        548,
+                        751
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 26,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                313,
+                                76,
+                                548,
+                                144
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        76,
+                                        548,
+                                        144
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                313,
+                                                76,
+                                                548,
+                                                144
+                                            ],
+                                            "type": "text",
+                                            "content": "8 Thies KE, Starks TJ, Denmark FL, et al. Internalized homonegativity and relationship quality in same-sex romantic couples: A test of mental health mechanisms and gender as a moderator. Psychology of Sexual Orientation and Gender Diversity, 2016, 3(3): 325-335"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                147,
+                                548,
+                                187
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        147,
+                                        548,
+                                        187
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                147,
+                                                548,
+                                                187
+                                            ],
+                                            "type": "text",
+                                            "content": "9 Hatzenbuehler ML. How does sexual minority stigma \"get under the skin\"? A psychological mediation framework. Psychological Bulletin, 2009, 135(5): 707-730"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                189,
+                                548,
+                                215
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        189,
+                                        548,
+                                        215
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                189,
+                                                548,
+                                                215
+                                            ],
+                                            "type": "text",
+                                            "content": "10 Cohen S, Wills TA. Stress, social support, and the buffering hypothesis. Psychological Bulletin, 1985, 98(2): 310-357"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                218,
+                                548,
+                                271
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        218,
+                                        548,
+                                        271
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                218,
+                                                548,
+                                                271
+                                            ],
+                                            "type": "text",
+                                            "content": "11 Shao J, Chang ES, Chen C. The relative importance of parent-child dynamics and minority stress on the psychological adjustment of LGBs in China. Journal of Counseling Psychology, 2018, 65(5): 598-604"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                274,
+                                548,
+                                327
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        274,
+                                        548,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                274,
+                                                548,
+                                                327
+                                            ],
+                                            "type": "text",
+                                            "content": "12 McConnell EA, Birkett M, Mustanski B. Families matter: Social support and mental health trajectories among lesbian, gay, bisexual, and transgender youth. Journal of Adolescent Health, 2016, 59(6): 674-680"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                331,
+                                548,
+                                397
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        331,
+                                        548,
+                                        397
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                331,
+                                                548,
+                                                397
+                                            ],
+                                            "type": "text",
+                                            "content": "13 Feinstein BA, Wadsworth LP, Davila J, et al. Do parental acceptance and family support moderate associations between dimensions of minority stress and depressive symptoms among lesbians and gay men?. Professional Psychology: Research and Practice, 2014, 45(4):239-246"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                401,
+                                548,
+                                439
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        401,
+                                        548,
+                                        439
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                401,
+                                                548,
+                                                439
+                                            ],
+                                            "type": "text",
+                                            "content": "14 张严文, 刘拓. 父母消极教养方式对中国性少数心理健康的影响: 基于 Bifactor 模型. 心理科学, 2020, 43(5): 1103-1110"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                443,
+                                548,
+                                482
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        443,
+                                        548,
+                                        482
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                443,
+                                                548,
+                                                482
+                                            ],
+                                            "type": "text",
+                                            "content": "15 Doty ND, Willoughby BL, Lindahl KM, et al. Sexuality related social support among lesbian, gay, and bisexual youth. Journal of Youth and Adolescence, 2010, 39(10): 1134-1147"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                486,
+                                548,
+                                539
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        486,
+                                        548,
+                                        539
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                486,
+                                                548,
+                                                539
+                                            ],
+                                            "type": "text",
+                                            "content": "16 Puckett JA, Woodward EN, Mereish EH, et al. Parental rejection following sexual orientation disclosure: Impact on internalized homophobia, social support, and mental health. LGBT Health, 2015, 2(3): 265-269"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                543,
+                                548,
+                                595
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        543,
+                                        548,
+                                        595
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                543,
+                                                548,
+                                                595
+                                            ],
+                                            "type": "text",
+                                            "content": "17 Ryan WS, Legate N, Weinstein N, et al. Autonomy support fosters lesbian, gay, and bisexual identity disclosure and wellness, especially for those with internalized homophobia. Journal of Social Issues, 2017, 73(2): 289-306"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                599,
+                                548,
+                                637
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        599,
+                                        548,
+                                        637
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                599,
+                                                548,
+                                                637
+                                            ],
+                                            "type": "text",
+                                            "content": "18 李放, 郑雪, 麦晓浩, 等. 年轻男同性恋者内化同性恋嫌恶与主观幸福感的关系: 自尊与孤独感的中介效应. 心理科学, 2014, 37(5): 1204-1211"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                641,
+                                548,
+                                695
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        641,
+                                        548,
+                                        695
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                641,
+                                                548,
+                                                695
+                                            ],
+                                            "type": "text",
+                                            "content": "19 Szymanski DM, Carr ER. The roles of gender role conflict and internalized heterosexism in gay and bisexual men's psychological distress: Testing two mediation models. Psychology of Men & Masculinity, 2008, 9(1): 40-54"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                698,
+                                548,
+                                751
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        698,
+                                        548,
+                                        751
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                698,
+                                                548,
+                                                751
+                                            ],
+                                            "type": "text",
+                                            "content": "20 Scaini S, Caputi M, Ogliari A, et al. The relationship among attributional style, mentalization, and five anxiety phenotypes in school-age children. Journal of Research in Childhood Education, 2020, 34(4): 551-565"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        495,
+                        753,
+                        547,
+                        764
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                495,
+                                753,
+                                547,
+                                764
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        495,
+                                        753,
+                                        547,
+                                        764
+                                    ],
+                                    "type": "text",
+                                    "content": "（下转第67页）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        51,
+                        269,
+                        64
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                51,
+                                269,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        51,
+                                        269,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "中国临床心理学杂志 2022年 第30卷 第1期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        515,
+                        53,
+                        533,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                515,
+                                53,
+                                533,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        515,
+                                        53,
+                                        533,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "63"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        75,
+                        296,
+                        533
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 14,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                76,
+                                75,
+                                296,
+                                114
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        75,
+                                        296,
+                                        114
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                76,
+                                                75,
+                                                296,
+                                                114
+                                            ],
+                                            "type": "text",
+                                            "content": "mobile phone addiction? The mediating role of social anxiety and interpersonal sensitivity. Psychiatry Research, 2019, 271: 526-531"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                118,
+                                296,
+                                142
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        118,
+                                        296,
+                                        142
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                118,
+                                                296,
+                                                142
+                                            ],
+                                            "type": "text",
+                                            "content": "6 Erikson EH. Childhood and society. New York: Norton, 1950. 474-475"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                146,
+                                296,
+                                184
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        146,
+                                        296,
+                                        184
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                146,
+                                                296,
+                                                184
+                                            ],
+                                            "type": "text",
+                                            "content": "7 Cacioppo JT, Cacioppo S, Cole SW, et al. Loneliness across phylogeny and a call for comparative studies and animal models. Perspect Psych, 2015, 10(2): 202-212"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                187,
+                                296,
+                                239
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        187,
+                                        296,
+                                        239
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                187,
+                                                296,
+                                                239
+                                            ],
+                                            "type": "text",
+                                            "content": "8 American Psychiatric Association(APA). Diagnostic and statistical manual of mental disorders, 5th edition(DSM-5). Arlington, VA: American Psychiatric Publishing, 2013. 202-203"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                243,
+                                296,
+                                281
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        243,
+                                        296,
+                                        281
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                243,
+                                                296,
+                                                281
+                                            ],
+                                            "type": "text",
+                                            "content": "9 黄凤, 郭锋, 丁倩, 等. 社交焦虑对大学生手机成瘾的影响: 认知失败和情绪调节自我效能感的作用. 中国临床心理学杂志, 2021, 29(1): 56-59+13"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                285,
+                                296,
+                                324
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        285,
+                                        296,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                285,
+                                                296,
+                                                324
+                                            ],
+                                            "type": "text",
+                                            "content": "10 Baker TB, Piper ME, McCarthy DE, et al. Addiction motivation reformulated: An affective processing model of negative reinforcement. Psychological Review, 2004, 111(1): 33-51"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                327,
+                                296,
+                                392
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        327,
+                                        296,
+                                        392
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                327,
+                                                296,
+                                                392
+                                            ],
+                                            "type": "text",
+                                            "content": "11 Weidman AC, Levinson CA. I'm still socially anxious online: Offline relationship impairment characterizing social anxiety manifests and is accurately perceived in online social networking profiles. Computers in Human Behavior, 2015, 49 (8): 12-19"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                396,
+                                296,
+                                421
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        396,
+                                        296,
+                                        421
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                396,
+                                                296,
+                                                421
+                                            ],
+                                            "type": "text",
+                                            "content": "12 邓林园, 方晓义, 万晶晶, 等. 大学生心理需求及其满足与网络成瘾的关系. 心理科学, 2012, (1): 123-128"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                424,
+                                296,
+                                448
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        424,
+                                        296,
+                                        448
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                424,
+                                                296,
+                                                448
+                                            ],
+                                            "type": "text",
+                                            "content": "13 刘平. UCLA孤独量表.增刊.中国心理卫生杂志，1999.284-287"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                451,
+                                296,
+                                490
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        451,
+                                        296,
+                                        490
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                451,
+                                                296,
+                                                490
+                                            ],
+                                            "type": "text",
+                                            "content": "14 彭纯子, 龚耀先, 朱熊兆. 交往焦虑量表的信效度及其在中国大学生中的适用性. 中国心理卫生杂志, 2004, (1): 39-41"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                493,
+                                296,
+                                519
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        493,
+                                        296,
+                                        519
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                493,
+                                                296,
+                                                519
+                                            ],
+                                            "type": "text",
+                                            "content": "15 熊婕, 周宗奎, 陈武, 等. 大学生手机成瘾倾向量表的编制. 中国心理卫生杂志, 2012, 26(3): 222-225"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                521,
+                                296,
+                                533
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        521,
+                                        296,
+                                        533
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                521,
+                                                296,
+                                                533
+                                            ],
+                                            "type": "text",
+                                            "content": "16 何安明, 王晨淇, 惠秋平. 大学生孤独感与手机依赖的关"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        63,
+                        544,
+                        114,
+                        555
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                544,
+                                114,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        544,
+                                        114,
+                                        555
+                                    ],
+                                    "type": "text",
+                                    "content": "（上接第63页）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        63,
+                        558,
+                        296,
+                        766
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 21,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                558,
+                                296,
+                                597
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        558,
+                                        296,
+                                        597
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                558,
+                                                296,
+                                                597
+                                            ],
+                                            "type": "text",
+                                            "content": "21 Higgins NC, Hay JL. Attributional style predicts causes of negative life events on the attributional style questionnaire. The Journal of Social Psychology, 2003, 143(2): 253-271"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                600,
+                                296,
+                                653
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        600,
+                                        296,
+                                        653
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                600,
+                                                296,
+                                                653
+                                            ],
+                                            "type": "text",
+                                            "content": "22 Schleider JL, Vélez CE, Krause ED, et al. Perceived psychological control and anxiety in early adolescents: The mediating role of attributional style. Cognitive Therapy and Research, 2014, 38(1): 71-81"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                656,
+                                296,
+                                708
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        656,
+                                        296,
+                                        708
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                656,
+                                                296,
+                                                708
+                                            ],
+                                            "type": "text",
+                                            "content": "23 Mark G, Smith AP. Effects of occupational stress, job characteristics, coping, and attributional style on the mental health and job satisfaction of university employees. Anxiety, Stress & Coping, 2012, 25(1): 63-78"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                711,
+                                296,
+                                750
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        711,
+                                        296,
+                                        750
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                711,
+                                                296,
+                                                750
+                                            ],
+                                            "type": "text",
+                                            "content": "24 李承宗, 刘玉琳, 韩仁生. 中学生领悟社会支持, 考试归因与学习倦怠的关系研究. 教学与管理: 理论版, 2012, 21: 77-78"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                63,
+                                755,
+                                296,
+                                766
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        755,
+                                        296,
+                                        766
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                755,
+                                                296,
+                                                766
+                                            ],
+                                            "type": "text",
+                                            "content": "25 Mo PKH, Lau JTF, Yu X, et al. The role of social support on"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        315,
+                        75,
+                        547,
+                        505
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 31,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                327,
+                                75,
+                                547,
+                                100
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        75,
+                                        547,
+                                        100
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                327,
+                                                75,
+                                                547,
+                                                100
+                                            ],
+                                            "type": "text",
+                                            "content": "系: 消极应对方式的中介和调节作用. 中国临床心理学杂志, 2018, 26(6): 1222-1225"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                316,
+                                104,
+                                547,
+                                142
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        104,
+                                        547,
+                                        142
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                316,
+                                                104,
+                                                547,
+                                                142
+                                            ],
+                                            "type": "text",
+                                            "content": "17 Lim MH, Rodebaugh TL, Zyphur MJ, et al. Loneliness over time: The crucial role of social anxiety. Journal of Abnormal Psychology, 2016, 125(5): 620"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                316,
+                                146,
+                                547,
+                                198
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        146,
+                                        547,
+                                        198
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                316,
+                                                146,
+                                                547,
+                                                198
+                                            ],
+                                            "type": "text",
+                                            "content": "18 Danneel S, Geukens F, Maes M, et al. Loneliness, social anxiety symptoms, and depressive symptoms in adolescence: Longitudinal distinctiveness and correlated change. Journal of Youth and Adolescence, 2020, 49(11): 2246-2264"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                316,
+                                201,
+                                547,
+                                240
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        316,
+                                        201,
+                                        547,
+                                        240
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                316,
+                                                201,
+                                                547,
+                                                240
+                                            ],
+                                            "type": "text",
+                                            "content": "19 李辞, 曹建琴, 李甜甜, 等. 社交焦虑障碍大学生对愤怒、厌恶面孔的注意偏向成分分析. 中华行为医学与脑科学杂志, 2019, (4): 337-342"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                243,
+                                547,
+                                294
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        243,
+                                        547,
+                                        294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                243,
+                                                547,
+                                                294
+                                            ],
+                                            "type": "text",
+                                            "content": "20 Kim JH. Longitudinal associations among psychological issues and problematic use of smartphones: A two-wave cross-lagged study. Journal of Media Psychology, 2017, 31(3): 117-127"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                299,
+                                547,
+                                351
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        299,
+                                        547,
+                                        351
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                299,
+                                                547,
+                                                351
+                                            ],
+                                            "type": "text",
+                                            "content": "21 Kardefelt-Winther, Daniel. A conceptual and methodological critique of internet addiction research: Towards a model of compensatory internet use. Computers in Human Behavior, 2014, 31(31): 351-354"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                355,
+                                547,
+                                407
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        355,
+                                        547,
+                                        407
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                355,
+                                                547,
+                                                407
+                                            ],
+                                            "type": "text",
+                                            "content": "22 Olivares-Olivares PJ, Ortiz-Gonzalez PF, Olivares J. Role of social skills training in adolescents with social anxiety disorder. International Journal of Clinical and Health Psychology, 2019, 19(1): 41-48"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                410,
+                                547,
+                                449
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        410,
+                                        547,
+                                        449
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                410,
+                                                547,
+                                                449
+                                            ],
+                                            "type": "text",
+                                            "content": "23 连帅磊, 冯全升, 闫景蕾, 等. 手机成瘾、非理性拖延与抑郁、焦虑的关系: 正念的保护性作用. 中国临床心理学杂志, 2021, 29(1): 51-55+18"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                452,
+                                547,
+                                505
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        452,
+                                        547,
+                                        505
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                452,
+                                                547,
+                                                505
+                                            ],
+                                            "type": "text",
+                                            "content": "24 Biliunaite I, Kazlauskas E, Sanderman R, et al. Internet-based cognitive behavioral therapy for informal caregivers: Randomized controlled pilot trial. Journal of Medical Internet Research, 2021, 23(4): e21466"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        449,
+                        507,
+                        547,
+                        519
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                507,
+                                547,
+                                519
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        507,
+                                        547,
+                                        519
+                                    ],
+                                    "type": "text",
+                                    "content": "（收稿日期：2020-11-24）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "bbox": [
+                        315,
+                        546,
+                        547,
+                        737
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 38,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                328,
+                                546,
+                                547,
+                                585
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        328,
+                                        546,
+                                        547,
+                                        585
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                328,
+                                                546,
+                                                547,
+                                                585
+                                            ],
+                                            "type": "text",
+                                            "content": "resilience, posttraumatic growth, hopelessness, and depression among children of HIV- infected parents in mainland China. Aids Care, 2014, 26(12): 1526-1533"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                587,
+                                547,
+                                626
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        587,
+                                        547,
+                                        626
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                587,
+                                                547,
+                                                626
+                                            ],
+                                            "type": "text",
+                                            "content": "26 张严文, 叶宝娟, 郑清, 等. 责任性对同性恋者生活满意度的影响: 有调节的中介效应. 中国临床心理学杂志, 2016, 24(5): 921-924"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                629,
+                                547,
+                                682
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        629,
+                                        547,
+                                        682
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                629,
+                                                547,
+                                                682
+                                            ],
+                                            "type": "text",
+                                            "content": "27 Mohr JJ, Fassinger RE. Self-acceptance and self-disclosure of sexual orientation in lesbian, gay, and bisexual adults: An attachment perspective. Journal of Counseling Psychology, 2003, 50(4): 482-495"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                684,
+                                547,
+                                709
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        684,
+                                        547,
+                                        709
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                684,
+                                                547,
+                                                709
+                                            ],
+                                            "type": "text",
+                                            "content": "28杜学礼.归因风格及情绪对组织公正感形成的影响.华东师范大学，2009"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                315,
+                                712,
+                                547,
+                                737
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        315,
+                                        712,
+                                        547,
+                                        737
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                315,
+                                                712,
+                                                547,
+                                                737
+                                            ],
+                                            "type": "text",
+                                            "content": "29 汪向东, 王希林, 马弘. 心理卫生评定手册 (增订版). 北京: 中国心理卫生杂志社, 1999"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 37
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        449,
+                        740,
+                        547,
+                        751
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                740,
+                                547,
+                                751
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        740,
+                                        547,
+                                        751
+                                    ],
+                                    "type": "text",
+                                    "content": "（收稿日期：2020-12-13）"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 39
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        76,
+                        51,
+                        269,
+                        64
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                51,
+                                269,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        51,
+                                        269,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "中国临床心理学杂志 2022年 第30卷 第1期"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        515,
+                        53,
+                        533,
+                        62
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                515,
+                                53,
+                                533,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        515,
+                                        53,
+                                        533,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "67"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        17,
+                        794,
+                        497,
+                        806
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                794,
+                                497,
+                                806
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        794,
+                                        497,
+                                        806
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2022 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 40
+                }
+            ],
+            "page_size": [
+                612,
+                824
+            ],
+            "page_idx": 4
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}

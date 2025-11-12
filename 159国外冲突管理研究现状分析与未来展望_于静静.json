@@ -1,0 +1,4552 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        64,
+                        116,
+                        529,
+                        144
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                116,
+                                529,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        116,
+                                        529,
+                                        144
+                                    ],
+                                    "type": "text",
+                                    "content": "国外冲突管理研究现状分析与未来展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        217,
+                        159,
+                        374,
+                        176
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                159,
+                                374,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        159,
+                                        374,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "于静静<sup>1</sup>, 蒋守芬<sup>1</sup>, 赵曙明<sup>2</sup>"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        124,
+                        189,
+                        465,
+                        201
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                124,
+                                189,
+                                465,
+                                201
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        189,
+                                        465,
+                                        201
+                                    ],
+                                    "type": "text",
+                                    "content": "(1.山东大学（威海）商学院，山东威海264209；2.南京大学商学院，江苏南京210093)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        73,
+                        234,
+                        518,
+                        275
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                73,
+                                234,
+                                518,
+                                275
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        234,
+                                        518,
+                                        275
+                                    ],
+                                    "type": "text",
+                                    "content": "摘要工作场所冲突对组织具有积极和消极的双重功效，如何进行有效的冲突管理是管理者的基本职能之一。本文首先对冲突管理进行了概念界定，然后对当前国外冲突管理的概念、影响因素及结果变量进行了系统的文献梳理及评析，最后指出了现有相关研究所存在的不足，并对未来冲突管理研究的发展趋势进行了简要展望。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        96,
+                        278,
+                        427,
+                        290
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                278,
+                                427,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        278,
+                                        427,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "关键词 冲突管理; 合作的冲突管理行为; 竞争的冲突管理行为; 回避的冲突管理行为"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        96,
+                        291,
+                        165,
+                        303
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                291,
+                                165,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        291,
+                                        165,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "[中图分类号]C93"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        195,
+                        291,
+                        254,
+                        303
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                195,
+                                291,
+                                254,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        195,
+                                        291,
+                                        254,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "文献标识码A"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        283,
+                        291,
+                        452,
+                        303
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                283,
+                                291,
+                                452,
+                                303
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        283,
+                                        291,
+                                        452,
+                                        303
+                                    ],
+                                    "type": "text",
+                                    "content": "[文章编号]1003-8353(2017)08-0120-08"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        96,
+                        309,
+                        285,
+                        320
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                96,
+                                309,
+                                285,
+                                320
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        96,
+                                        309,
+                                        285,
+                                        320
+                                    ],
+                                    "type": "text",
+                                    "content": "DOI:10.15981/j.cnki.dongyueluncong.2017.08.017"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        263,
+                        328,
+                        329,
+                        344
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                263,
+                                328,
+                                329,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        263,
+                                        328,
+                                        329,
+                                        344
+                                    ],
+                                    "type": "text",
+                                    "content": "一、前言"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        63,
+                        353,
+                        529,
+                        603
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                353,
+                                529,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        353,
+                                        529,
+                                        603
+                                    ],
+                                    "type": "text",
+                                    "content": "几十年来，心理学和组织行为学的学者们对工作场所冲突的积极和消极性功效进行了深入的探讨。一方面，冲突与学习、高水平创造力、创新紧密相联，因而冲突能够提高群体决策的质量，增加团队的总体效能。一些学者在探讨冲突的积极性作用时发现，在与冲突相关的问题中，与任务相关的问题和有关人际关系的问题相比，能够产生更加积极的功效（Amason,1996）①。另一些学者则探讨了可感知的冲突情境及冲突管理方式所带来的积极功效，发现可感知的合作式的目标相互依存性和有建设性意义的争论，与可感知的竞争性的目标相互依存性及缺少有建设性意义的争论相比，能够产生更多的积极功效（Tjosvold,2010）②。以上研究表明，工作场所冲突是相当可取的，在可能情况下应该受到欢迎并不断得到激发。George和Jones（2005）更是指出，目前关于冲突的观点是，既然冲突是不可避免的，如果对冲突进行精心管理和谈判，则冲突能够提高组织绩效③。另一方面，冲突能够产生较高的时间和经济成本，这些成本则被分摊到特定的个体、团队及组织中。DeDreu（2008）通过研究发现，工作场所的冲突由于占用了组织中的时间和其他资源，会产生类似不能及时完成工作任务，减少对顾客的关注以及失去瞬时商业机会的现象；整合性的冲突管理虽有益于谈判各方，但往往以参与者的花费为代价；冲突是充满压力的，伴随着思维的刻板、身心的抱怨及倦怠感④。鉴于冲突对个体、团队、组织的积极和消极功效，如何进行有效的冲突管理对组织而言是非常重要的。本文从冲突管理的概念、影响因素及作用结果等方面对国外有关冲突管理的最新研究进展进行了系统梳理和述评，并对目前研究不足及未来研究进行了展望。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        85,
+                        623,
+                        498,
+                        634
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                623,
+                                498,
+                                634
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        623,
+                                        498,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "基金项目]国家自然科学基金委项目“我国转型经济下企业劳资冲突的发生机制及对策研究”（71172063）。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        63,
+                        635,
+                        526,
+                        661
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                635,
+                                526,
+                                661
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        635,
+                                        526,
+                                        661
+                                    ],
+                                    "type": "text",
+                                    "content": "[作者简介]于静静（1976-），女，山东大学（威海）商学院讲师；蒋守芬（1978-），男，山东大学（威海）商学院讲师；赵曙明（1950-），男，南京大学商学院名誉院长，南京大学特聘教授、博士生导师。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        64,
+                        58,
+                        336,
+                        71
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                58,
+                                336,
+                                71
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        58,
+                                        336,
+                                        71
+                                    ],
+                                    "type": "text",
+                                    "content": "东岳论丛 Aug.,2017 Vol.38 No.8 2017年8月(第38卷/第8期)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        449,
+                        60,
+                        525,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                60,
+                                525,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        60,
+                                        525,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "(Dong Yue Tribune)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        77,
+                        74,
+                        138,
+                        85
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                74,
+                                138,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        74,
+                                        138,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "管理学研究"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        63,
+                        664,
+                        530,
+                        688
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                664,
+                                530,
+                                688
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        664,
+                                        530,
+                                        688
+                                    ],
+                                    "type": "text",
+                                    "content": "①Amason, A. C. Distinguishing the effects of functional and dysfunctional conflict on strategic decisionmaking: Resolving a paradox for top management groups. Academy of Management Journal, 1996, 39."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "bbox": [
+                        63,
+                        691,
+                        528,
+                        715
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                691,
+                                528,
+                                715
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        691,
+                                        528,
+                                        715
+                                    ],
+                                    "type": "text",
+                                    "content": "②Tjosvold D,et al. Conflict management for justice,innovation,and strategic advantage in organizational relationships. Journal of Applied Social Psychology,2010,40(3)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        77,
+                        718,
+                        415,
+                        729
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                718,
+                                415,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        718,
+                                        415,
+                                        729
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "③"
+                                },
+                                {
+                                    "bbox": [
+                                        77,
+                                        718,
+                                        415,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": " George,J M,Jones,G R. Organizational behavior(3rd ed.).New York:Prentice Hall,2005."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "bbox": [
+                        63,
+                        731,
+                        528,
+                        756
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                731,
+                                528,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        731,
+                                        528,
+                                        756
+                                    ],
+                                    "type": "text",
+                                    "content": "④ De Dreu, C K W. The virtue and vice of workplace conflict: food for (pessimistic) thought. Journal of Organizational Behavior, 2008, 29(1)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "bbox": [
+                        71,
+                        763,
+                        88,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                763,
+                                88,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        763,
+                                        88,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "120"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        496,
+                        823
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                496,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        496,
+                                        823
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        221,
+                        89,
+                        371,
+                        106
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                221,
+                                89,
+                                371,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        221,
+                                        89,
+                                        371,
+                                        106
+                                    ],
+                                    "type": "text",
+                                    "content": "二、冲突管理的概念内涵"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        63,
+                        114,
+                        530,
+                        502
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                114,
+                                530,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        114,
+                                        530,
+                                        502
+                                    ],
+                                    "type": "text",
+                                    "content": "西方经典冲突管理理论主要建立在Blake和Mouton提出的管理方格理论基础之上。该理论依据关心维度，将横坐标定义为“对人的关心”，纵坐标定义为“对生产的关心”，提出五种冲突管理模式：问题解决（problem-solving）、调和（smoothing）、强制（forcing）、退让（withdrawal）和合作（sharing）。Rahim(1995)，Thomas和Kilmann（1974）在管理方格理论的基础上，对该模型作了进一步的发展，认为当冲突发生后，冲突双方有两种可能的反应：关心自己和关心他人。其中“关心自己”表示在追求个人利益过程中的独裁程度“关心他人”表示在追求个人利益过程中的合作程度，从而用五种冲突处理模式描绘了组织工作团队中存在的冲突管理，分别为回避、迁就、竞争、合作和妥协的冲突管理模式（avoid-ance,accommodation,competition,collaboration,compromise）。回避的冲突管理行为以闪烁其词，不能面对他方为特征，总的来说人们对冲突的观点和结果表现比较淡漠。迁就的冲突管理行为以为他人考虑为主要特征，愿意将他人利益放在自己利益之上。竞争的冲突管理行为只考虑一方利益而不考虑其他人的利益。这种行为包括信息独享、竞争及对其他解决方案持负面态度，其典型表现为一方对其他人的权力支配。合作的冲突管理行为表现为试图将所有人的利益整合在一起，这种行为强调对其他人观点的开放性，客观考虑所有信息，共同努力解决问题，达到一个共同的最佳解决方案。妥协的冲突管理行为表现为将自己和他人观点进行折衷，双方承认优势差异，然后共同找出一个双方都可以接受的方案。在Thomas和Kilmann（1974）的冲突管理理论的基础之上，大量学者依据研究领域和角度的不同，或者仅关注五种冲突管理模式中的若干种，而对冲突管理模式、风格和策略进行了广泛而深入的探讨。如Tjosvold等将冲突管理划分为三种类型：合作、竞争和回避的冲突管理方式。Behfar等（2008）通过对57个自治团队的定性分析，对不同的冲突管理方式、团队绩效和满意度之间的关系进行检测，研究表明，提高或保持团队绩效，有三种冲突管理方式：注重人际交往的内容而不是方式，在接受和分配工作任务时进行明确的商讨再行决策，将工作指派给相关专业人员而不是一般人员，比如志愿者、弃权者或方便者①。Song（2011）探讨了在虚拟制造组织中建立广泛的冲突管理机制来保持合作关系的稳定性。这个冲突管理机制将不同类型的冲突转换成每一位合作伙伴所预期的成本和利润，极大地简化了不同类型的冲突管理过程。为了支持这个冲突管理机制，专门为各个地区的合作伙伴设计了一个整合各个分散信息系统的数据库。这个数据库包括如下功能：例如动态成本规划、审计，合作伙伴属性，冲突分析和解决，利益分享管理，依靠信息系统的发展，将一些人工技能嵌入到问题解决方案中去②。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        63,
+                        505,
+                        529,
+                        645
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                505,
+                                529,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        505,
+                                        529,
+                                        645
+                                    ],
+                                    "type": "text",
+                                    "content": "以上关于冲突管理的概念是建立在冲突主体双方的范围之上，而当冲突双方不能有效地解决冲突问题时，第三方则被引入。组织领导者的第三方角色从外部机构的第三方到在冲突中保持中立（例如，外部调解员，机构监察员）而区分为三种形式。精神分析学家Horney（1945,1950）描述了人们在面对冲突时的三种行为倾向：赞同他人（moving toward others），反对他人（moving against others），回避他人（moving away from others.）。例如，内向性是问题解决（moving toward others）和强制行为（moving against others）的结合。Karambayya,Brett和Lytle(1992)采用独裁（moving against）或调和（moving toward）行为来处理冲突双方的问题，力图赢得冲突各方的关注，并激励他们寻求问题的解决方案。另外，领导者在面对有威胁感的冲突时，会力图寻求回避式的行为以免介入到冲突中去③。因此，Pinkley及其同事(1995)将领导者的回避行为（moving away）加入到领导者的第三方冲突管理行为中去④。Romer等"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        348,
+                        60,
+                        528,
+                        74
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                348,
+                                60,
+                                528,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        348,
+                                        60,
+                                        528,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "国外冲突管理研究现状分析与未来展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        63,
+                        656,
+                        530,
+                        681
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                656,
+                                530,
+                                681
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        656,
+                                        530,
+                                        681
+                                    ],
+                                    "type": "text",
+                                    "content": "① Behfar, K J, et al. The critical role of conflict resolution in teams: a close look at the links between conflict type, conflict management strategies, and team outcomes. Journal of Applied Psychology, 2008, 93(1)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        64,
+                        682,
+                        529,
+                        706
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                682,
+                                529,
+                                706
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        682,
+                                        529,
+                                        706
+                                    ],
+                                    "type": "text",
+                                    "content": "②Song, L. A. Framework of conflict management system for the Virtual Manufacturing Environment. Advanced Materials Research, 2011."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        63,
+                        708,
+                        528,
+                        732
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                708,
+                                528,
+                                732
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        708,
+                                        528,
+                                        732
+                                    ],
+                                    "type": "text",
+                                    "content": "③ Karambayya, R J, et al. Effects of formal authority and experience on third-party role, outcomes, and perception of fairness. The Academy of Management Journal, 1992, 35(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        63,
+                        733,
+                        528,
+                        756
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                733,
+                                528,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        733,
+                                        528,
+                                        756
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "④"
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        733,
+                                        528,
+                                        756
+                                    ],
+                                    "type": "text",
+                                    "content": " Pinkley, R L, et al. Managerial third - party dispute intervention: An inductive analysis of intervenor strategy selection. Journal of Applied Psychology, 1995, 80(3)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        506,
+                        763,
+                        522,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                506,
+                                763,
+                                522,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        506,
+                                        763,
+                                        522,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "121"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        824
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        824
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        83,
+                        529,
+                        160
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                83,
+                                529,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        83,
+                                        529,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "(2012) 在探讨领导者的第三方冲突管理行为在员工冲突和压力之间的调节作用时指出, 领导者的第三方冲突管理行为包括问题解决（problem resolving）、强制（forcing）及回避行为（avoiding）。其中“问题解决”是指积极寻找一个能够满足各方需求的解决方案“强制”是指领导者对争议方所偏好的解决方案施加影响, 或者推动任一解决方案直到纠纷终止; “回避”是指领导选择不介入到冲突中去。组织中的冲突很可能会增加员工压力, 因为他们能够减少员工的自尊, 降低员工对周围环境的控制感。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        221,
+                        169,
+                        371,
+                        185
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                221,
+                                169,
+                                371,
+                                185
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        221,
+                                        169,
+                                        371,
+                                        185
+                                    ],
+                                    "type": "text",
+                                    "content": "三、冲突管理的影响因素"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        63,
+                        193,
+                        529,
+                        238
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                193,
+                                529,
+                                238
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        193,
+                                        529,
+                                        238
+                                    ],
+                                    "type": "text",
+                                    "content": "对冲突管理影响因素的探讨涉及以下问题的回答：为什么要对工作场所冲突进行管理？在什么情境下需要对工作场所冲突进行管理？如何对工作场所冲突进行管理？本部分主要从组织因素、领导因素、个体因素三个方面对相关研究进行梳理。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        85,
+                        241,
+                        141,
+                        253
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                241,
+                                141,
+                                253
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        241,
+                                        141,
+                                        253
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 组织因素"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        63,
+                        256,
+                        528,
+                        285
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                256,
+                                528,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        256,
+                                        528,
+                                        285
+                                    ],
+                                    "type": "text",
+                                    "content": "现有研究主要从组织层级、组织公平、组织学习、组织文化等四个方面分析了组织相关因素与冲突管理之间的关系。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        63,
+                        287,
+                        529,
+                        490
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                287,
+                                529,
+                                490
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        287,
+                                        529,
+                                        490
+                                    ],
+                                    "type": "text",
+                                    "content": "组织层级是组织的基本特征之一，根据组织层级进行冲突管理风格的辨识有利于组织人员的培训和组织发展。Blake and Mouton（1964）研究了组织中八个不同层级的冲突管理风格，自下而上涉及基层主管和董事会主席。研究之初为每个经理估算了一个“管理绩效商数”，经理的管理风格则由团队进行一致性商讨得出。通过研究发现，对冲突采用合作和竞争管理风格的经理从低管理绩效商数不断显著增加到高管理绩效商数；而采取妥协、迁就和回避的冲突管理风格的经理其管理绩效商数呈下降趋势②。因此得出一个结论，组织层级与独断风格，如竞争风格而不是合作风格的冲突管理显著正相关，组织层级与非独断风格如迁就的而非回避的冲突管理显著负相关。由于前面的研究采用小样本研究，且样本均局限于地区公司的团队组织，并且考虑的组织层级较少，Thomas等（2008）提供了一个更加详细的检验，以验证冲突管理模式会随组织层级和性别而变化。研究结果表明，在较高的组织层级上，独裁的（竞争和合作）的冲突管理会增加，而谦和（回避和迁就）的冲突管理会减少。妥协的冲突管理模式与组织层级呈现出曲线关系，在最高和最低组织层级上的冲突管理均会减少。在性别方面，男性在竞争的冲突管理模式上得分最高，没有证据表明男性和女性在较高的组织层级上的冲突管理风格趋同③。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        63,
+                        491,
+                        529,
+                        615
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                491,
+                                529,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        491,
+                                        529,
+                                        615
+                                    ],
+                                    "type": "text",
+                                    "content": "组织中的管理者期望创建一个成员能够感受到公平、关心和开放的组织系统。因而关注公平和公平对待对组织战略及决策制定非常重要。如果不关注组织公平就会导致冲突的发生以及组织功能失调。冲突会产生情绪成本。这些情绪成本包括发怒,持续不断地抨击竞争者或经常性为一个失去的机会而自责。如果管理者能更多地关注“组织公平”,则情绪成本会不断减少。Giacomantonio等（2011）对意大利公共服务部门的员工进行的实证研究表明,可感知的领导者公平是进行冲突管理的有效方式,认知闭合性调节二者之间的关系④。Bozac和Angeleski（2008）等认为组织中应该将情感冲突减少到最低,刺激和保持一定数量的认知冲突,并采取合适的冲突管理方式⑤。Tatum和Eberlin（2008）检验了组织公平与冲突管理之间的关系,实证结果表明,对组织公平问题敏感的经理在面对与员工的冲突时更可"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        64,
+                        59,
+                        337,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                59,
+                                337,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        59,
+                                        337,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "东岳论丛 Aug., 2017 Vol. 38 No. 8 2017年8月(第38卷/第8期)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        449,
+                        60,
+                        525,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                60,
+                                525,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        60,
+                                        525,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "(Dong Yue Tribune)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        63,
+                        637,
+                        528,
+                        661
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                637,
+                                528,
+                                661
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        637,
+                                        528,
+                                        661
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "①"
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        637,
+                                        528,
+                                        661
+                                    ],
+                                    "type": "text",
+                                    "content": " Romer.M,et al.AHelping Hand?TheModerating Role of Leaders’Conflict Management Behavior on the Conflict- Stress RelationshipofEmployees.NegotiationJournal,2012,8(3)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        82,
+                        664,
+                        337,
+                        676
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                664,
+                                337,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        664,
+                                        337,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "②Blake,R,Mouton,J S. The managerial grid. Houston, TX: Gulf, 1964."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        64,
+                        678,
+                        530,
+                        702
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                678,
+                                530,
+                                702
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        678,
+                                        530,
+                                        702
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "③"
+                                },
+                                {
+                                    "bbox": [
+                                        64,
+                                        678,
+                                        530,
+                                        702
+                                    ],
+                                    "type": "text",
+                                    "content": " Thomas K W,et al. Conflict styles of men and women at six organization levels. International Journal of Conflict Management,2008,19(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        63,
+                        704,
+                        528,
+                        729
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                704,
+                                528,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        704,
+                                        528,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": "④Giacomantonio, M, et al. Leaders' fairness and followers' conflict handling style: The moderating role of need for cognitive closure. International Journal of Conflict Management, 2011, 22(4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        63,
+                        732,
+                        528,
+                        756
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                732,
+                                528,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        732,
+                                        528,
+                                        756
+                                    ],
+                                    "type": "text",
+                                    "content": "⑤Bozac, M. G., Angeleski, I. Ctheoric paradigm and a macrostrategic approach. *Ekonomska Istrazivanja*. Economic Research, 2008, 21(4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        71,
+                        763,
+                        88,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                763,
+                                88,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        763,
+                                        88,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "122"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        823
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        823
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        83,
+                        529,
+                        129
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                83,
+                                529,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        83,
+                                        529,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "能意识到潜在的冲突，那么这个经理在解决冲突时最可能和最有益的方法就是合作。相反，对组织公平问题不敏感的经理更加关注程序而不是公平或过程的开放性。在一个潜存的高冲突的情境中，不关心组织公平的经理会倾向于寻求竞争或支配性的冲突解决策略①。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        63,
+                        131,
+                        529,
+                        225
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                131,
+                                529,
+                                225
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        131,
+                                        529,
+                                        225
+                                    ],
+                                    "type": "text",
+                                    "content": "组织学习是进行有效冲突管理和提高组织效能的关键因素，组织学习与冲突管理之间的关系值得进行深入探讨。彼得·圣吉及其同事从系统论的角度描绘了学习型组织，在学习型组织中，企业培养员工创造性地学习系统思考的能力，教会员工正确识别可能与其他人、团队、部门发生冲突的原因，如何快速而有技巧地进行协商和平衡，改变冲突双方原先阐释问题和解决问题的方式。同时，学习型组织可以增强员工的自信，这种自信源于个体对自身和组织价值的清晰解析。公司通过为员工界定本公司的使命和价值观，使员工学会评价自身行为对他人产生的影响，意识到潜在的冲突，避免情绪冲突。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        63,
+                        227,
+                        529,
+                        431
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                227,
+                                529,
+                                431
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        227,
+                                        529,
+                                        431
+                                    ],
+                                    "type": "text",
+                                    "content": "文化背景、传统价值观及社会制度在冲突管理方面也扮演着非常重要的角色。Ting（1991）提出了文化与冲突的关系理论，从文化价值差异的角度研究文化价值与冲突管理之间的关系。该研究以霍尔的高低语境理论为基础，探讨环境对冲突管理行为的影响。高语境是指在传播信息时，绝大部分信息或存于物质语境中，或内化在个人身上，极少存在于编码清晰的被传递的讯息中。低语境传播正好相反，即将大量的信息置于清晰的编码中。研究结果表明，低语境中的人更倾向于采取对立和直接冲突的态度，而高语境中的人更愿意采取非对立的和非直接冲突的态度②。Tepper, Moss 和 Duffy（2011）指出，主管所感知到的关系冲突源自于主管与员工之间深层的差异性，这种差异性会引起对员工绩效的较低的评估，最终产生高水平的辱虐管理③。Fitzpatrick（2007）等通过跨学科的文献研究整理发现，价值观一致性培育了合作，从而形成积极的冲突管理方法④。Komarraju 等（2008）检验了横向和纵向的个体主义-集体主义在冲突管理模式中的作用。个体主义导向（纵向、横向）的个体比较关注满足个体需要，因此与利他或回避的冲突管理方式相比，更易选择强制或支配型的冲突管理方式；集体主义导向（纵向、横向）的个体更可能为群体利益牺牲个体利益而选择整合的冲突管理方式。而且，横向的集体主义者更可能偏好利他方式而纵向的集体主义者更偏好回避的冲突管理方式⑤。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        84,
+                        433,
+                        141,
+                        446
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                433,
+                                141,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        433,
+                                        141,
+                                        446
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 领导因素"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        63,
+                        449,
+                        530,
+                        576
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                449,
+                                530,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        449,
+                                        530,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "Altmaee等（2013）以Thomas-Kilmann的冲突管理模式及Fiedler的领导风格理论为基础，从理论和数据两个角度对冲突管理模式及领导风格二者之间的关系进行了分析。研究表明，根据Fiedler的领导风格理论，任务导向的领导者与支配性的冲突管理模式相比，更倾向于采用竞争的冲突管理模式，而关系导向的领导者更倾向于迁就的冲突管理模式。同时还检验了个体特征的影响，研究发现，年轻的经理更多的是任务导向型而年龄较大的经理则是典型的关系导向型，在进行冲突管理时更易倾向于回避式，男性与女性经理相比，更易倾向于迁就的冲突管理模式，有趣的是女性更易采用竞争的冲突管理模式⑥。该研究创新性地对Thomas-Kilmann的冲突管理模式及Fiedler的领导风格之间的关系进行了深入探讨。Doucet等(2009)探讨了管理者领导风格（变革型，交易型，放任型领导）对工作场所冲突（认"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        348,
+                        60,
+                        528,
+                        74
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                348,
+                                60,
+                                528,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        348,
+                                        60,
+                                        528,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "国外冲突管理研究现状分析与未来展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        64,
+                        596,
+                        528,
+                        622
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                596,
+                                528,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        596,
+                                        528,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "①Tatum B C, Eberlin R J. The relationship between organizational justice and conflict style. Business Strategy Series, 2008, 9 (6)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        64,
+                        624,
+                        529,
+                        649
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                624,
+                                529,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        624,
+                                        529,
+                                        649
+                                    ],
+                                    "type": "text",
+                                    "content": "② Ting-Toomey S,et al. Culture,face maintenance,and styles of handling interpersonal conflict: A study in five cultures. International Journal of Conflict Management,1991,2(4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        63,
+                        650,
+                        528,
+                        676
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                650,
+                                528,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        650,
+                                        528,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "③ Tepper, et al. Predictors of abusive supervision: Supervisor perceptions of deep - level dissimilarity, relationship conflict, and subordinate performance. Academy of Management Journal, 2011, 54(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        63,
+                        677,
+                        528,
+                        703
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                677,
+                                528,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        677,
+                                        528,
+                                        703
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "④"
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        677,
+                                        528,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": " Fitzpatrick, R L. A literature review exploring values alignment as a proactive approach to conflict management. International Journal of Conflict Management, 2007, 18(3-4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        63,
+                        704,
+                        528,
+                        729
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                704,
+                                528,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        704,
+                                        528,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": "⑤ Komarraju M, et al. Individualism - collectivism in horizontal and vertical directions as predictors of conflict management styles. International Journal of Conflict Management, 2008, 19(1), 20-35."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        63,
+                        731,
+                        528,
+                        757
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                731,
+                                528,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        731,
+                                        528,
+                                        757
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "⑥"
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        731,
+                                        528,
+                                        757
+                                    ],
+                                    "type": "text",
+                                    "content": " Altmae,S,et al. Thomas - Kilmann's Conflict Management Modes and their Relationship to Fiedler's Leadership Styles (basing on Estonian organizations). Baltic Journal of Management,2012,8(1)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        506,
+                        763,
+                        523,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                506,
+                                763,
+                                523,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        506,
+                                        763,
+                                        523,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "123"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        824
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        824
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        83,
+                        529,
+                        145
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                83,
+                                529,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        83,
+                                        529,
+                                        145
+                                    ],
+                                    "type": "text",
+                                    "content": "知、关系冲突)的层次及性质的影响效应。研究结果显示，两种冲突的产生机制完全不同，八个领导风格维度中只有两个对两种冲突具有影响效应。另一方面，激励动机对认知冲突具有负向效应而智力激励和过度的消极冲突管理似乎能够培养认知冲突。激励动机和个性化考虑对关系冲突具有负向影响，而过度的积极管理和过度的消极管理对关系冲突具有正向影响①。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        84,
+                        148,
+                        141,
+                        160
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                148,
+                                141,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        148,
+                                        141,
+                                        160
+                                    ],
+                                    "type": "text",
+                                    "content": "3. 个体因素"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        63,
+                        163,
+                        529,
+                        415
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                163,
+                                529,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        163,
+                                        529,
+                                        415
+                                    ],
+                                    "type": "text",
+                                    "content": "个体由于在情绪智力、性别、角色偏好等个体心理特征及人口统计特征方面的不同，在进行冲突管理时也会选择不同的处理方式。如Shih和Susanto（2010）以印度尼西亚地方政府为研究对象，检验了情绪智力和冲突管理模式、工作绩效之间的关系。研究证实，情绪智力是整合和妥协的冲突管理模式的前因变量，而且验证了整合的冲突管理模式对工作绩效的直接效应。同时发现，整合的冲突管理模式部分中介于情绪智力和工作绩效之间的关系②。Desivilya和Yagil（2005）等检验了团队成员的情绪反应及感知到的冲突类型这两个前因变量对冲突解决模式的影响，研究结果表明，合作的（整合、妥协）冲突管理模式与团队内的积极情绪状态显著相关；争议（支配）的冲突管理模式与团队内的正、负向情绪显著相关，回避的冲突管理模式仅与负向情绪相关。另外，负向情绪中介于关系冲突与支配性的冲突管理③。Benharda等(2013)认为，当女性在组织冲突解决中充当第三方角色时，他们由于缺少冲突双方的权威，他们最终会促成一种结果，既能为冲突当事人所接受，又能满足组织利益。而男性在这方面则不如女性，他们在充当第三方角色时，更具有权威性。该结果归因于女性在充当第三方角色时更倾向于回避，而男性在充当第三方角色时通常扮演代理行为的角色④。Aritzeta等（2005）检验了个人团队角色偏好与人际冲突管理之间的关系，研究结果表明，个人团队角色偏好与支配、整合、回避、妥协和迁就的冲突管理风格密切相关。时间压力和团队学习调节团队角色和冲突管理风格之间的关系⑤。Morrison等（2008）以密西西比南部的三家健康服务中心的94名护理人员为样本，对情绪智力与冲突管理风格进行了检验。结果表明，高的情绪智力与合作的冲突管理方式正相关，与迁就的冲突管理方式显著负相关⑥。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        63,
+                        417,
+                        529,
+                        480
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                417,
+                                529,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        417,
+                                        529,
+                                        480
+                                    ],
+                                    "type": "text",
+                                    "content": "综上所述，现有研究对冲突管理影响因素的分析主要侧重于组织因素、领导因素和个体因素等研究角度，其中组织因素和领导因素从人们对周围环境的感知方面总结了冲突管理发生的原因，个体因素表明，冲突管理需要从个体间的心理过程差异入手，虽然冲突的归因并不在一个层次上，但不同影响因素之间是可以相互作用和相互影响的。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        221,
+                        488,
+                        371,
+                        504
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                221,
+                                488,
+                                371,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        221,
+                                        488,
+                                        371,
+                                        504
+                                    ],
+                                    "type": "text",
+                                    "content": "四、冲突管理的影响结果"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        63,
+                        513,
+                        529,
+                        543
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                513,
+                                529,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        513,
+                                        529,
+                                        543
+                                    ],
+                                    "type": "text",
+                                    "content": "对冲突管理影响结果的研究相比对其影响因素的探讨较少，现有相关研究表明，冲突管理会对组织绩效、创新、公平及员工情绪带来积极或消极的影响。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        85,
+                        545,
+                        224,
+                        558
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                545,
+                                224,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        545,
+                                        224,
+                                        558
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 冲突管理对组织绩效的影响"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        84,
+                        560,
+                        528,
+                        575
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                560,
+                                528,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        560,
+                                        528,
+                                        575
+                                    ],
+                                    "type": "text",
+                                    "content": "组织在制定具体决策时，职能经理会通过采用不同的冲突处理方式，来表达他们自己的观点及展示"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        64,
+                        59,
+                        337,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                59,
+                                337,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        59,
+                                        337,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "东岳论丛 Aug.,2017 Vol.38 No.8 2017年8月(第38卷/第8期)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        449,
+                        60,
+                        525,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                60,
+                                525,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        60,
+                                        525,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "(Dong Yue Tribune)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        64,
+                        597,
+                        528,
+                        622
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                597,
+                                528,
+                                622
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        597,
+                                        528,
+                                        622
+                                    ],
+                                    "type": "text",
+                                    "content": "① Doucet O, et al. The impacts of leadership on workplace conflicts. International Journal of Conflict Management, 2009, 20 (4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        64,
+                        624,
+                        528,
+                        649
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                624,
+                                528,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        624,
+                                        528,
+                                        649
+                                    ],
+                                    "type": "text",
+                                    "content": "②Shih H-A and E Susanto. Conflict management styles, emotional intelligence, and job performance in public organizations. International Journal of Conflict Management, 2010, 21(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        64,
+                        650,
+                        529,
+                        676
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                650,
+                                529,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        650,
+                                        529,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "③Desivilya H S and Yagil D. The role of emotions in conflict management: The case of work teams. International Journal of Conflict Management,2005,16(1)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        64,
+                        677,
+                        529,
+                        703
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                677,
+                                529,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        677,
+                                        529,
+                                        703
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "④"
+                                },
+                                {
+                                    "bbox": [
+                                        64,
+                                        677,
+                                        529,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": " Benharda I,et al. Gender and role in conflict management: Female and male managers as third parties. Negotiation and Conflict Management Research,2013,6(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        64,
+                        705,
+                        528,
+                        729
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                705,
+                                528,
+                                729
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        705,
+                                        528,
+                                        729
+                                    ],
+                                    "type": "text",
+                                    "content": "⑤Aritzeta A, et al. Team role preference and conflict management styles. International Journal of Conflict Management, 2005, 16(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        64,
+                        732,
+                        529,
+                        756
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                732,
+                                529,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        732,
+                                        529,
+                                        756
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "⑥"
+                                },
+                                {
+                                    "bbox": [
+                                        64,
+                                        732,
+                                        529,
+                                        756
+                                    ],
+                                    "type": "text",
+                                    "content": " Morrison J. The relationship between emotional intelligence competencies and preferred conflict - handling styles. Journal of Nursing Management,2008,16(8)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        71,
+                        763,
+                        88,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                763,
+                                88,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        763,
+                                        88,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "124"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        824
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        824
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        83,
+                        530,
+                        514
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                83,
+                                530,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        83,
+                                        530,
+                                        514
+                                    ],
+                                    "type": "text",
+                                    "content": "专长,并将其与其他部门同事进行比较。如果在处理冲突时,不采用整合的方式,职能经理很有可能在解决分歧时,仅关注于强调他们自身的某特定领域的任务和技能,而很少关注于与他人共同合作来实现产品创新。因此跨职能公平在实现产品创新方面的程度取决于冲突管理的方式。Clercq,Thongpapanl和Dimov(2012)以200家加拿大公司为研究对象,在研究组织内部资源和冲突管理如何影响跨职能公平和产品创新之间的关系时指出,冲突处理机制是企业将公平的相互作用及跨职能公平转换为产品创新的关键能力。研究表明,高的企业内部对抗会加剧跨职能公平与产品创新的负向关系。如果经理人员感知他们在竞争稀缺资源,则不愿意进行知识分享,相反,合作式的冲突处理方式有益于专业知识的共享,增进协同效应①。Chen,Liu和Tjosvold(2005)对中国境内105个组织的378名经理人员进行了冲突管理与生产性冲突的研究分析,研究表明,冲突管理能够促进高层管理团队的有效性,合作式的冲突管理能够促进生产性冲突,进而高管团队的有效性能够带来组织创新。研究结果认为在中国集体主义的文化环境中,合作性的冲突管理是高管团队有效性的一个重要变量。相反,竞争性及回避性的冲突管理与生产性冲突负相关②。与冲突的以往研究相比,以往研究往往强调冲突的存在性及冲突的多样性,Chen等的观点认为团队处理冲突的方法是极为重要的。研究进一步清晰了有关集体审议、心理安全及参与氛围的团队研究。研究认为妥善处理冲突及将反对意见最小化能够有效地减少团队进行决策时的不利影响。由于研究是在中国和谐、集体主义、讲究面子的文化情境中进行,因而回避式的冲突管理方式被认为是不现实的。Montoya-Weiss,Massey和Song(2001)以美国和日本的35个5人组的虚拟团队为研究样本,研究了不同类型的冲突管理行为与虚拟团队绩效之间的关系,研究表明,回避的冲突管理行为对虚拟团队绩效具有显著的负效应,临时协调能够弱化回避的冲突管理行为与虚拟团队绩效之间的负相关关系;合作的冲突管理行为与虚拟团队绩效显著相关,没有发现临时协调对二者的调节作用;竞争的冲突管理行为与虚拟团队的绩效具有显著的正相关效应,没有发现临时协调对二者的调节作用;妥协的冲突管理行为与虚拟团队的绩效显著负相关,临时协调能够显著弱化二者之间的负相关关系;迁就的竞争管理行为对团队绩效无显著关系,临时协调对二者也无显著的调节作用③。Lovelace,Shapiro和Weingart(2001)认为团队任务分歧对团队的绩效影响取决于三个方面的因素:任务分歧如何进行交流;团队成员如何表达与任务相关的疑问,是竞争的还是合作地表达这些疑问;团队领导如何感知其有效性。即跨职能团队的能力是否具有创新性、及时性及经济性,依赖于任务分歧的管理方式,无论是团队成员还是团队领导,即沟通管理的多元化而不是功能存在的多元化是一个关键因素。当出现任务分歧时,合作的沟通交流方式与团队的创新显著正相关,缺少争论的沟通方式能使团队成员自由地表达与任务相关的疑问,以及坚持预算和进度的能力④。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        63,
+                        514,
+                        529,
+                        576
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                514,
+                                529,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        514,
+                                        529,
+                                        576
+                                    ],
+                                    "type": "text",
+                                    "content": "De Dreu(2008) 认为组织中之所以需要合作性的冲突管理，不仅是因为它能带来积极性的冲突效应，而且能够阻止工作场所冲突所带来的负面效果⑤。Posthuma等（2011）对巴西、加拿大、印度尼西亚、荷兰、挪威五个国家的对比研究表明，雇主与员工之间的冲突行为与创新工作行为之间显著正相关，程序性公平能显著提高同事之间冲突与创新行为之间的正相关关系。研究还发现，冲突管理与主观感受"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        348,
+                        60,
+                        528,
+                        74
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                348,
+                                60,
+                                528,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        348,
+                                        60,
+                                        528,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "国外冲突管理研究现状分析与未来展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        64,
+                        624,
+                        528,
+                        649
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                624,
+                                528,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        624,
+                                        528,
+                                        649
+                                    ],
+                                    "type": "text",
+                                    "content": "① Clercq D D, et al. Getting More from Cross - Functional Fairness and Product Innovativeness; Contingency Effects of Internal Resource and Conflict Management. Journal of Product Innovation Management, 2013, 30(1)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        64,
+                        650,
+                        528,
+                        676
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                650,
+                                528,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        650,
+                                        528,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "②Chen, et al. Conflict Management for Effective Top Management Teams and Innovation in China. Journal of Management Studies, 2005, 42(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        64,
+                        677,
+                        530,
+                        703
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                677,
+                                530,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        677,
+                                        530,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "③ Montoya - Weiss, M M, et al. Getting it together: Temporal coordination and conflict management in global virtual teams. A-cademy of management Journal, 2001, 44(6)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        64,
+                        705,
+                        530,
+                        730
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                705,
+                                530,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        705,
+                                        530,
+                                        730
+                                    ],
+                                    "type": "text",
+                                    "content": "④ Lovelace, K, et al. Maximizing cross-functional new product teams' innovativeness and constraint adherence: A conflict communications perspective. Academy of management journal, 2001, 44(4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        64,
+                        731,
+                        530,
+                        757
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                731,
+                                530,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        731,
+                                        530,
+                                        757
+                                    ],
+                                    "type": "text",
+                                    "content": "⑤De Dreu C K W. The virtue and vice of workplace conflict: food for (pessimistic) thought. Journal of Organizational Behavior, 2008, 29(1)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        506,
+                        763,
+                        523,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                506,
+                                763,
+                                523,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        506,
+                                        763,
+                                        523,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "125"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        824
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        824
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        83,
+                        529,
+                        159
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                83,
+                                529,
+                                159
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        83,
+                                        529,
+                                        159
+                                    ],
+                                    "type": "text",
+                                    "content": "结果的显著关系,例如对谈判、工作满意度、离职意愿及同事之间关系的主观感受①。Avgar等(2010)检验了冲突及冲突解决方式对员工感知的社会资本之间的关系。数据分析结果支持了不同的冲突方式会影响社会资本的假设,关系和任务冲突与员工感知的社会资本冲突显著负相关,另一方面与员工感知到的社会资本显著正相关,冲突管理对社会资本的直接和非直接效应得到了验证。该研究认为主管可以通过协助员工解决冲突问题来增加社会资本②。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        83,
+                        162,
+                        277,
+                        175
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                83,
+                                162,
+                                277,
+                                175
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        83,
+                                        162,
+                                        277,
+                                        175
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 冲突管理对组织创新和组织公平的影响"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        63,
+                        178,
+                        529,
+                        348
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                178,
+                                529,
+                                348
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        178,
+                                        529,
+                                        348
+                                    ],
+                                    "type": "text",
+                                    "content": "Gelfand, Leslie, Keller 和 De Dreu(2012) 以一家大型银行的 92 家分行为研究对象，对组织中的冲突氛围进行了研究认为，领导者自身的冲突管理行为，回避的、合作的、独裁的冲突管理行为，分别与组织层次的冲突文化显著正相关；合作的冲突文化与组织活力正相关，表现的组织活力以高凝聚力、高效能及低耗竭为特征；而独裁的冲突管理文化与组织活力负相关，表现的组织活力以低凝聚力、低效能及高耗竭为特征；回避的冲突文化与组织创新负相关③。该研究从领导行为的角度对组织冲突文化所带来的影响进行了深入探析。Tjosvold 等（2010）的研究发现，冲突管理影响组织的理念，使得组织拥有高效的建言（程序公平），公平地分享信念（分配公平），使员工享受尊重（人际公平）。合作的冲突管理行为能够促进组织中的三种公平，同样公平反过来会产生战略伙伴优势，并促进创新④。Van Woerkom（2010）研究表明，领导者与员工在进行问题解决时，冲突与员工压力之间存在负向关系。这是因为，领导者对他或她的员工有一个高的承诺，他们增加了员工的公平感，提高了他们在工作场所的建言感⑤。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        84,
+                        351,
+                        224,
+                        364
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                351,
+                                224,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        351,
+                                        224,
+                                        364
+                                    ],
+                                    "type": "text",
+                                    "content": "3. 冲突管理对员工个体的影响"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        63,
+                        366,
+                        530,
+                        586
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                366,
+                                530,
+                                586
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        366,
+                                        530,
+                                        586
+                                    ],
+                                    "type": "text",
+                                    "content": "领导者的第三方冲突管理行为对组织中员工的人际关系冲突具有调节作用。领导者的问题解决行为涉及向冲突双方询问他们的目标及对问题的看法，员工很有可能将此视作领导在对他们表示关心。因此，当员工意识到他们被允许表达自己的观点，他们对冲突情境的控制感会增加，能够减轻冲突的压力影响。Ellen Giebels 和 Onne Janssen（2005）研究发现，当外在帮助介入时，冲突方会经历较少的负面影响，特别是在员工的身心健康方面⑥。以上冲突管理影响结果的相关理论和实证研究表明，不同的冲突管理方式对于组织绩效具有不同影响。部分学者认为，成员间冲突对于组织绩效会有比较明显的负面效应；也有许多学者认为，冲突对组织绩效的负面效应非常微弱，甚至会产生正面效应。对于管理者而言，当冲突（或冲突的情境）发生时，应理智思考冲突的原因，进而准确定位冲突当事人可能出现的归因结果，然后判断该冲突（或冲突的情境）属于哪种类型，确定其特征，进而采取相应措施。Ross 和 Conlon（2000）的研究也表明，当人们之间发生人际导向的冲突行为时，第三方的关注对于满意度与组织公平感是非常重要的。而第三方的强制性冲突管理行为会使员工感觉他们失去对环境的控制感。强制性的第三方冲突管理是建立在领导者的利益之上，而没有考虑员工的利益，因而冲突方的满意度会降低，冲突压力会增加。而且，领导者的强制性冲突管理也会将自身卷入到冲突中去。另外领导者采用回避的第三方冲突管理行为则会加深员工对领导者的失望情绪，因为员工认为领导者有权威和义务来解决"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        64,
+                        59,
+                        337,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                59,
+                                337,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        59,
+                                        337,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "东岳论丛 Aug.,2017 Vol.38 No.8 2017年8月(第38卷/第8期)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        449,
+                        60,
+                        525,
+                        72
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                449,
+                                60,
+                                525,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        60,
+                                        525,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "(Dong Yue Tribune)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        64,
+                        610,
+                        528,
+                        634
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                610,
+                                528,
+                                634
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        610,
+                                        528,
+                                        634
+                                    ],
+                                    "type": "text",
+                                    "content": "① Posthuma, R A. Conflict management and performance outcomes. International Journal of Conflict Management, 2011, 22 (2): 108-110."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        64,
+                        638,
+                        530,
+                        662
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                638,
+                                530,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        638,
+                                        530,
+                                        662
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "②"
+                                },
+                                {
+                                    "bbox": [
+                                        64,
+                                        638,
+                                        530,
+                                        662
+                                    ],
+                                    "type": "text",
+                                    "content": " Avgar,A C. Negotiated capital: conflict,its resolution,and workplace social capital. International Journal of Conflict Management,2010,21(3)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        64,
+                        665,
+                        530,
+                        689
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                665,
+                                530,
+                                689
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        665,
+                                        530,
+                                        689
+                                    ],
+                                    "type": "text",
+                                    "content": "③Gelfand, M., Jet al. Conflict cultures in organizations: How leaders shape conflict cultures and their organizational - level consequences. Journal of Applied Psychology, 2012, 97(6)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        64,
+                        692,
+                        529,
+                        716
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                692,
+                                529,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        692,
+                                        529,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "④Tjosvold, W. Conflict management for justice, innovation, and strategic advantage in organizational relationships. Journal of Applied Social Psychology, 2010, 40(3)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        82,
+                        718,
+                        452,
+                        730
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                82,
+                                718,
+                                452,
+                                730
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        718,
+                                        452,
+                                        730
+                                    ],
+                                    "type": "text",
+                                    "content": "⑤Van Woerkom, M. Critical reflection as a rationalistic ideal. Adult Education Quarterly, 2010, 60(4)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        64,
+                        732,
+                        530,
+                        756
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                64,
+                                732,
+                                530,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        732,
+                                        530,
+                                        756
+                                    ],
+                                    "type": "text",
+                                    "content": "⑥Giebels E., Janssen O. Conflict stress and reduced well - being at work: The buffering effect of third - party help. Asia - Pacific Journal of Accounting & Economics, 2005, 14(2)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        71,
+                        763,
+                        88,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                763,
+                                88,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        763,
+                                        88,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "126"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        824
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        824
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        63,
+                        83,
+                        530,
+                        176
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                83,
+                                530,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        83,
+                                        530,
+                                        176
+                                    ],
+                                    "type": "text",
+                                    "content": "员工间的冲突①。Giebels和Janssen（2005）指出第三方帮助可以被看作是一种特别的冲突管理模式，冲突压力对情绪耗竭、缺勤及离职意愿具有正向影响，第三方帮助与否对二者的关系具有调节效应。因此，第三方帮助能够阻止组织中人际冲突的负向影响。除了认知和行为，情绪在冲突管理研究领域中的作用也不可忽视。冲突管理能够帮助经理、员工、组织更好地处理冲突发生时的各种情绪②。Posthuma（2012）在探讨情绪与冲突管理（任务、关系和过程冲突；信任、消除和原谅）之间的关系时发现，积极的和消极的情绪，例如愤怒、热情、兴奋、内疚和自责与复杂而多样的冲突管理的各个方面显著相关③。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        242,
+                        185,
+                        351,
+                        200
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                242,
+                                185,
+                                351,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        242,
+                                        185,
+                                        351,
+                                        200
+                                    ],
+                                    "type": "text",
+                                    "content": "五、未来研究展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        63,
+                        209,
+                        529,
+                        270
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                209,
+                                529,
+                                270
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        209,
+                                        529,
+                                        270
+                                    ],
+                                    "type": "text",
+                                    "content": "冲突管理作为组织的一项重要功能，几十年来一直得到心理学和组织行为学者的关注，现有文献对冲突管理的概念及前因变量、结果变量的研究已经取得了重要的研究进展。但随着时代的发展，冲突管理研究仍需进一步拓展其研究范畴，在进一步总结以往研究不足的基础上，有必要进一步加强对冲突管理以下几个方面的深入研究："
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        85,
+                        272,
+                        214,
+                        285
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                85,
+                                272,
+                                214,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        85,
+                                        272,
+                                        214,
+                                        285
+                                    ],
+                                    "type": "text",
+                                    "content": "1. 加强跨文化冲突管理研究"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        63,
+                        287,
+                        529,
+                        349
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                287,
+                                529,
+                                349
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        287,
+                                        529,
+                                        349
+                                    ],
+                                    "type": "text",
+                                    "content": "目前对冲突管理的研究或者基于东方文化情境，或者基于西方文化情境，而对于跨文化情境的研究涉及不足。例如，相对权力距离能够影响员工如何感知领导者的冲突管理介入。权力距离在荷兰等西方国家相对来说较低，而在中国等东方国家相对来说较高，在高权力距离国家强制的冲突管理行为可能更易接受，而在低权力距离国家，强制的冲突管理行为更易被员工感知为独裁的冲突管理方式。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        84,
+                        351,
+                        236,
+                        364
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                351,
+                                236,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        351,
+                                        236,
+                                        364
+                                    ],
+                                    "type": "text",
+                                    "content": "2. 深化冲突管理影响机制的研究"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        63,
+                        366,
+                        529,
+                        491
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                366,
+                                529,
+                                491
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        366,
+                                        529,
+                                        491
+                                    ],
+                                    "type": "text",
+                                    "content": "首先，未来的研究有必要更加深入地探讨冲突管理对结果变量的作用机制。当前研究聚集于不同的冲突管理方式对组织绩效、组织创新、组织公平及员工情绪等的影响，冲突管理方式可能对领导者自身、员工个体因素等方面产生影响。例如 Zhang(2011) 验证了冲突管理方式在变革型领导与团队绩效之间的中介效应，并指出未来可进一步研究冲突管理方式在变革型领导与潜能之间的关系④。其次，未来的研究可考虑从不同的理论视角揭示冲突管理的影响因素和结果因素。目前学者们从合作和竞争理论、双重关心理论及社会认同理论等视角对冲突管理进行了研究，未来可进一步拓展其他理论视角进行多角度研究，比如可以利用社会学习理论去揭示冲突管理的影响机制，由于冲突管理可以为员工学习创造更好的组织和社会环境，因此有利于个体自身能力的提升和职业生涯发展。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        84,
+                        492,
+                        225,
+                        505
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                84,
+                                492,
+                                225,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        84,
+                                        492,
+                                        225,
+                                        505
+                                    ],
+                                    "type": "text",
+                                    "content": "3.探索雇佣关系冲突管理研究"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        63,
+                        507,
+                        529,
+                        600
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                507,
+                                529,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        507,
+                                        529,
+                                        600
+                                    ],
+                                    "type": "text",
+                                    "content": "目前关于冲突管理的研究多局限于团队间的冲突管理研究及领导者及下属之间的冲突处理方式，对于员工与组织之间的冲突管理研究贡献不足。目前中国的社会结构发生了深刻的变化，劳资关系成为中国社会的基本关系之一。常凯（2005）认为，中国开始进入劳资矛盾多发期和冲突期⑤。劳资矛盾和劳资冲突对中国经济社会已经产生了深远影响，增加了经济成本，造成了企业损失；劳资矛盾和劳资冲突已经成为影响社会和谐和稳定的重要因素；目前中国的劳资矛盾和集体行动的处理是否得当，具有相当的政治影响。因此研究雇佣关系冲突管理方式具有理论和现实的双重意义。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        451,
+                        602,
+                        524,
+                        613
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                602,
+                                524,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        602,
+                                        524,
+                                        613
+                                    ],
+                                    "type": "text",
+                                    "content": "责任编辑：王成利"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        348,
+                        60,
+                        528,
+                        74
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                348,
+                                60,
+                                528,
+                                74
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        348,
+                                        60,
+                                        528,
+                                        74
+                                    ],
+                                    "type": "text",
+                                    "content": "国外冲突管理研究现状分析与未来展望"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        63,
+                        650,
+                        530,
+                        676
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                650,
+                                530,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        650,
+                                        530,
+                                        676
+                                    ],
+                                    "type": "text",
+                                    "content": "① Ross, W H, Conlon, D E. 2000. Hybrid forms of third-party dispute resolution: Theoretical implications of combining mediation and arbitration. Academy of Management Review, 25(2):416-427."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        63,
+                        677,
+                        530,
+                        703
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                677,
+                                530,
+                                703
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        677,
+                                        530,
+                                        703
+                                    ],
+                                    "type": "text",
+                                    "content": "②Giebels, E, Janssen, O. 2005. Conflict stress and reduced well - being at work: The buffering effect of third-party help. European Journal of Work and Organizational Psychology, 14(2):137-155."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        80,
+                        705,
+                        511,
+                        716
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                705,
+                                511,
+                                716
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        705,
+                                        511,
+                                        716
+                                    ],
+                                    "type": "text",
+                                    "content": "③Posthuma, R A. 2012. Conflict management and emotions. International Journal of Conflict Management, 23(1):4-5."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        63,
+                        719,
+                        530,
+                        743
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                63,
+                                719,
+                                530,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        719,
+                                        530,
+                                        743
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "④"
+                                },
+                                {
+                                    "bbox": [
+                                        63,
+                                        719,
+                                        530,
+                                        743
+                                    ],
+                                    "type": "text",
+                                    "content": " Zhang,X A. et al. Linking transformational leadership and team performance: A conflict management approach. Journal of Management Studies,2011,48(7)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        80,
+                        745,
+                        332,
+                        756
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                745,
+                                332,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        745,
+                                        332,
+                                        756
+                                    ],
+                                    "type": "text",
+                                    "content": "⑤常凯《罢工权立法问题的若干思考》，《学海》，2005年第4期。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        506,
+                        763,
+                        523,
+                        773
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                506,
+                                763,
+                                523,
+                                773
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        506,
+                                        763,
+                                        523,
+                                        773
+                                    ],
+                                    "type": "text",
+                                    "content": "127"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        497,
+                        824
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                497,
+                                824
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        497,
+                                        824
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        69,
+                        55,
+                        277,
+                        72
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                55,
+                                277,
+                                72
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        55,
+                                        277,
+                                        72
+                                    ],
+                                    "type": "text",
+                                    "content": "●本刊中青年作者简介"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        46,
+                        106,
+                        261,
+                        306
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                106,
+                                261,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        106,
+                                        261,
+                                        306
+                                    ],
+                                    "type": "text",
+                                    "content": "崔树义（1963-），山东高唐人，1987年硕士毕业后到山东社会科学院从事研究工作至今，2005年获山东大学法学博士学位。曾于1997、2000、2003、2011年4次受国家公派，赴澳大利亚、日本、英国、美国学习进修。现任山东社会科学院人口学研究所所长、二级研究员，山东省有突出贡献的中青年专家，山东省智库高端人才岗位专家，山东省人口研究基地首席专家，兼任中国人口学会、中国老年学学会理事，山东省老年产业协会副会长，山东"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        268,
+                        116,
+                        562,
+                        301
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                268,
+                                116,
+                                562,
+                                301
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        268,
+                                        116,
+                                        562,
+                                        301
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                268,
+                                                116,
+                                                562,
+                                                301
+                                            ],
+                                            "type": "image",
+                                            "image_path": "64119a6f1853ecce334342f660f6cc3b96e6cc94f398d138e984b235412af98c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        46,
+                        310,
+                        564,
+                        419
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                310,
+                                564,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        310,
+                                        564,
+                                        419
+                                    ],
+                                    "type": "text",
+                                    "content": "省政府研究室、山东省政协社会法制委员会、山东省卫计委、人社厅、民政厅、住建厅等部门专家委员会委员。主要研究领域为人口和社会保障、智库建设等。先后主持完成4项国家社会科学基金项目和20余项省部级课题；在人民出版社等出版《社团组织与人口控制》《现代人口管理学》《世界各国智库研究》等专著、译著10余部，在《社会学研究》《中国人口科学》等刊物发表论文、研究报告百余篇，多项研究成果获得山东省及国家卫计委领导肯定性批示。先后获得山东省社会科学优秀成果奖7项，其中一等奖1项，二等奖2项。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        48,
+                        459,
+                        333,
+                        638
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                48,
+                                459,
+                                333,
+                                638
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        459,
+                                        333,
+                                        638
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                48,
+                                                459,
+                                                333,
+                                                638
+                                            ],
+                                            "type": "image",
+                                            "image_path": "ff3c8d8e02bfc9cb05590f3e3bbec8afbf0f1ea93e845054b546d4b0893e92ed.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        340,
+                        460,
+                        564,
+                        641
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                340,
+                                460,
+                                564,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        340,
+                                        460,
+                                        564,
+                                        641
+                                    ],
+                                    "type": "text",
+                                    "content": "蒋守芬（1978-），管理学博士，致公党党员、IBM电子商务工程师，现担任山东大学（威海）营销管理研究中心副主任、上海市场学会理事、山东市场学会理事。主要研究领域：渠道管理、品牌管理和房地产营销。主持和参与省级社会科学发展课题4项、先后在《东岳论丛》《山东社会科学》《经济与管理研究》《经济问题》《科技进步与对策》《华东经济与管理》等刊物发表论文多篇，参编《市场调查与研究》《ERP"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        46,
+                        644,
+                        564,
+                        752
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                46,
+                                644,
+                                564,
+                                752
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        46,
+                                        644,
+                                        564,
+                                        752
+                                    ],
+                                    "type": "text",
+                                    "content": "系统与实务》《市场营销学》等教材多部。主张市场营销的哲学是“应对市场之变化”，并在此思想指导下积极参与社会和企业实践，先后为中铁四局、中国石化山东公司、上海易于科技、法国龙尚、杭州蓝信、西安华商集团、山东电信、山东农业银行、山东悦庄集团、山东拜尔集团、山东东岳集团等100余家企业提供项目和咨询服务。主持横向课题“山东省房地产市场调研”“山东传统优势产业创新研究”“威海文化创意产业调研”“中韩文化服务贸易竞争力研究”“2015-2020威海市城镇化发展规划”“威海市流转人口市民化发展规划”等27项。"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        17,
+                        810,
+                        498,
+                        823
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                17,
+                                810,
+                                498,
+                                823
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        17,
+                                        810,
+                                        498,
+                                        823
+                                    ],
+                                    "type": "text",
+                                    "content": "(C)1994-2023 China Academic Journal Electronic Publishing House. All rights reserved. http://www.cnki.net"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 8
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}

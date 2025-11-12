@@ -1,0 +1,2853 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        93,
+                        352,
+                        129
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                93,
+                                352,
+                                129
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        93,
+                                        352,
+                                        129
+                                    ],
+                                    "type": "text",
+                                    "content": "Recent Work in the Philosophy of Medicine: An Essay Review"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        41,
+                        141,
+                        94,
+                        152
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                141,
+                                94,
+                                152
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        141,
+                                        94,
+                                        152
+                                    ],
+                                    "type": "text",
+                                    "content": "John E. Huss"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        41,
+                        159,
+                        266,
+                        178
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                159,
+                                266,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        159,
+                                        266,
+                                        178
+                                    ],
+                                    "type": "text",
+                                    "content": "Department of Philosophy, The University of Akron, Akron, OH, US Email: jh76@uakron.edu"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        41,
+                        191,
+                        382,
+                        215
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                191,
+                                382,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        191,
+                                        382,
+                                        215
+                                    ],
+                                    "type": "text",
+                                    "content": "R. Paul Thompson and Ross E. G. Upshur, *Philosophy of Medicine: An Introduction*. New York: Routledge (2017), xii + 194 pp., $35.16 (paper)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        41,
+                        223,
+                        382,
+                        247
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                223,
+                                382,
+                                247
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        223,
+                                        382,
+                                        247
+                                    ],
+                                    "type": "text",
+                                    "content": "Jacob Stegenga, Medical Nihilism. Oxford: Oxford University Press (2018), xiv + 228 pp., $45.95 (cloth)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        41,
+                        255,
+                        384,
+                        290
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                255,
+                                384,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        255,
+                                        384,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "Mary Ann G. Cutter, Thinking Through Breast Cancer: A Philosophical Exploration of Diagnosis, Treatment, and Survival. Oxford: Oxford University Press (2018), xxiv + 223 pp., $34.95 (cloth)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        41,
+                        311,
+                        382,
+                        487
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                311,
+                                382,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        311,
+                                        382,
+                                        487
+                                    ],
+                                    "type": "text",
+                                    "content": "Is philosophy of medicine a subfield of philosophy of science? Of philosophy of biology? Should it overlap with bioethics? Or is it its own field like philosophy of technology or philosophy of law? Should we worry about the reliability of medical knowledge? With such questions in mind, I briefly review three books in the philosophy of medicine: an introductory survey by R. Paul Thompson and Ross E.G. Upshur, a philosophical critique of medicine by Jacob Stegenga, and a breast cancer survivor's bid for philosophical consolation by Mary Ann Cutter. To philosophers of science, Thompson and Upshur's and Stegenga's contributions will be recognizable as an application of the tools of philosophy of science to medicine. Cutter's book comes from a different tradition, traceable to the philosophy of medicine of Tristram Engelhardt. Thus, while the nature and reliability of medical knowledge takes up most of this review, the issue of demarcation—what philosophy of medicine is and how it relates to philosophy of science, bioethics, and perhaps social and political philosophy—is raised just by virtue of the variety in the books reviewed. In my view, philosophy of medicine should be aware of its relationship to these other fields of philosophy and draw upon them."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        41,
+                        487,
+                        382,
+                        557
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                487,
+                                382,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        487,
+                                        382,
+                                        557
+                                    ],
+                                    "type": "text",
+                                    "content": "Thompson and Upshur's Philosophy of Medicine: An Introduction goes well beyond offering a survey of issues in the field. Distinguishing between bench medicine (experimental research and model-building closely allied to biology, chemistry, and physics) and clinical medicine (13), their core thesis—introduced early with contrasting capsule summaries of James Lind's 1753 discovery of the cure for scurvy (6) and Victor Bolie's 1960 glucose-insulin model (7)—is that the mathematical and mechanistic"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        41,
+                        573,
+                        382,
+                        605
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                573,
+                                382,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        573,
+                                        382,
+                                        605
+                                    ],
+                                    "type": "text",
+                                    "content": "© The Author(s), 2022. Published by Cambridge University Press on behalf of the Philosophy of Science Association. This is an Open Access article, distributed under the terms of the Creative Commons Attribution licence (https://creativecommons.org/licenses/by/4.0/), which permits unrestricted re-use, distribution, and reproduction in any medium, provided the original work is properly cited."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        35,
+                        155,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                35,
+                                155,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        35,
+                                        155,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "Philosophy of Science (2022), 89, 193-201  \ndoi:10.1017/psa.2021.53"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        202,
+                        35,
+                        262,
+                        56
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                202,
+                                35,
+                                262,
+                                56
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        202,
+                                        35,
+                                        262,
+                                        56
+                                    ],
+                                    "type": "text",
+                                    "content": "PSA PHILOSOPHY OF SCIENCE ASSOCIATION"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        283,
+                        34,
+                        352,
+                        62
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                283,
+                                34,
+                                352,
+                                62
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        283,
+                                        34,
+                                        352,
+                                        62
+                                    ],
+                                    "type": "text",
+                                    "content": "PHILOSOPHY OF SCIENCE"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        358,
+                        40,
+                        383,
+                        59
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                358,
+                                40,
+                                383,
+                                59
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        358,
+                                        40,
+                                        383,
+                                        59
+                                    ],
+                                    "type": "text",
+                                    "content": "三"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        41,
+                        66,
+                        122,
+                        75
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                66,
+                                122,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        66,
+                                        122,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "ESSAY REVIEW"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        6,
+                        635,
+                        245,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                635,
+                                245,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        635,
+                                        245,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        54,
+                        390,
+                        230
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                54,
+                                390,
+                                230
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        54,
+                                        390,
+                                        230
+                                    ],
+                                    "type": "text",
+                                    "content": "models central to bench medicine should play a more prominent role in clinical medicine. In the chapter \"Theories and Models in Medicine,\" the authors explicate with a refreshing depth of formal rigor the syntactic, semantic, and pragmatic accounts of scientific theories, illustrated using a mathematical model of the menstrual cycle (35) and an explanation of the structure of immunological theory (38). The integrative role theories and models play is rightly emphasized, but the account of the robustness of discoveries Thompson and Upshur provide is a puzzlingly logical empiricist one—the diagram illustrating their axiomatic-deductive account of theories looks like something straight out of Feigl (1970)—which seems to invert the lessons of Quine-Duhem holism that are otherwise nicely drawn in their discussion of induction (76). The foundationalist idea that the robustness of a scientific finding stems from its coherence with the theoretical framework in which it is embedded (28) ought to be compared to the alternative account of robustness that locates it in the convergence of findings of models founded on independent sets of assumptions (Levins 1966, Wimsatt 1981)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        231,
+                        390,
+                        535
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                231,
+                                390,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        231,
+                                        390,
+                                        535
+                                    ],
+                                    "type": "text",
+                                    "content": "Thompson and Upshur's discussion of the epistemological and methodological concerns of medicine will interest philosophers of science. Their account of causality and induction (Ch. 6) is another plank in Thompson and Upshur's platform statement that models and theories, central to bench medicine, ought to occupy a more prominent place in clinical medicine. The extended discussion of causal analysis using Bayesian networks (74), supported by a clear and rigorous discussion of the foundations of probability is noteworthy. Randomized controlled trials (RCTs) come in for heavy criticism (Ch. 7). They draw insight from Simpson's Paradox (Simpson 1951) which, in confirmation of Stigler's law of eponymy (1980), was first posed by Nagel and Cohen (1934). Simpson's Paradox occurs when a data set is partitioned such that a trend shown by each subset is opposite that shown overall. When the data are aggregated, an RCT may show a positive result even if, for example, when the data are stratified by sex, both women and men respond better to the placebo than to the drug. This could happen if men on average have a higher natural recovery rate than women and more of them receive the drug in the trial. This much is well known (see Fenton, Neil, and Constantinou 2021). Thompson and Upshur, however, argue that given that some partitions will not successfully deconvolve the complex tangle of causal connections, it is unclear when the overall result of the RCT will reflect the underlying causal relations (97). Moreover, there is a tradeoff between the selection criteria that maximize the internal validity of an RCT and those that assure its external validity—its applicability to the patient population. In clinical research, especially RCTs, each individual research subject presents an experimental replicate, but the methodology aggregates these results. Thus, given the epistemic drawbacks to aggregation, could clinical research on effectiveness and safety benefit from the more integrative approach that has succeeded in bench medicine? Thompson and Upshur suggest it could."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        47,
+                        537,
+                        390,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                537,
+                                390,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        537,
+                                        390,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "Further, one might raise the point that the bench/clinical demarcation is a historical artifact of methodological choices. Thus, while Thompson and Upshur distinguish bench medicine (examples include basic research in immunology, hematology, and physiology) from clinical medicine (e.g., cardiology and urology), one might just as well draw the line between biomedical research (which would include research on safety and efficacy of drugs) and clinical practice. In fact, if clinical research were"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        35,
+                        62,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                35,
+                                62,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        35,
+                                        62,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "194"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        79,
+                        35,
+                        131,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                35,
+                                131,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        35,
+                                        131,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "John E. Huss"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        6,
+                        633,
+                        246,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                633,
+                                246,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        633,
+                                        246,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        39,
+                        53,
+                        384,
+                        113
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                53,
+                                384,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        53,
+                                        384,
+                                        113
+                                    ],
+                                    "type": "text",
+                                    "content": "to accord with Thompson and Upshur's methodological recommendations, the shift would bring the methodological demarcation more in line with the research-application demarcation, resulting in a more robust distinction. Arguably, the ideal demarcation would mark a difference in ends: achieving scientific understanding vs. treating patients."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        114,
+                        383,
+                        277
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                114,
+                                383,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "Thompson and Upshur clearly describe and derive a range of epidemiological measures—odds ratio, incidence rate, average risk, rate ratio, risk ratio, absolute risk reduction, number needed to treat, and relative risk reduction (Ch. 8). Choice of measure is important. To illustrate, if the risk of dying of lung cancer is "
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "0.27\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": " for smokers and "
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "0.015\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": " for non-smokers, the absolute risk reduction of not smoking is 0.00255, whereas the relative risk reduction is "
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "94\\%"
+                                },
+                                {
+                                    "bbox": [
+                                        41,
+                                        114,
+                                        383,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": ". Empirically, differing choices of measure to represent the same underlying data about treatment outcomes result in profound differences in the decisions made by both patients and physicians (119). This philosophical analysis of different measures thus has implications for informing the consent process in medical ethics, and reforming the measures used to communicate risk to the public. As we shall see, a substantial portion of Mary Ann Cutter's account of her experiences as a breast cancer patient concerns the difficulties patients face in obtaining and processing information about various forms of uncertainty, and translation of population-level frequency data to individual-level assessments of risk."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        39,
+                        277,
+                        384,
+                        395
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                277,
+                                384,
+                                395
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        277,
+                                        384,
+                                        395
+                                    ],
+                                    "type": "text",
+                                    "content": "The topics in the final section of Thompson and Upshur's book (Ch. 9-12)—clinical judgment, first-person perspectives, mental illness, and alternative medical paradigms—seem to strain the notion that philosophy of medicine is a subfield of philosophy of science, at least in the narrow, analytic sense. The book closes with an overview of a range of modern-day approaches to medicine—evidence-based (EBM), Darwinian/evolutionary (DEM), precision/personalized (PPM), patient-centered (PCM), values-based (VBM), and complementary and alternative (CAM). Given this variety, the bench/clinical divide, and the societal and scientific aspects of medicine, the authors set aside foundationalist unification in favor of lateral disciplinary integration as a prescribed course for philosophy of medicine (181)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        39,
+                        395,
+                        384,
+                        489
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                395,
+                                384,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        395,
+                                        384,
+                                        489
+                                    ],
+                                    "type": "text",
+                                    "content": "The central claim of Jacob Stegenga's Medical Nihilism is that confidence in the effectiveness of medical interventions is far higher than it should be. It is tempting to say that a Laudanian pessimistic induction hangs over the entire history of medical intervention. Combing through the history of medical interventions, from bloodletting to Vioxx, yields a list of treatments that are completely ineffective or only marginally effective, and often with a \"harm profile\" that outweighs whatever modest effectiveness the treatment may have. The upshot of such an induction would be that the prior probability of the effectiveness of any given medical intervention is low."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        39,
+                        489,
+                        384,
+                        570
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                489,
+                                384,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        489,
+                                        384,
+                                        570
+                                    ],
+                                    "type": "text",
+                                    "content": "Yet Stegenga's argument is not inductive. It is based on the identification of systemic biases and pervasive methodological malleability in study designs for assessing the effectiveness of interventions (6). These systemic features, painstakingly catalogued, explicated, and illustrated through fearless engagement with the medical literature, are meant to cast doubt on the general hypothesis that medical interventions are effective, and their discussion culminates in a Bayesian master argument for the thesis of medical nihilism."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        39,
+                        571,
+                        384,
+                        607
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                571,
+                                384,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        571,
+                                        384,
+                                        607
+                                    ],
+                                    "type": "text",
+                                    "content": "The most important philosophical contribution of this book is its discussion of the pernicious epistemic effects of methodological malleability. Randomized controlled trials (RCTs) have their own problems, but when amalgamated into meta-analyses"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        271,
+                        34,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                34,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        34,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Philosophy of Science"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        36,
+                        383,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                36,
+                                383,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        36,
+                                        383,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "195"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        6,
+                        633,
+                        246,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                633,
+                                246,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        633,
+                                        246,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        54,
+                        390,
+                        359
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                54,
+                                390,
+                                359
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        54,
+                                        390,
+                                        359
+                                    ],
+                                    "type": "text",
+                                    "content": "or systematic reviews, the difficulties ramify. Different researchers make different methodological choices and reach opposite conclusions, leading to discordant meta-analyses. Even concordance may reflect shared systematic biases, an instance of pseudo-robustness (Wimsatt 1981). Stegenga extends this conclusion to the very quality assessment tools (QATs) that have been developed to evaluate the quality of the studies generating evidence of effectiveness (Ch. 7). And it appears to be turtles all the way up, as even these second-order methods are subject to malleability and underdetermination, so do not reliably assess the quality of RCT studies and meta-analyses, often leading to overestimates of effectiveness. Measures of effectiveness themselves present their own sets of problems of non-specificity and bias (Ch. 8). For example, in a discussion of the scoring of the Hamilton Depression Rating Scale (HAMD), Stegenga points out that because denying that one is depressed merits a higher depression rating on the HAMD, any subsequent intervention that elicits a self-report of depression will lower the HAMD, and be cited as evidence of effectiveness for the intervention (117)! Measures of effectiveness are thus biased toward overestimating effectiveness. The harms caused by medical interventions are likely to be systematically underestimated, ranging from problems of operationalizing the definition of harm, to camouflage language such as 'safety finding' and 'side effects' in discussions of harm (Ch. 9). In general, assessments of the effectiveness of medical interventions are plagued by unconscious and conscious biases—confirmation bias, design bias, recruitment bias, instrument bias, analysis bias (e.g., due to binning, p-hacking, etc.), and publication bias (a.k.a. the file-drawer problem, where no-effect findings go unpublished)—not to mention outright fraud and conflicts of interest (Ch. 10). The take-home point is that study results that apparently support the effectiveness of an intervention might be better explained by some combination of methodological malleability and bias."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        360,
+                        390,
+                        547
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                360,
+                                390,
+                                547
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": "The unifying framework of Medical Nihilism is a Bayesian master argument, building on considerations raised throughout the earlier chapters, that the probability that a medical intervention is effective, given evidence of its effectiveness, is low (Ch. 11). With "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "H"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": " being the probability that a medical intervention is effective, the long history of rejected medical interventions is cited in support of the claim that "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\operatorname{Pr}(\\mathrm{H})"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": " is low. The small effect sizes, in those cases where there is evidence of an effect, coupled with widespread discordance in medical evidence (different meta-analyses often reach opposite conclusions regarding effectiveness) support the claim that the likelihood, the probability of the evidence given the hypothesis, "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\operatorname{Pr}(\\mathrm{E}|\\mathrm{H})"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": " is also low. Finally, due to aligned biases, methodological malleability, and a system designed to milk even the smallest effect sizes from clinical trials of drugs (and downplay the harms), the total probability of the evidence "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\operatorname{Pr}(\\mathrm{E})"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": ", is high. Crucely put, the system is geared to yield evidence of effectiveness whether or not the treatment is effective. On this analysis, with two low probabilities in the numerator, and one high probability in the denominator of Bayes' Theorem, the probability of effectiveness given evidence of effectiveness, "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\operatorname{Pr}(\\mathrm{H}|\\mathrm{E})"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        360,
+                                        390,
+                                        547
+                                    ],
+                                    "type": "text",
+                                    "content": ", is low."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        47,
+                        548,
+                        390,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                548,
+                                390,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        548,
+                                        390,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "Medical Nihilism's Bayesian master argument seems to have something awry, in part due to a lack of precision about what constitutes a high or low probability. My own concern is that one cannot both argue that clinical trials of drugs are heavily biased toward demonstrating (often spurious) effectiveness—Pr (E) is high—and that the likelihood, Pr (E | H) is low, if the evidence confirms H at all, that is, if Pr (H | E) >"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        35,
+                        62,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                35,
+                                62,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        35,
+                                        62,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "196"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        79,
+                        35,
+                        131,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                35,
+                                131,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        35,
+                                        131,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "John E. Huss"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        6,
+                        633,
+                        246,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                633,
+                                246,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        633,
+                                        246,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        39,
+                        53,
+                        384,
+                        136
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                53,
+                                384,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        53,
+                                        384,
+                                        136
+                                    ],
+                                    "type": "text",
+                                    "content": "Pr (H), then Pr (E | H) will be constrained by Bayes' Theorem to be greater than Pr (E), hence also high. A charitable reading of the Bayesian master argument might be that as the ratio between Pr (E | H) and Pr (E) approaches one (because they are both high), we shouldn't expect updating to raise the probability of effectiveness very much. These details do matter to the general claim, so what would be useful to know is how large the class of cases is for which the Bayesian master argument does hold."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        136,
+                        384,
+                        477
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                136,
+                                384,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        136,
+                                        384,
+                                        477
+                                    ],
+                                    "type": "text",
+                                    "content": "Dogging Medical Nihilism is a strategic ambiguity surrounding the term \"medical intervention.\" Clearly and explicitly, Stegenga's target here is drugs. So, is it really helpful to assess the warrant for claims about medical interventions overall? Given that, one might concede that pervasive bias leads to the effectiveness of most drugs being overstated, and their harms understated. Perhaps there is some support for this narrower claim, yet of course no patient takes drugs in general, but rather a specific drug for a specific malady. Considering that Stegenga's ideal treatment is a \"magic bullet,\" one that targets either the constitutive causal basis of a disease or the harm it causes, he might meaningfully have directed the brunt of his critique to \"shotgun treatments\" and \"shooting blanks.\" Shotgun treatments have multiple physiological effects, one of which we recognize as therapeutic and the others as potentially harmful. Medicine is shooting blanks when it prescribes an intervention that moves the needle physiologically (reducing cholesterol, say) without measurably reducing the risk of disease (such as heart disease). These classes of pharmacological intervention are where Stegenga's critique lands most forcefully. On the other hand, it would be helpful to broaden the scope of medical interventions investigated to include, for example, surgeries. Advances in imaging technology have made it possible to scan the human interior so finely that sources of suffering—lower back pain comes to mind at the moment—are easily traced to lesions which are then addressed surgically, except that long-term follow-up is not routinely done to see whether the lesion was the cause, whether suffering is truly vanquished, and whether alternatives to surgery such as physical therapy might have fared as well or better. To that degree, one wishes that Medical Nihilism had not itself succumbed to a form of pill bias, and expanded its critique to other interventions. On the plus side are the positive recommendations dubbed \"Gentle Medicine,\" which broaden the scope of discussion to include lifestyle choice, public health on a global scale, social and economic conditions, research priorities, improvements to research methods, and reforming the legal and economic context of medical research (Ch. 12), illustrating the capaciousness of philosophy of medicine."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        39,
+                        478,
+                        385,
+                        596
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                478,
+                                385,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        478,
+                                        385,
+                                        596
+                                    ],
+                                    "type": "text",
+                                    "content": "Medical Nihilism, a landmark work, bears careful study by anyone interested in medicine or the philosophy thereof. Clearly its most provocative aspect is its titular thesis, yet even for those skeptical about its sweep, the considerations Stegenga brings to bear are novel. Of particular note are the pernicious effects of methodological malleability, partly because subtle methodological decisions provide an avenue for hidden deception, but also because even absent any attempt to deceive, the relative lack of constraint on the seemingly innocuous decisions that arise at every step of a study—from design to implementation to analysis to publication, not to mention translation into commercial product and clinical practice—leaves scope for all manner of spurious findings and bad medicine (Huss 2014)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        271,
+                        34,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                271,
+                                34,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        271,
+                                        34,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Philosophy of Science"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        35,
+                        383,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                35,
+                                383,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        35,
+                                        383,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "197"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        6,
+                        633,
+                        246,
+                        643
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                633,
+                                246,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        633,
+                                        246,
+                                        643
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        55,
+                        389,
+                        277
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                55,
+                                389,
+                                277
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        55,
+                                        389,
+                                        277
+                                    ],
+                                    "type": "text",
+                                    "content": "The title of Mary Ann Cutter's *Thinking Through Breast Cancer* neatly encapsulates two distinct and distinctive aspects of the book. Its running conceit is the personal musings of a breast cancer patient who happens also to be a philosopher of medicine. Her drive to understand helps her come to terms with her diagnosis, treatment, and firsthand experience. Along the way, Cutter deploys philosophical frameworks—especially Tristram Engelhardt's (1996) four \"languages of medicalization\" which provide the architectonic for the entire book—and \"thinks through\" the applicability of these frameworks (see also Cutter 1997). This dual aspect of the book, cancer memoir and exercise in applied philosophy of medicine, is evident in the writing, which targets an educated lay audience. Cutter programmatically glosses every term, often providing etymologies. This is helpful, as the range of readers she aspires to reach requires that she render her account maximally accessible. But some of her etymologies verge on folk etymologies. For \"metastatic\" the etymology given is: \"from the Latin roots meta, meaning 'beyond,' and static, meaning 'stillness'\" (22). Yet according to the OED, the word has its roots the Ancient Greek μεταστασις which had a broad semantic range and appears in the Hippocratic corpus where it meant \"change,\" frequently of position, so displacement, transference, and dislocation are all in the ballpark. This more studied etymology would have helped in thinking through the phenomenon, and indeed the history, of metastasis."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        278,
+                        389,
+                        371
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                278,
+                                389,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        278,
+                                        389,
+                                        371
+                                    ],
+                                    "type": "text",
+                                    "content": "Cutter's approach differs from that in the other two books. It is written by one who steadfastly refuses the labels of \"survivor\" and \"warrior\" thrust upon her and gives an authentic account of her vulnerability and doubts about her treatment. While there is plenty here for the philosopher of science to ponder, the strength of the book lies elsewhere. Cutter takes us inside the medicalization of a very human problem, demonstrates the role philosophy can play in understanding the patient experience (along with an honest assessment of where it falls short), the fragmentary causal understanding of cancer, and the pervasiveness of medical uncertainty."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        47,
+                        372,
+                        389,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                372,
+                                389,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        372,
+                                        389,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "Two of Stegenga's themes—overdiagnosis and overtreatment—are addressed from a first-person perspective as Cutter reflects on whether patients or even physicians can make informed decisions regarding cancer care. What Stegenga does for intervention effectiveness, Cutter does for informed consent (152). Drawing on work by Gerd Gigerenzer, Cutter cites division of labor, litigiousness, financial motives, interest conflicts, low statistical numeracy, and time constraints as factors that together render the consent process anything but informed (157). For example, radiologists apparently do not generally track patient outcomes (who develops cancer and who doesn't). Financial and legal incentives together favor over-testing, which leads to an abundance of false positives: many women will be falsely diagnosed with breast cancer, leading to overtreatment. Physicians tend to be poorly trained in statistical reasoning (and it is hard not to think of how the choice of outcome measure presented to both patient and physician, treated at length in Thompson and Upshur and Stegenga, will affect decision-making). Cutter also points out what we all know: it is rare to digest what is in a consent form within the time constraint of an office visit. And for thorny medical issues, the individual autonomous agent is a myth. Most tough decisions are decided jointly within family or community structures. She draws on feminist bioethics to suggest that notions of informed consent be brought more in line with the actual circumstances surrounding medical decision-making. Cutter's discussion of the factors undermining informed consent is deeply disturbing but shows"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        36,
+                        61,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                36,
+                                61,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        36,
+                                        61,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "198"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        79,
+                        35,
+                        130,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                35,
+                                130,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        35,
+                                        130,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "John E. Huss"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        6,
+                        634,
+                        245,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                634,
+                                245,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        634,
+                                        245,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        39,
+                        53,
+                        384,
+                        100
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                53,
+                                384,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        53,
+                                        384,
+                                        100
+                                    ],
+                                    "type": "text",
+                                    "content": "the power of a breadth of philosophical approach. I might add that a notion of informed consent that was born of the desire to prevent abuses of a scale revealed at the Nuremberg Trials seems rather distant from the concerns of the breast cancer clinic."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        101,
+                        383,
+                        254
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                101,
+                                383,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        101,
+                                        383,
+                                        254
+                                    ],
+                                    "type": "text",
+                                    "content": "Cutter's close adherence to Engelhardt's approach is both a strength and a weakness. Descriptive, explanatory, evaluative and social aspects of cancer and its treatment are given separate chapters, and then integrated in another chapter. These dimensions or aspects of cancer provide Cutter with tools for skeptical inquiry into cancer diagnosis, treatment and prognosis. Yet her account of her own experience with breast cancer often feels shoehorned into the terms provided by Engelhardt rather than serving to challenge those terms or at least develop and extend them. Often the underlying problem to which Cutter draws attention stems from incomplete biomedical understanding of breast cancer. Cutter's account emphasizes that such deficits in knowledge mean that patients and practitioners must make decisions in the face of considerable uncertainty. This opens the door to a discussion of inductive risk, which she never takes up analytically, instead drawing upon her own experience to convey what it is like to navigate it."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        39,
+                        254,
+                        384,
+                        572
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                254,
+                                384,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        254,
+                                        384,
+                                        572
+                                    ],
+                                    "type": "text",
+                                    "content": "The disease concept, medicalization and overtreatment, also discussed in Stegenga, hit home when they frame the information one uses to choose a double mastectomy, as Cutter did. In fact, if one is a constructivist (broadly speaking) about disease concepts in the Engelhardt tradition—his term is actually 'medicalization'—breast cancer is truly a test case.<sup>1</sup> As Cutter admits, \"At first it sounds odd, and perhaps downright irresponsible, to suggest we medicalize breast cancer\" (115). She then shows the extent to which diagnoses of in situ ductal carcinomas, some of which give rise to late-stage cancers and others not, give rise to a whole cascade of diagnoses (of pre-cancer or cancer), policies (recommended screenings with a non-negligible risk of false positives), and medical interventions (which may or may not be needed and carry risks for patients). Cutter's point about screening is well-made by Thompson and Upshur in their discussion of absolute risk reduction and number needed to treat (NNT) based on the results of the Canadian National Breast Screening Study. They argue that there is virtually \"no absolute risk reduction from screening using mammography\" (118-119). Likewise, Stegenga points out that assessments of the effectiveness of high-dose chemotherapy in preventing breast-cancer recurrence depend crucially on the duration of the study (117). Relative to blood cancers, on which high-dose chemotherapy has been shown effective, breast cancers involve a slower rate of cell division, such that if the study duration is not sufficiently long, it will appear that chemotherapy has prevented breast cancer recurrence. Until this was discovered, breast cancer patients were being subjected to treatments that did more harm than good. Taken together, overdiagnosis and overtreatment, arguably amounting to overmedicalization of breast cancer, become highly plausible, and in Cutter's account, unsettling and at times terrifying. Yet in the background of her account lurks a case of underdiagnosis, a failure to catch early signs of her ductal carcinoma in situ (DCIS) despite earlier screenings. Cutter's discussion of breast reconstruction as an outcome of the \"medical construction of need\" (117) strikes this reader as a forceful"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        270,
+                        34,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                270,
+                                34,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        270,
+                                        34,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Philosophy of Science"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        35,
+                        383,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                35,
+                                383,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        35,
+                                        383,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "199"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        40,
+                        585,
+                        384,
+                        606
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                585,
+                                384,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        585,
+                                        384,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "<sup>1</sup> A discussion and critique of Engelhardt's languages of medicalization is beyond the scope of the present essay. See Lennox (1997)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        6,
+                        633,
+                        246,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                633,
+                                246,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        633,
+                                        246,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        53,
+                        390,
+                        125
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                53,
+                                390,
+                                125
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        53,
+                                        390,
+                                        125
+                                    ],
+                                    "type": "text",
+                                    "content": "reminder that medicine is too broad to be subsumed under the philosophy of science or could alternatively be taken as a call for philosophy of science to broaden. Each of the books under review acknowledges that the breadth of concerns raised by medicine goes beyond biomedical science, but it is in Cutter's treatment of the topic that the human dimension of medicine, and the need for, and value of a philosophical treatment of and from the patient's perspective is most perspicuous."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        125,
+                        390,
+                        442
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                125,
+                                390,
+                                442
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        125,
+                                        390,
+                                        442
+                                    ],
+                                    "type": "text",
+                                    "content": "To many, philosophy of medicine is a subfield of philosophy of science. We can see in this orientation a historical contingency governing the construction of philosophy of medicine. Because bioethics is a massive field to which a very broad range of disciplines (philosophers of many stripes, physicians and other medical professionals, social scientists, biomedical researchers, theologians, legal scholars, educators, etc.) believes they have something to contribute, philosophy of medicine has decided to emphasize metaphysical and epistemological aspects of medicine.2 Current institutional and parochial concerns are the drivers of a demarcation criterion. This is ironic as there seems to be a general trend in philosophy of science itself, long having differentiated itself from the ethics of science, and particularly from the ethical implications of science (ethical concerns within science have been fair game only if they can be shown to have ontological, methodological, or epistemological implications), toward recognizing that the exclusion of ethical and social values from philosophy of science may be a holdover from logical positivism. Leaving ethical theory to one side hampers a full, integrated philosophical investigation of science. But for historically contingent and disciplinary reasons, philosophy of medicine feels the need to differentiate itself from bioethics, or most charitably, provide some metaphysical and epistemological foundations for it, rather than allowing for closer integration. One can understand why the fields are thusly demarcated, for to do otherwise would be to have journals such as the present one flooded with papers in bioethics. I am not necessarily raising an objection here, but simply pointing out that we may be deliberately and consciously tying one hand behind our backs. The difficulty is that books such as these do make an ethical contribution, but with the notable exception of Cutter, do not fully avail themselves of ethical theory, principles, or tools. Moreover, analyses of the values, means and ends of medicine using the tools of ethics would likely deepen the discussion of the role of social, ethical, and political values in the epistemology and ontology of medicine."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        48,
+                        449,
+                        389,
+                        499
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                449,
+                                389,
+                                499
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        449,
+                                        389,
+                                        499
+                                    ],
+                                    "type": "text",
+                                    "content": "Acknowledgments. I thank Mark Bedau, Chris Buford, Mary Ann Gardell Cutter, Sam Gorovitz, Avram Hiller, Joanna Trzeciak Huss, Ashley Kennedy, Anya Plutynski, Chris Schlechter, Paul Thompson, Ross Upshur and Jacob Stegenga for discussion and feedback. I thank Daniel Steel for providing me with his unpublished notes from a book symposium on Medical Nihilism at the 2019 Pacific Division meeting of the American Philosophical Association."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        48,
+                        515,
+                        95,
+                        524
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                515,
+                                95,
+                                524
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        515,
+                                        95,
+                                        524
+                                    ],
+                                    "type": "text",
+                                    "content": "References"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        48,
+                        528,
+                        389,
+                        568
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                528,
+                                389,
+                                568
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        528,
+                                        389,
+                                        568
+                                    ],
+                                    "type": "text",
+                                    "content": "Cutter, Mary Ann Gardell. 1997. \"Engelhardt's Analysis of Disease: Implications for a Feminist Clinical Epistemology.\" In Reading Engelhardt: Essays on the Thought of H. Tristram Engelhardt, Jr., ed. Brendan P. Minogue, Gabriel Palmer-Fernández, and James E. Reagan, 139-48. Dordrecht: Springer. Engelhardt, H. Tristram. 1996. The Foundations of Bioethics. Oxford: Oxford University Press."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        36,
+                        61,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                36,
+                                61,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        36,
+                                        61,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "200"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        79,
+                        35,
+                        130,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                79,
+                                35,
+                                130,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        79,
+                                        35,
+                                        130,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "John E. Huss"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        57,
+                        596,
+                        208,
+                        605
+                    ],
+                    "type": "page_footnote",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                57,
+                                596,
+                                208,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        596,
+                                        208,
+                                        605
+                                    ],
+                                    "type": "text",
+                                    "content": "See Reiss and Ankeny (2016) for discussion."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        6,
+                        634,
+                        245,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                634,
+                                245,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        634,
+                                        245,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        40,
+                        55,
+                        384,
+                        276
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                40,
+                                55,
+                                384,
+                                85
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        55,
+                                        384,
+                                        85
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                55,
+                                                384,
+                                                85
+                                            ],
+                                            "type": "text",
+                                            "content": "Feigl, Herbert. 1970. \"The 'Orthodox' View of Theories: Remarks in Defense As Well As Critique.\" In Theories and Methods of Physics and Psychology, Minnesota Studies in the Philosophy of Science, ed. Michael Radner, and Stephen Winokur, vol. 4, 3-16. Minneapolis: University of Minnesota Press."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                86,
+                                383,
+                                105
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        86,
+                                        383,
+                                        105
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                86,
+                                                383,
+                                                105
+                                            ],
+                                            "type": "text",
+                                            "content": "Fenton, Norman, Martin Neil, and Anthony Constantinou. 2021. \"Simpson's Paradox and the implications for medical trials.\" Accessed Dec. 10, 2021, https://arxiv.org/abs/1912.01422."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                106,
+                                383,
+                                115
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        106,
+                                        383,
+                                        115
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                106,
+                                                383,
+                                                115
+                                            ],
+                                            "type": "text",
+                                            "content": "Huss, John E. 2014. \"Methodology and Ontology in Microbiome Research.\" Biological Theory 9 (4):392-400."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                116,
+                                383,
+                                144
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        116,
+                                        383,
+                                        144
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                116,
+                                                383,
+                                                144
+                                            ],
+                                            "type": "text",
+                                            "content": "Lennox, James G. 1997. \"Concepts of Health and Disease: Comments on Chapter 5 of Engelhardt's The Foundations of Bioethics (2nd ed.).\" Reason Papers: A Journal of Interdisciplinary Normative Studies 22:75-84."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                145,
+                                383,
+                                165
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        145,
+                                        383,
+                                        165
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                145,
+                                                383,
+                                                165
+                                            ],
+                                            "type": "text",
+                                            "content": "Levins, Richard. 1966. \"The Strategy of Model Building in Population Biology.\" American Scientist 54 (4):421-31."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                166,
+                                383,
+                                185
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        166,
+                                        383,
+                                        185
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                166,
+                                                383,
+                                                185
+                                            ],
+                                            "type": "text",
+                                            "content": "Nagel, Ernest, and Morris Raphael Cohen. 1934. An Introduction to Logic and Scientific Method. New York: Harcourt, Brace."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                186,
+                                384,
+                                206
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        186,
+                                        384,
+                                        206
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                186,
+                                                384,
+                                                206
+                                            ],
+                                            "type": "text",
+                                            "content": "Reiss, Julian, and Rachel A. Ankeny. 2016. \"Philosophy of Medicine.\" In *The Stanford Encyclopedia of Philosophy*, ed. Edward N. Zalta. https://plato.stanford.edu/archives/sum2016/entries/medicine/"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                206,
+                                383,
+                                225
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        206,
+                                        383,
+                                        225
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                206,
+                                                383,
+                                                225
+                                            ],
+                                            "type": "text",
+                                            "content": "Simpson, Edward H. 1951. \"The Interpretation of Interaction in Contingency Tables.\" Journal of the Royal Statistical Society, Series B. 13:238-241."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                226,
+                                383,
+                                244
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        226,
+                                        383,
+                                        244
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                226,
+                                                383,
+                                                244
+                                            ],
+                                            "type": "text",
+                                            "content": "Stigler, Stephen M. 1980. \"Stigler's law of eponymy.\" Transactions of the New York Academy of Sciences 39:147-57."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                40,
+                                246,
+                                383,
+                                276
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        246,
+                                        383,
+                                        276
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                40,
+                                                246,
+                                                383,
+                                                276
+                                            ],
+                                            "type": "text",
+                                            "content": "Wimsatt, William C. 1981. \"Robustness, Reliability, and Overdetermination.\" In Scientific Inquiry and the Social Sciences Scientific Inquiry and the Social Sciences, ed. Marilynn B. Brewer and Barry E. Collins, 124-63. San Francisco: Jossey-Bass."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        270,
+                        34,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                270,
+                                34,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        270,
+                                        34,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Philosophy of Science"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        36,
+                        381,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                36,
+                                381,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        36,
+                                        381,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "201"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        40,
+                        585,
+                        383,
+                        606
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                585,
+                                383,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        585,
+                                        383,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "Cite this article: Huss, John E. 2022. \"Recent Work in the Philosophy of Medicine: An Essay Review.\" Philosophy of Science 89 (1):193-201. https://doi.org/10.1017/psa.2021.53"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        6,
+                        633,
+                        246,
+                        642
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                6,
+                                633,
+                                246,
+                                642
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        6,
+                                        633,
+                                        246,
+                                        642
+                                    ],
+                                    "type": "text",
+                                    "content": "https://doi.org/10.1017/psa.2021.53 Published online by Cambridge University Press"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 8
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}
