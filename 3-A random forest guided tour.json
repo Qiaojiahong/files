@@ -33,7 +33,7 @@
                             ]
                         }
                     ],
-                    "index": 3
+                    "index": 4
                 },
                 {
                     "bbox": [
@@ -66,7 +66,7 @@
                             ]
                         }
                     ],
-                    "index": 4
+                    "index": 5
                 },
                 {
                     "bbox": [
@@ -99,7 +99,7 @@
                             ]
                         }
                     ],
-                    "index": 5
+                    "index": 6
                 },
                 {
                     "bbox": [
@@ -132,7 +132,7 @@
                             ]
                         }
                     ],
-                    "index": 6
+                    "index": 7
                 },
                 {
                     "bbox": [
@@ -175,14 +175,14 @@
                             ]
                         }
                     ],
-                    "index": 7
+                    "index": 8
                 },
                 {
                     "bbox": [
                         47,
                         253,
-                        389,
-                        396
+                        390,
+                        397
                     ],
                     "type": "text",
                     "angle": 0,
@@ -191,16 +191,16 @@
                             "bbox": [
                                 47,
                                 253,
-                                389,
-                                396
+                                390,
+                                397
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         47,
                                         253,
-                                        389,
-                                        396
+                                        390,
+                                        397
                                     ],
                                     "type": "text",
                                     "content": "Abstract The random forest algorithm, proposed by L. Breiman in 2001, has been extremely successful as a general-purpose classification and regression method. The approach, which combines several randomized decision trees and aggregates their predictions by averaging, has shown excellent performance in settings where the number of variables is much larger than the number of observations. Moreover, it is versatile enough to be applied to large-scale problems, is easily adapted to various ad hoc learning tasks, and returns measures of variable importance. The present article reviews the most recent theoretical and methodological developments for random forests. Emphasis is placed on the mathematical forces driving the algorithm, with special attention given to the selection of parameters, the resampling mechanism, and variable importance measures. This review is intended to provide non-experts easy access to the main ideas."
@@ -208,7 +208,7 @@
                             ]
                         }
                     ],
-                    "index": 8
+                    "index": 9
                 },
                 {
                     "bbox": [
@@ -321,14 +321,14 @@
                             ]
                         }
                     ],
-                    "index": 9
+                    "index": 10
                 },
                 {
                     "bbox": [
                         47,
-                        480,
+                        481,
                         341,
-                        492
+                        491
                     ],
                     "type": "text",
                     "angle": 0,
@@ -336,17 +336,17 @@
                         {
                             "bbox": [
                                 47,
-                                480,
+                                481,
                                 341,
-                                492
+                                491
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         47,
-                                        480,
+                                        481,
                                         341,
-                                        492
+                                        491
                                     ],
                                     "type": "text",
                                     "content": "This invited paper is discussed in comments available at: doi:10.1007/s11749-016-0482-6;"
@@ -354,12 +354,12 @@
                             ]
                         }
                     ],
-                    "index": 10
+                    "index": 11
                 },
                 {
                     "bbox": [
                         48,
-                        492,
+                        491,
                         377,
                         500
                     ],
@@ -369,7 +369,7 @@
                         {
                             "bbox": [
                                 48,
-                                492,
+                                491,
                                 377,
                                 500
                             ],
@@ -377,7 +377,7 @@
                                 {
                                     "bbox": [
                                         48,
-                                        492,
+                                        491,
                                         377,
                                         500
                                     ],
@@ -387,7 +387,7 @@
                             ]
                         }
                     ],
-                    "index": 11
+                    "index": 12
                 },
                 {
                     "bbox": [
@@ -420,7 +420,7 @@
                             ]
                         }
                     ],
-                    "index": 12
+                    "index": 13
                 },
                 {
                     "bbox": [
@@ -453,7 +453,7 @@
                             ]
                         }
                     ],
-                    "index": 13
+                    "index": 14
                 },
                 {
                     "bbox": [
@@ -486,7 +486,7 @@
                             ]
                         }
                     ],
-                    "index": 14
+                    "index": 15
                 },
                 {
                     "bbox": [
@@ -519,7 +519,7 @@
                             ]
                         }
                     ],
-                    "index": 15
+                    "index": 16
                 },
                 {
                     "bbox": [
@@ -552,7 +552,7 @@
                             ]
                         }
                     ],
-                    "index": 16
+                    "index": 17
                 },
                 {
                     "bbox": [
@@ -563,7 +563,7 @@
                     ],
                     "type": "list",
                     "angle": 0,
-                    "index": 19,
+                    "index": 20,
                     "blocks": [
                         {
                             "bbox": [
@@ -606,7 +606,7 @@
                                     ]
                                 }
                             ],
-                            "index": 17
+                            "index": 18
                         },
                         {
                             "bbox": [
@@ -639,7 +639,7 @@
                                     ]
                                 }
                             ],
-                            "index": 18
+                            "index": 19
                         }
                     ],
                     "sub_type": "text"
@@ -650,7 +650,7 @@
                     "bbox": [
                         48,
                         31,
-                        132,
+                        133,
                         40
                     ],
                     "type": "header",
@@ -660,7 +660,7 @@
                             "bbox": [
                                 48,
                                 31,
-                                132,
+                                133,
                                 40
                             ],
                             "spans": [
@@ -668,7 +668,7 @@
                                     "bbox": [
                                         48,
                                         31,
-                                        132,
+                                        133,
                                         40
                                     ],
                                     "type": "text",
@@ -682,7 +682,7 @@
                 {
                     "bbox": [
                         49,
-                        41,
+                        40,
                         158,
                         49
                     ],
@@ -692,7 +692,7 @@
                         {
                             "bbox": [
                                 49,
-                                41,
+                                40,
                                 158,
                                 49
                             ],
@@ -700,7 +700,7 @@
                                 {
                                     "bbox": [
                                         49,
-                                        41,
+                                        40,
                                         158,
                                         49
                                     ],
@@ -716,7 +716,7 @@
                     "bbox": [
                         334,
                         27,
-                        388,
+                        356,
                         49
                     ],
                     "type": "header",
@@ -726,7 +726,7 @@
                             "bbox": [
                                 334,
                                 27,
-                                388,
+                                356,
                                 49
                             ],
                             "spans": [
@@ -734,8 +734,41 @@
                                     "bbox": [
                                         334,
                                         27,
-                                        388,
+                                        356,
                                         49
+                                    ],
+                                    "type": "text",
+                                    "content": "#"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        356,
+                        35,
+                        387,
+                        43
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                356,
+                                35,
+                                387,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        356,
+                                        35,
+                                        387,
+                                        43
                                     ],
                                     "type": "text",
                                     "content": "CrossMark"
@@ -743,7 +776,7 @@
                             ]
                         }
                     ],
-                    "index": 2
+                    "index": 3
                 },
                 {
                     "bbox": [
@@ -776,7 +809,7 @@
                             ]
                         }
                     ],
-                    "index": 20
+                    "index": 21
                 }
             ],
             "page_size": [
@@ -2794,7 +2827,7 @@
                 },
                 {
                     "bbox": [
-                        47,
+                        49,
                         319,
                         388,
                         462
@@ -2804,7 +2837,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                47,
+                                49,
                                 319,
                                 388,
                                 462
@@ -2812,7 +2845,7 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2822,7 +2855,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2832,7 +2865,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2842,7 +2875,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2852,7 +2885,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2862,7 +2895,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2872,37 +2905,17 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
                                     ],
                                     "type": "text",
-                                    "content": " observations (with possible repetitions) are taken into account in the tree building. Then, at each cell of each tree, a split is performed by maximizing the CART-criterion (see below) over "
+                                    "content": " observations (with possible repetitions) are taken into account in the tree building. Then, at each cell of each tree, a split is performed by maximizing the CART-criterion (see below) over mtry directions chosen uniformly at random among the "
                                 },
                                 {
                                     "bbox": [
-                                        47,
-                                        319,
-                                        388,
-                                        462
-                                    ],
-                                    "type": "inline_equation",
-                                    "content": "\\mathfrak{m}_{\\mathrm{try}}"
-                                },
-                                {
-                                    "bbox": [
-                                        47,
-                                        319,
-                                        388,
-                                        462
-                                    ],
-                                    "type": "text",
-                                    "content": " directions chosen uniformly at random among the "
-                                },
-                                {
-                                    "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2912,7 +2925,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2922,7 +2935,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2932,37 +2945,17 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
                                     ],
                                     "type": "text",
-                                    "content": ".) Lastly, construction of individual trees is stopped when each cell contains less than "
+                                    "content": ".) Lastly, construction of individual trees is stopped when each cell contains less than nodesize points. For any query point "
                                 },
                                 {
                                     "bbox": [
-                                        47,
-                                        319,
-                                        388,
-                                        462
-                                    ],
-                                    "type": "inline_equation",
-                                    "content": "\\text{nodesize}"
-                                },
-                                {
-                                    "bbox": [
-                                        47,
-                                        319,
-                                        388,
-                                        462
-                                    ],
-                                    "type": "text",
-                                    "content": " points. For any query point "
-                                },
-                                {
-                                    "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2972,7 +2965,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2982,7 +2975,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -2992,7 +2985,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3002,7 +2995,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3012,7 +3005,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3022,7 +3015,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3032,7 +3025,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3042,7 +3035,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3052,7 +3045,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3062,7 +3055,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3072,7 +3065,7 @@
                                 },
                                 {
                                     "bbox": [
-                                        47,
+                                        49,
                                         319,
                                         388,
                                         462
@@ -3271,7 +3264,7 @@
                                                 552
                                             ],
                                             "type": "inline_equation",
-                                            "content": "\\in \\{1,\\dots ,a_n\\}"
+                                            "content": "\\in \\{1,\\ldots ,a_n\\}"
                                         },
                                         {
                                             "bbox": [
@@ -3294,7 +3287,7 @@
                 {
                     "bbox": [
                         47,
-                        558,
+                        559,
                         388,
                         606
                     ],
@@ -3304,7 +3297,7 @@
                         {
                             "bbox": [
                                 47,
-                                558,
+                                559,
                                 388,
                                 606
                             ],
@@ -3312,7 +3305,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3322,7 +3315,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3332,7 +3325,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3342,7 +3335,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3352,7 +3345,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3362,7 +3355,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3372,7 +3365,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3382,7 +3375,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3392,7 +3385,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        558,
+                                        559,
                                         388,
                                         606
                                     ],
@@ -3523,6 +3516,49 @@
                         334
                     ],
                     "blocks": [
+                        {
+                            "bbox": [
+                                54,
+                                59,
+                                296,
+                                71
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        59,
+                                        296,
+                                        71
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                54,
+                                                59,
+                                                296,
+                                                71
+                                            ],
+                                            "type": "text",
+                                            "content": "Algorithm 1: Breiman's random forest predicted value at "
+                                        },
+                                        {
+                                            "bbox": [
+                                                54,
+                                                59,
+                                                296,
+                                                71
+                                            ],
+                                            "type": "inline_equation",
+                                            "content": "\\mathbf{x}"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "code_caption"
+                        },
                         {
                             "bbox": [
                                 50,
@@ -4055,49 +4091,6 @@
                             "index": 3,
                             "angle": 0,
                             "type": "code_body"
-                        },
-                        {
-                            "bbox": [
-                                54,
-                                59,
-                                296,
-                                71
-                            ],
-                            "lines": [
-                                {
-                                    "bbox": [
-                                        54,
-                                        59,
-                                        296,
-                                        71
-                                    ],
-                                    "spans": [
-                                        {
-                                            "bbox": [
-                                                54,
-                                                59,
-                                                296,
-                                                71
-                                            ],
-                                            "type": "text",
-                                            "content": "Algorithm 1: Breiman's random forest predicted value at "
-                                        },
-                                        {
-                                            "bbox": [
-                                                54,
-                                                59,
-                                                296,
-                                                71
-                                            ],
-                                            "type": "inline_equation",
-                                            "content": "\\mathbf{x}"
-                                        }
-                                    ]
-                                }
-                            ],
-                            "index": 2,
-                            "angle": 0,
-                            "type": "code_caption"
                         }
                     ],
                     "index": 3,
@@ -4938,7 +4931,7 @@
                         154,
                         56,
                         281,
-                        86
+                        87
                     ],
                     "type": "interline_equation",
                     "angle": 0,
@@ -4948,7 +4941,7 @@
                                 154,
                                 56,
                                 281,
-                                86
+                                87
                             ],
                             "spans": [
                                 {
@@ -4956,11 +4949,11 @@
                                         154,
                                         56,
                                         281,
-                                        86
+                                        87
                                     ],
                                     "type": "interline_equation",
                                     "content": "(j_{n}^{\\star},z_{n}^{\\star})\\in \\operatorname *{arg  max}_{\\substack{j\\in \\mathcal{M}_{\\text{try}}\\\\ (j,z)\\in \\mathcal{C}_{A}}}L_{\\text{reg},n}(j,z).",
-                                    "image_path": "cb2a340e3e89d5809e75f57566dd43165504d66f0920e847fa20e68725224d56.jpg"
+                                    "image_path": "821190f231530e7e6d4a675fe12f5191e0f094c6fd9908ebc65268a1f54aa93b.jpg"
                                 }
                             ]
                         }
@@ -5076,7 +5069,7 @@
                                         327
                                     ],
                                     "type": "inline_equation",
-                                    "content": "\\{1,\\ldots ,p\\}"
+                                    "content": "\\{1,\\dots ,p\\}"
                                 },
                                 {
                                     "bbox": [
@@ -5136,7 +5129,7 @@
                                         327
                                     ],
                                     "type": "inline_equation",
-                                    "content": "\\{1,\\dots ,p\\}"
+                                    "content": "\\{1,\\ldots ,p\\}"
                                 },
                                 {
                                     "bbox": [
@@ -5650,7 +5643,7 @@
                     "bbox": [
                         106,
                         505,
-                        323,
+                        322,
                         532
                     ],
                     "type": "interline_equation",
@@ -5660,7 +5653,7 @@
                             "bbox": [
                                 106,
                                 505,
-                                323,
+                                322,
                                 532
                             ],
                             "spans": [
@@ -5668,12 +5661,12 @@
                                     "bbox": [
                                         106,
                                         505,
-                                        323,
+                                        322,
                                         532
                                     ],
                                     "type": "interline_equation",
                                     "content": "m ^ {\\star} (\\mathbf {x}) = \\left\\{ \\begin{array}{l l} 1 & \\text {i f} \\mathbb {P} [ Y = 1 | \\mathbf {X} = \\mathbf {x} ] > \\mathbb {P} [ Y = 0 | \\mathbf {X} = \\mathbf {x} ] \\\\ 0 & \\text {o t h e r w i s e .} \\end{array} \\right.",
-                                    "image_path": "7cc308185d3c184c6e5ea57485a0f32efc091f039f48f0fd1f2524b027d955fc.jpg"
+                                    "image_path": "0675d1727b10ceadcf3fe4521fa65cd00fa660d755ee4acadec949e05277d290.jpg"
                                 }
                             ]
                         }
@@ -6856,7 +6849,7 @@
                     "bbox": [
                         77,
                         142,
-                        358,
+                        359,
                         162
                     ],
                     "type": "interline_equation",
@@ -6866,7 +6859,7 @@
                             "bbox": [
                                 77,
                                 142,
-                                358,
+                                359,
                                 162
                             ],
                             "spans": [
@@ -6874,12 +6867,12 @@
                                     "bbox": [
                                         77,
                                         142,
-                                        358,
+                                        359,
                                         162
                                     ],
                                     "type": "interline_equation",
-                                    "content": "\\lim _ {M \\to \\infty} \\mathbb {E} [ m _ {M, n} (\\mathbf {X}; \\Theta_ {1}, \\dots , \\Theta_ {M}) - m (\\mathbf {X}) ] ^ {2} = \\mathbb {E} [ m _ {\\infty , n} (\\mathbf {X}) - m (\\mathbf {X}) ] ^ {2}.",
-                                    "image_path": "9c799486d8748ed35dba388610ad862941ebe57fedd3ce1d518d398abadda2e7.jpg"
+                                    "content": "\\lim _ {M \\to \\infty} \\mathbb {E} [ m _ {M, n} (\\mathbf {X}; \\boldsymbol {\\Theta} _ {1}, \\dots , \\boldsymbol {\\Theta} _ {M}) - m (\\mathbf {X}) ] ^ {2} = \\mathbb {E} [ m _ {\\infty , n} (\\mathbf {X}) - m (\\mathbf {X}) ] ^ {2}.",
+                                    "image_path": "19fb69746cdc2ceeae6061760f6a7f08bb794c63e3e48e6189432db1fdfac53e.jpg"
                                 }
                             ]
                         }
@@ -8330,7 +8323,7 @@
                 {
                     "bbox": [
                         47,
-                        418,
+                        417,
                         390,
                         514
                     ],
@@ -8340,7 +8333,7 @@
                         {
                             "bbox": [
                                 47,
-                                418,
+                                417,
                                 390,
                                 514
                             ],
@@ -8348,7 +8341,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8358,7 +8351,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8368,7 +8361,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8378,7 +8371,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8388,7 +8381,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8398,7 +8391,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8408,7 +8401,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8418,7 +8411,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8428,7 +8421,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8438,7 +8431,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8448,7 +8441,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8458,7 +8451,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8468,7 +8461,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8478,17 +8471,17 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
                                     "type": "inline_equation",
-                                    "content": "|\\mathcal{S}|"
+                                    "content": "|S|"
                                 },
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8498,7 +8491,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8508,7 +8501,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8518,17 +8511,17 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
                                     "type": "inline_equation",
-                                    "content": "|\\mathcal{S}|"
+                                    "content": "|S|"
                                 },
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8538,17 +8531,17 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
                                     "type": "inline_equation",
-                                    "content": "|\\mathcal{S}|"
+                                    "content": "|S|"
                                 },
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8558,7 +8551,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8568,7 +8561,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8578,7 +8571,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8588,7 +8581,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8598,7 +8591,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8608,7 +8601,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8618,7 +8611,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8628,7 +8621,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8638,7 +8631,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8648,7 +8641,7 @@
                                 {
                                     "bbox": [
                                         47,
-                                        418,
+                                        417,
                                         390,
                                         514
                                     ],
@@ -8927,7 +8920,7 @@
                         374,
                         31,
                         388,
-                        40
+                        39
                     ],
                     "type": "page_number",
                     "angle": 0,
@@ -8937,7 +8930,7 @@
                                 374,
                                 31,
                                 388,
-                                40
+                                39
                             ],
                             "spans": [
                                 {
@@ -8945,7 +8938,7 @@
                                         374,
                                         31,
                                         388,
-                                        40
+                                        39
                                     ],
                                     "type": "text",
                                     "content": "207"
@@ -9890,7 +9883,7 @@
                                         385
                                     ],
                                     "type": "inline_equation",
-                                    "content": "(W_{n1},\\dots ,W_{nn})"
+                                    "content": "(W_{n1},\\ldots ,W_{nn})"
                                 },
                                 {
                                     "bbox": [
@@ -10050,7 +10043,7 @@
                                         385
                                     ],
                                     "type": "inline_equation",
-                                    "content": "Y_{1},\\ldots ,Y_{n}"
+                                    "content": "Y_{1},\\dots ,Y_{n}"
                                 },
                                 {
                                     "bbox": [
@@ -10333,7 +10326,7 @@
                                         609
                                     ],
                                     "type": "interline_equation",
-                                    "content": "m _ {M, n} (\\mathbf {x}; \\Theta_ {1}, \\ldots , \\Theta_ {M}) = \\frac {1}{M} \\sum_ {j = 1} ^ {M} \\left(\\sum_ {i = 1} ^ {n} \\frac {Y _ {i} \\mathbb {1} _ {\\mathbf {X} _ {i} \\in A _ {n} (\\mathbf {x} ; \\Theta_ {j})}}{N _ {n} (\\mathbf {x} ; \\Theta_ {j})}\\right),",
+                                    "content": "m _ {M, n} (\\mathbf {x}; \\Theta_ {1}, \\ldots , \\Theta_ {M}) = \\frac {1}{M} \\sum_ {j = 1} ^ {M} \\left(\\sum_ {i = 1} ^ {n} \\frac {Y _ {i} \\mathbb {1} _ {\\mathbf {X} _ {i} \\in A _ {n} (\\mathbf {x} ; \\Theta_ {j})}}{N _ {n} (\\mathbf {x}; \\Theta_ {j})}\\right),",
                                     "image_path": "400cad1b60705f7bbfdf598e04a5ab4b35361c30546fae61dc0a2a8cc37cb04a.jpg"
                                 }
                             ]
@@ -10413,7 +10406,7 @@
                     "bbox": [
                         345,
                         622,
-                        388,
+                        389,
                         635
                     ],
                     "type": "footer",
@@ -10423,7 +10416,7 @@
                             "bbox": [
                                 345,
                                 622,
-                                388,
+                                389,
                                 635
                             ],
                             "spans": [
@@ -10431,7 +10424,7 @@
                                     "bbox": [
                                         345,
                                         622,
-                                        388,
+                                        389,
                                         635
                                     ],
                                     "type": "text",
@@ -10836,7 +10829,7 @@
                     "bbox": [
                         48,
                         338,
-                        76,
+                        77,
                         349
                     ],
                     "type": "text",
@@ -10846,7 +10839,7 @@
                             "bbox": [
                                 48,
                                 338,
-                                76,
+                                77,
                                 349
                             ],
                             "spans": [
@@ -10854,7 +10847,7 @@
                                     "bbox": [
                                         48,
                                         338,
-                                        76,
+                                        77,
                                         349
                                     ],
                                     "type": "text",
@@ -10869,7 +10862,7 @@
                     "bbox": [
                         150,
                         362,
-                        280,
+                        281,
                         374
                     ],
                     "type": "interline_equation",
@@ -10879,7 +10872,7 @@
                             "bbox": [
                                 150,
                                 362,
-                                280,
+                                281,
                                 374
                             ],
                             "spans": [
@@ -10887,12 +10880,12 @@
                                     "bbox": [
                                         150,
                                         362,
-                                        280,
+                                        281,
                                         374
                                     ],
                                     "type": "interline_equation",
                                     "content": "K _ {n} (\\mathbf {x}, \\mathbf {z}) = \\mathbb {P} _ {\\Theta} [ \\mathbf {z} \\in A _ {n} (\\mathbf {x}, \\Theta) ].",
-                                    "image_path": "f9ef1c1a673ae5d013b69ebac211211b86a44f0c48e6c13ddffb96f30720fd04.jpg"
+                                    "image_path": "64cb6b96bbda85b37a73fec91009ee6c689b8387853ef6ccd8db232921dc3ef3.jpg"
                                 }
                             ]
                         }
@@ -11380,7 +11373,7 @@
                         225,
                         52,
                         387,
-                        188
+                        187
                     ],
                     "blocks": [
                         {
@@ -11388,7 +11381,7 @@
                                 225,
                                 52,
                                 387,
-                                188
+                                187
                             ],
                             "lines": [
                                 {
@@ -11396,7 +11389,7 @@
                                         225,
                                         52,
                                         387,
-                                        188
+                                        187
                                     ],
                                     "spans": [
                                         {
@@ -11404,10 +11397,10 @@
                                                 225,
                                                 52,
                                                 387,
-                                                188
+                                                187
                                             ],
                                             "type": "image",
-                                            "image_path": "6d8188134a3e51e8e083c024c34870f582219ae4e19b595e8364476177d6b7b5.jpg"
+                                            "image_path": "daa3c6fa95ff90b0a86d5969c57d4455267aa96f86f6d822aef5a274f163b03c.jpg"
                                         }
                                     ]
                                 }
@@ -11425,7 +11418,7 @@
                         136,
                         195,
                         298,
-                        330
+                        329
                     ],
                     "blocks": [
                         {
@@ -11433,7 +11426,7 @@
                                 136,
                                 195,
                                 298,
-                                330
+                                329
                             ],
                             "lines": [
                                 {
@@ -11441,7 +11434,7 @@
                                         136,
                                         195,
                                         298,
-                                        330
+                                        329
                                     ],
                                     "spans": [
                                         {
@@ -11449,10 +11442,10 @@
                                                 136,
                                                 195,
                                                 298,
-                                                330
+                                                329
                                             ],
                                             "type": "image",
-                                            "image_path": "ad8beec491ba4f9c232c761cbf357ca25597eaa10a98fa8d77502d3d49c72388.jpg"
+                                            "image_path": "d8be47608942c8bfcd8453e361d5e27a131abf0158425b58e2d8aa545b7ca815.jpg"
                                         }
                                     ]
                                 }
@@ -11465,7 +11458,7 @@
                             "bbox": [
                                 48,
                                 333,
-                                212,
+                                213,
                                 344
                             ],
                             "lines": [
@@ -11473,7 +11466,7 @@
                                     "bbox": [
                                         48,
                                         333,
-                                        212,
+                                        213,
                                         344
                                     ],
                                     "spans": [
@@ -11481,7 +11474,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "text",
@@ -11491,7 +11484,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "inline_equation",
@@ -11501,7 +11494,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "text",
@@ -11511,7 +11504,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "inline_equation",
@@ -11521,7 +11514,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "text",
@@ -11531,7 +11524,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "inline_equation",
@@ -11541,7 +11534,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "text",
@@ -11551,7 +11544,7 @@
                                             "bbox": [
                                                 48,
                                                 333,
-                                                212,
+                                                213,
                                                 344
                                             ],
                                             "type": "inline_equation",
@@ -14353,7 +14346,7 @@
                 },
                 {
                     "bbox": [
-                        174,
+                        173,
                         92,
                         263,
                         105
@@ -14363,7 +14356,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                174,
+                                173,
                                 92,
                                 263,
                                 105
@@ -14371,14 +14364,14 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        174,
+                                        173,
                                         92,
                                         263,
                                         105
                                     ],
                                     "type": "interline_equation",
                                     "content": "j _ {n, q} (\\mathbf {X}) \\in \\{1, \\dots , S \\}.",
-                                    "image_path": "63f29df87d47b417c222be355caeac5adeb6858cfac567eefee1abbf8f42f88d.jpg"
+                                    "image_path": "96d598cc0361827ae5fad5a8db3ac878006fac588adb149f9ce493b4140a00df.jpg"
                                 }
                             ]
                         }
@@ -14387,48 +14380,48 @@
                 },
                 {
                     "bbox": [
-                        48,
+                        47,
                         116,
-                        388,
-                        164
+                        387,
+                        163
                     ],
                     "type": "text",
                     "angle": 0,
                     "lines": [
                         {
                             "bbox": [
-                                48,
+                                47,
                                 116,
-                                388,
-                                164
+                                387,
+                                163
                             ],
                             "spans": [
                                 {
                                     "bbox": [
-                                        48,
+                                        47,
                                         116,
-                                        388,
-                                        164
+                                        387,
+                                        163
                                     ],
                                     "type": "text",
                                     "content": "This result offers an interesting perspective on why random forests nicely adapt to the sparsity setting. Indeed, it shows that the algorithm selects splits mostly along the "
                                 },
                                 {
                                     "bbox": [
-                                        48,
+                                        47,
                                         116,
-                                        388,
-                                        164
+                                        387,
+                                        163
                                     ],
                                     "type": "inline_equation",
                                     "content": "S"
                                 },
                                 {
                                     "bbox": [
-                                        48,
+                                        47,
                                         116,
-                                        388,
-                                        164
+                                        387,
+                                        163
                                     ],
                                     "type": "text",
                                     "content": " informative variables, so that everything happens as if data were projected onto the vector space spanned by these variables."
@@ -14440,7 +14433,7 @@
                 },
                 {
                     "bbox": [
-                        51,
+                        49,
                         165,
                         388,
                         331
@@ -14450,7 +14443,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                51,
+                                49,
                                 165,
                                 388,
                                 331
@@ -14458,7 +14451,7 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        51,
+                                        49,
                                         165,
                                         388,
                                         331
@@ -14473,7 +14466,7 @@
                 },
                 {
                     "bbox": [
-                        51,
+                        49,
                         333,
                         388,
                         570
@@ -14483,7 +14476,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                51,
+                                49,
                                 333,
                                 388,
                                 570
@@ -14491,7 +14484,7 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        51,
+                                        49,
                                         333,
                                         388,
                                         570
@@ -14609,7 +14602,7 @@
                     "bbox": [
                         345,
                         622,
-                        389,
+                        388,
                         634
                     ],
                     "type": "footer",
@@ -14619,7 +14612,7 @@
                             "bbox": [
                                 345,
                                 622,
-                                389,
+                                388,
                                 634
                             ],
                             "spans": [
@@ -14627,7 +14620,7 @@
                                     "bbox": [
                                         345,
                                         622,
-                                        389,
+                                        388,
                                         634
                                     ],
                                     "type": "text",
@@ -14818,7 +14811,7 @@
                         146,
                         289,
                         291,
-                        315
+                        316
                     ],
                     "type": "interline_equation",
                     "angle": 0,
@@ -14828,7 +14821,7 @@
                                 146,
                                 289,
                                 291,
-                                315
+                                316
                             ],
                             "spans": [
                                 {
@@ -14836,11 +14829,11 @@
                                         146,
                                         289,
                                         291,
-                                        315
+                                        316
                                     ],
                                     "type": "interline_equation",
                                     "content": "\\bar {\\rho} = \\frac {\\mathbb {E} _ {\\Theta , \\Theta^ {\\prime}} [ \\rho (\\Theta , \\Theta^ {\\prime}) g (\\Theta) g (\\Theta^ {\\prime}) ]}{\\mathbb {E} _ {\\Theta} [ g (\\Theta) ] ^ {2}},",
-                                    "image_path": "e2eb71250481462e90cfb4b4a07e32a8a23da09d036e5e3258cc8328d5b8c86e.jpg"
+                                    "image_path": "8fca5a987074076dbfc0aa04640a81607953ce89e67707e7985f87b8460ee044.jpg"
                                 }
                             ]
                         }
@@ -14851,7 +14844,7 @@
                     "bbox": [
                         48,
                         326,
-                        270,
+                        271,
                         338
                     ],
                     "type": "text",
@@ -14861,7 +14854,7 @@
                             "bbox": [
                                 48,
                                 326,
-                                270,
+                                271,
                                 338
                             ],
                             "spans": [
@@ -14869,7 +14862,7 @@
                                     "bbox": [
                                         48,
                                         326,
-                                        270,
+                                        271,
                                         338
                                     ],
                                     "type": "text",
@@ -14879,7 +14872,7 @@
                                     "bbox": [
                                         48,
                                         326,
-                                        270,
+                                        271,
                                         338
                                     ],
                                     "type": "inline_equation",
@@ -14889,7 +14882,7 @@
                                     "bbox": [
                                         48,
                                         326,
-                                        270,
+                                        271,
                                         338
                                     ],
                                     "type": "text",
@@ -14899,7 +14892,7 @@
                                     "bbox": [
                                         48,
                                         326,
-                                        270,
+                                        271,
                                         338
                                     ],
                                     "type": "inline_equation",
@@ -14909,7 +14902,7 @@
                                     "bbox": [
                                         48,
                                         326,
-                                        270,
+                                        271,
                                         338
                                     ],
                                     "type": "text",
@@ -15065,7 +15058,7 @@
                     "bbox": [
                         47,
                         450,
-                        333,
+                        334,
                         462
                     ],
                     "type": "text",
@@ -15075,7 +15068,7 @@
                             "bbox": [
                                 47,
                                 450,
-                                333,
+                                334,
                                 462
                             ],
                             "spans": [
@@ -15083,7 +15076,7 @@
                                     "bbox": [
                                         47,
                                         450,
-                                        333,
+                                        334,
                                         462
                                     ],
                                     "type": "text",
@@ -15093,7 +15086,7 @@
                                     "bbox": [
                                         47,
                                         450,
-                                        333,
+                                        334,
                                         462
                                     ],
                                     "type": "inline_equation",
@@ -15103,7 +15096,7 @@
                                     "bbox": [
                                         47,
                                         450,
-                                        333,
+                                        334,
                                         462
                                     ],
                                     "type": "text",
@@ -15113,11 +15106,11 @@
                                     "bbox": [
                                         47,
                                         450,
-                                        333,
+                                        334,
                                         462
                                     ],
                                     "type": "inline_equation",
-                                    "content": "\\sigma (\\mathbf{x}) = \\mathrm{Var}[m_n(\\mathbf{x};\\Theta)]"
+                                    "content": "\\sigma (\\mathbf{x}) = \\mathrm{Var}[m_n(\\mathbf{x};\\Theta)]."
                                 }
                             ]
                         }
@@ -16339,7 +16332,7 @@
                         102,
                         54,
                         335,
-                        286
+                        285
                     ],
                     "blocks": [
                         {
@@ -16347,7 +16340,7 @@
                                 102,
                                 54,
                                 335,
-                                286
+                                285
                             ],
                             "lines": [
                                 {
@@ -16355,7 +16348,7 @@
                                         102,
                                         54,
                                         335,
-                                        286
+                                        285
                                     ],
                                     "spans": [
                                         {
@@ -16363,10 +16356,10 @@
                                                 102,
                                                 54,
                                                 335,
-                                                286
+                                                285
                                             ],
                                             "type": "image",
-                                            "image_path": "220b8680f3fb1511f59e3b08be95d5b535b960baacde972a063920e03032dd25.jpg"
+                                            "image_path": "67a57b5bc655934cf90072b8dd846134eb015a6e858944fc4079601081d263f9.jpg"
                                         }
                                     ]
                                 }
@@ -16465,7 +16458,7 @@
                     "bbox": [
                         48,
                         331,
-                        157,
+                        156,
                         344
                     ],
                     "type": "title",
@@ -16475,7 +16468,7 @@
                             "bbox": [
                                 48,
                                 331,
-                                157,
+                                156,
                                 344
                             ],
                             "spans": [
@@ -16483,7 +16476,7 @@
                                     "bbox": [
                                         48,
                                         331,
-                                        157,
+                                        156,
                                         344
                                     ],
                                     "type": "text",
@@ -16564,7 +16557,7 @@
                     "bbox": [
                         47,
                         464,
-                        390,
+                        389,
                         488
                     ],
                     "type": "text",
@@ -16574,7 +16567,7 @@
                             "bbox": [
                                 47,
                                 464,
-                                390,
+                                389,
                                 488
                             ],
                             "spans": [
@@ -16582,7 +16575,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "text",
@@ -16592,7 +16585,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "inline_equation",
@@ -16602,7 +16595,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "text",
@@ -16612,7 +16605,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "inline_equation",
@@ -16622,7 +16615,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "text",
@@ -16632,7 +16625,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "inline_equation",
@@ -16642,7 +16635,7 @@
                                     "bbox": [
                                         47,
                                         464,
-                                        390,
+                                        389,
                                         488
                                     ],
                                     "type": "text",
@@ -17396,7 +17389,7 @@
                 {
                     "bbox": [
                         104,
-                        266,
+                        267,
                         388,
                         297
                     ],
@@ -17406,7 +17399,7 @@
                         {
                             "bbox": [
                                 104,
-                                266,
+                                267,
                                 388,
                                 297
                             ],
@@ -17414,13 +17407,13 @@
                                 {
                                     "bbox": [
                                         104,
-                                        266,
+                                        267,
                                         388,
                                         297
                                     ],
                                     "type": "interline_equation",
                                     "content": "R _ {n} \\left[ m _ {n} (\\because \\Theta_ {\\ell}), \\mathcal {D} \\right] = \\frac {1}{| \\mathcal {D} |} \\sum_ {i: \\left(\\mathbf {X} _ {i}, Y _ {i}\\right) \\in \\mathcal {D}} \\left(Y _ {i} - m _ {n} \\left(\\mathbf {X} _ {i}; \\Theta_ {\\ell}\\right)\\right) ^ {2}. \\tag {7}",
-                                    "image_path": "e5c95dc6e9ae6a45dbc6cd35a90b4aa08a0d20575849248bb5d9c74a198323a6.jpg"
+                                    "image_path": "e9a6a28e007d05dcca175d0e770164602471fcd913d9b8d76ac5bb2335a79be3.jpg"
                                 }
                             ]
                         }
@@ -17550,7 +17543,7 @@
                                         416
                                     ],
                                     "type": "inline_equation",
-                                    "content": "\\mathbf{X}_j' = (X^{(1)},\\dots,X'^{(j)},\\dots,X^{(p)})"
+                                    "content": "\\mathbf{X}_j' = (X^{(1)},\\ldots ,X'^{(j)},\\ldots ,X^{(p)})"
                                 },
                                 {
                                     "bbox": [
@@ -17692,7 +17685,7 @@
                         48,
                         437,
                         146,
-                        448
+                        447
                     ],
                     "type": "title",
                     "angle": 0,
@@ -17702,7 +17695,7 @@
                                 48,
                                 437,
                                 146,
-                                448
+                                447
                             ],
                             "spans": [
                                 {
@@ -17710,7 +17703,7 @@
                                         48,
                                         437,
                                         146,
-                                        448
+                                        447
                                     ],
                                     "type": "text",
                                     "content": "5.2 Theoretical results"
@@ -18041,8 +18034,8 @@
                     "bbox": [
                         47,
                         55,
-                        388,
-                        92
+                        389,
+                        93
                     ],
                     "type": "text",
                     "angle": 0,
@@ -18051,16 +18044,16 @@
                             "bbox": [
                                 47,
                                 55,
-                                388,
-                                92
+                                389,
+                                93
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": "where "
@@ -18069,18 +18062,18 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
-                                    "content": "V^{-j} = \\{1, \\dots, j - 1, j + 1, \\dots, p\\}"
+                                    "content": "V^{-j} = \\{1, \\ldots, j - 1, j + 1, \\ldots, p\\}"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": ", "
@@ -18089,8 +18082,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "\\mathcal{P}_k(V^{-j})"
@@ -18099,8 +18092,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": " the set of subsets of "
@@ -18109,8 +18102,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "V^{-j}"
@@ -18119,8 +18112,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": " of cardinality "
@@ -18129,8 +18122,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "k"
@@ -18139,8 +18132,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": ", and "
@@ -18149,8 +18142,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "I(X^{(j)}; Y|B)"
@@ -18159,8 +18152,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": " the conditional mutual information of "
@@ -18169,8 +18162,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "X^{(j)}"
@@ -18179,8 +18172,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": " and "
@@ -18189,8 +18182,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "Y"
@@ -18199,8 +18192,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": " given the variables in "
@@ -18209,8 +18202,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "inline_equation",
                                     "content": "B"
@@ -18219,8 +18212,8 @@
                                     "bbox": [
                                         47,
                                         55,
-                                        388,
-                                        92
+                                        389,
+                                        93
                                     ],
                                     "type": "text",
                                     "content": ". In addition,"
@@ -18268,7 +18261,7 @@
                     "bbox": [
                         47,
                         159,
-                        388,
+                        390,
                         207
                     ],
                     "type": "text",
@@ -18278,7 +18271,7 @@
                             "bbox": [
                                 47,
                                 159,
-                                388,
+                                390,
                                 207
                             ],
                             "spans": [
@@ -18286,7 +18279,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "text",
@@ -18296,17 +18289,17 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "inline_equation",
-                                    "content": "I(X^{(1)}, \\ldots, X^{(p)}; Y)"
+                                    "content": "I(X^{(1)},\\ldots ,X^{(p)};Y)"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "text",
@@ -18316,17 +18309,17 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "inline_equation",
-                                    "content": "I(X^{(j)}; Y|B)"
+                                    "content": "I(X^{(j)};Y|B)"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "text",
@@ -18336,7 +18329,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "inline_equation",
@@ -18346,7 +18339,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "text",
@@ -18356,7 +18349,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "inline_equation",
@@ -18366,7 +18359,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "text",
@@ -18376,7 +18369,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "inline_equation",
@@ -18386,7 +18379,7 @@
                                     "bbox": [
                                         47,
                                         159,
-                                        388,
+                                        390,
                                         207
                                     ],
                                     "type": "text",
@@ -18401,7 +18394,7 @@
                     "bbox": [
                         47,
                         208,
-                        389,
+                        390,
                         304
                     ],
                     "type": "text",
@@ -18411,7 +18404,7 @@
                             "bbox": [
                                 47,
                                 208,
-                                389,
+                                390,
                                 304
                             ],
                             "spans": [
@@ -18419,7 +18412,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18429,7 +18422,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18439,7 +18432,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18449,7 +18442,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18459,7 +18452,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18469,17 +18462,17 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
-                                    "content": "I(X^{(j)};Y|B) = 0"
+                                    "content": "I(X^{(j)}; Y|B) = 0"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18489,7 +18482,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18499,7 +18492,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18509,7 +18502,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18519,7 +18512,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18529,7 +18522,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18539,7 +18532,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18549,17 +18542,17 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
-                                    "content": "X^{(p + 1)}"
+                                    "content": "X^{(p+1)}"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18569,7 +18562,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18579,7 +18572,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18589,7 +18582,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
@@ -18599,7 +18592,7 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18609,17 +18602,17 @@
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "inline_equation",
-                                    "content": "V \\cup \\{X^{(p + 1)}\\}"
+                                    "content": "V \\cup \\{X^{(p+1)}\\}"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         208,
-                                        389,
+                                        390,
                                         304
                                     ],
                                     "type": "text",
@@ -18634,7 +18627,7 @@
                     "bbox": [
                         47,
                         305,
-                        388,
+                        390,
                         434
                     ],
                     "type": "text",
@@ -18644,7 +18637,7 @@
                             "bbox": [
                                 47,
                                 305,
-                                388,
+                                390,
                                 434
                             ],
                             "spans": [
@@ -18652,17 +18645,37 @@
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "text",
-                                    "content": "The most notable results regarding MDA\\* are due to Ishwaran (2007), who studies a slight modification of the criterion replacing permutation by feature noising. To add noise to a variable "
+                                    "content": "The most notable results regarding "
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathrm{MDA}^{\\star}"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": " are due to Ishwaran (2007), who studies a slight modification of the criterion replacing permutation by feature noising. To add noise to a variable "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
                                         434
                                     ],
                                     "type": "inline_equation",
@@ -18672,17 +18685,17 @@
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "text",
-                                    "content": " , one considers a new observation "
+                                    "content": ", one considers a new observation "
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "inline_equation",
@@ -18692,17 +18705,17 @@
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "text",
-                                    "content": " , take "
+                                    "content": ", take "
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "inline_equation",
@@ -18712,7 +18725,7 @@
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "text",
@@ -18722,7 +18735,7 @@
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "inline_equation",
@@ -18732,41 +18745,111 @@
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "text",
-                                    "content": " . Then the right or left child node is selected with probability 1/2, and this procedure is repeated for each subsequent node (whether it is performed along the variable "
+                                    "content": ". Then the right or left child node is selected with probability "
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "inline_equation",
-                                    "content": "X^{(j)}"
+                                    "content": "1/2"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "text",
-                                    "content": " or not). The variable importance MDA\\*(X(j)) is still computed by comparing the error of the forest with that of the \"noisy\" forest. Assuming that the forest is consistent and that the regression function is piecewise constant, Ishwaran (2007) gives the asymptotic behavior of MDA\\*(X(j)) when the sample size tends to infinity. This behavior is intimately related to the set of subtrees (of the initial regression tree) whose roots are split along the coordinate "
+                                    "content": ", and this procedure is repeated for each subsequent node (whether it is performed along the variable "
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         305,
-                                        388,
+                                        390,
                                         434
                                     ],
                                     "type": "inline_equation",
                                     "content": "X^{(j)}"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": " or not). The variable importance "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathrm{MDA}^{\\star}(X^{(j)})"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": " is still computed by comparing the error of the forest with that of the \"noisy\" forest. Assuming that the forest is consistent and that the regression function is piecewise constant, Ishwaran (2007) gives the asymptotic behavior of "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "\\mathrm{MDA}^{\\star}(X^{(j)})"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": " when the sample size tends to infinity. This behavior is intimately related to the set of subtrees (of the initial regression tree) whose roots are split along the coordinate "
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "inline_equation",
+                                    "content": "X^{(j)}"
+                                },
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        390,
+                                        434
+                                    ],
+                                    "type": "text",
+                                    "content": "."
                                 }
                             ]
                         }
@@ -18777,7 +18860,7 @@
                     "bbox": [
                         47,
                         435,
-                        388,
+                        389,
                         470
                     ],
                     "type": "text",
@@ -18787,7 +18870,7 @@
                             "bbox": [
                                 47,
                                 435,
-                                388,
+                                389,
                                 470
                             ],
                             "spans": [
@@ -18795,7 +18878,7 @@
                                     "bbox": [
                                         47,
                                         435,
-                                        388,
+                                        389,
                                         470
                                     ],
                                     "type": "text",
@@ -18805,7 +18888,7 @@
                                     "bbox": [
                                         47,
                                         435,
-                                        388,
+                                        389,
                                         470
                                     ],
                                     "type": "inline_equation",
@@ -18815,7 +18898,7 @@
                                     "bbox": [
                                         47,
                                         435,
-                                        388,
+                                        389,
                                         470
                                     ],
                                     "type": "text",
@@ -18864,7 +18947,7 @@
                     "bbox": [
                         47,
                         517,
-                        388,
+                        389,
                         566
                     ],
                     "type": "text",
@@ -18874,7 +18957,7 @@
                             "bbox": [
                                 47,
                                 517,
-                                388,
+                                389,
                                 566
                             ],
                             "spans": [
@@ -18882,7 +18965,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -18892,7 +18975,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -18902,7 +18985,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -18912,7 +18995,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -18922,7 +19005,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -18932,7 +19015,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -18942,7 +19025,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -18952,7 +19035,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -18962,7 +19045,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -18972,17 +19055,17 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
-                                    "content": "\\mathbb{1} = (1,\\dots ,1)^{\\top}"
+                                    "content": "\\mathbb{1} = (1,\\ldots ,1)^{\\top}"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -18992,7 +19075,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -19002,7 +19085,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -19012,7 +19095,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -19022,7 +19105,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -19032,7 +19115,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -19042,7 +19125,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -19052,17 +19135,17 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
-                                    "content": "j\\in \\{1,\\ldots ,p\\}"
+                                    "content": "j\\in \\{1,\\dots ,p\\}"
                                 },
                                 {
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -19072,7 +19155,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "inline_equation",
@@ -19082,7 +19165,7 @@
                                     "bbox": [
                                         47,
                                         517,
-                                        388,
+                                        389,
                                         566
                                     ],
                                     "type": "text",
@@ -19688,7 +19771,7 @@
                     "bbox": [
                         49,
                         181,
-                        134,
+                        133,
                         193
                     ],
                     "type": "title",
@@ -19698,7 +19781,7 @@
                             "bbox": [
                                 49,
                                 181,
-                                134,
+                                133,
                                 193
                             ],
                             "spans": [
@@ -19706,7 +19789,7 @@
                                     "bbox": [
                                         49,
                                         181,
-                                        134,
+                                        133,
                                         193
                                     ],
                                     "type": "text",
@@ -19754,7 +19837,7 @@
                     "bbox": [
                         49,
                         343,
-                        134,
+                        133,
                         356
                     ],
                     "type": "title",
@@ -19764,7 +19847,7 @@
                             "bbox": [
                                 49,
                                 343,
-                                134,
+                                133,
                                 356
                             ],
                             "spans": [
@@ -19772,7 +19855,7 @@
                                     "bbox": [
                                         49,
                                         343,
-                                        134,
+                                        133,
                                         356
                                     ],
                                     "type": "text",
@@ -19820,7 +19903,7 @@
                     "bbox": [
                         49,
                         432,
-                        142,
+                        141,
                         445
                     ],
                     "type": "title",
@@ -19830,7 +19913,7 @@
                             "bbox": [
                                 49,
                                 432,
-                                142,
+                                141,
                                 445
                             ],
                             "spans": [
@@ -19838,7 +19921,7 @@
                                     "bbox": [
                                         49,
                                         432,
-                                        142,
+                                        141,
                                         445
                                     ],
                                     "type": "text",
@@ -19886,7 +19969,7 @@
                     "bbox": [
                         49,
                         546,
-                        134,
+                        133,
                         558
                     ],
                     "type": "title",
@@ -19896,7 +19979,7 @@
                             "bbox": [
                                 49,
                                 546,
-                                134,
+                                133,
                                 558
                             ],
                             "spans": [
@@ -19904,7 +19987,7 @@
                                     "bbox": [
                                         49,
                                         546,
-                                        134,
+                                        133,
                                         558
                                     ],
                                     "type": "text",
@@ -20063,7 +20146,7 @@
                         48,
                         56,
                         122,
-                        68
+                        69
                     ],
                     "type": "title",
                     "angle": 0,
@@ -20073,7 +20156,7 @@
                                 48,
                                 56,
                                 122,
-                                68
+                                69
                             ],
                             "spans": [
                                 {
@@ -20081,7 +20164,7 @@
                                         48,
                                         56,
                                         122,
-                                        68
+                                        69
                                     ],
                                     "type": "text",
                                     "content": "6.7 Missing data"
@@ -20129,7 +20212,7 @@
                         48,
                         188,
                         137,
-                        199
+                        200
                     ],
                     "type": "title",
                     "angle": 0,
@@ -20139,7 +20222,7 @@
                                 48,
                                 188,
                                 137,
-                                199
+                                200
                             ],
                             "spans": [
                                 {
@@ -20147,7 +20230,7 @@
                                         48,
                                         188,
                                         137,
-                                        199
+                                        200
                                     ],
                                     "type": "text",
                                     "content": "6.8 Single class data"
@@ -20195,7 +20278,7 @@
                         48,
                         343,
                         153,
-                        354
+                        355
                     ],
                     "type": "title",
                     "angle": 0,
@@ -20205,7 +20288,7 @@
                                 48,
                                 343,
                                 153,
-                                354
+                                355
                             ],
                             "spans": [
                                 {
@@ -20213,7 +20296,7 @@
                                         48,
                                         343,
                                         153,
-                                        354
+                                        355
                                     ],
                                     "type": "text",
                                     "content": "6.9 Unbalanced data set"
@@ -20226,9 +20309,9 @@
                 {
                     "bbox": [
                         48,
-                        367,
+                        366,
                         389,
-                        451
+                        452
                     ],
                     "type": "text",
                     "angle": 0,
@@ -20236,17 +20319,17 @@
                         {
                             "bbox": [
                                 48,
-                                367,
+                                366,
                                 389,
-                                451
+                                452
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         48,
-                                        367,
+                                        366,
                                         389,
-                                        451
+                                        452
                                     ],
                                     "type": "text",
                                     "content": "Random forests can naturally be adapted to fit the unbalanced data framework by down-sampling the majority class and growing each tree on a more balanced data set (Chen et al. 2004; Kuhn and Johnson 2013). An interesting application in which unbalanced data sets are involved is by Fink et al. (2010), who explore the continent-wide inter-annual migrations of common North American birds. They use random forests for which each tree is trained and allowed to predict on a particular (random) region in space and time."
@@ -20261,7 +20344,7 @@
                         48,
                         474,
                         193,
-                        486
+                        488
                     ],
                     "type": "title",
                     "angle": 0,
@@ -20271,7 +20354,7 @@
                                 48,
                                 474,
                                 193,
-                                486
+                                488
                             ],
                             "spans": [
                                 {
@@ -20279,7 +20362,7 @@
                                         48,
                                         474,
                                         193,
-                                        486
+                                        488
                                     ],
                                     "type": "text",
                                     "content": "7 Conclusion and perspectives"
@@ -20292,7 +20375,7 @@
                 {
                     "bbox": [
                         48,
-                        499,
+                        498,
                         389,
                         606
                     ],
@@ -20302,7 +20385,7 @@
                         {
                             "bbox": [
                                 48,
-                                499,
+                                498,
                                 389,
                                 606
                             ],
@@ -20310,7 +20393,7 @@
                                 {
                                     "bbox": [
                                         48,
-                                        499,
+                                        498,
                                         389,
                                         606
                                     ],
@@ -20327,9 +20410,9 @@
                 {
                     "bbox": [
                         49,
-                        32,
+                        31,
                         142,
-                        41
+                        42
                     ],
                     "type": "header",
                     "angle": 0,
@@ -20337,17 +20420,17 @@
                         {
                             "bbox": [
                                 49,
-                                32,
+                                31,
                                 142,
-                                41
+                                42
                             ],
                             "spans": [
                                 {
                                     "bbox": [
                                         49,
-                                        32,
+                                        31,
                                         142,
-                                        41
+                                        42
                                     ],
                                     "type": "text",
                                     "content": "A random forest guided tour"
@@ -20360,7 +20443,7 @@
                 {
                     "bbox": [
                         374,
-                        32,
+                        31,
                         388,
                         40
                     ],
@@ -20370,7 +20453,7 @@
                         {
                             "bbox": [
                                 374,
-                                32,
+                                31,
                                 388,
                                 40
                             ],
@@ -20378,7 +20461,7 @@
                                 {
                                     "bbox": [
                                         374,
-                                        32,
+                                        31,
                                         388,
                                         40
                                     ],
@@ -20392,7 +20475,7 @@
                 },
                 {
                     "bbox": [
-                        345,
+                        344,
                         622,
                         389,
                         634
@@ -20402,7 +20485,7 @@
                     "lines": [
                         {
                             "bbox": [
-                                345,
+                                344,
                                 622,
                                 389,
                                 634
@@ -20410,7 +20493,7 @@
                             "spans": [
                                 {
                                     "bbox": [
-                                        345,
+                                        344,
                                         622,
                                         389,
                                         634
@@ -20983,7 +21066,7 @@
                                 50,
                                 540,
                                 369,
-                                549
+                                548
                             ],
                             "type": "ref_text",
                             "angle": 0,
@@ -20993,7 +21076,7 @@
                                         50,
                                         540,
                                         369,
-                                        549
+                                        548
                                     ],
                                     "spans": [
                                         {
@@ -21001,7 +21084,7 @@
                                                 50,
                                                 540,
                                                 369,
-                                                549
+                                                548
                                             ],
                                             "type": "text",
                                             "content": "Bernard S, Adam S, Heutte L (2012) Dynamic random forests. Pattern Recognit Lett 33:1580-1586"
@@ -21014,7 +21097,7 @@
                         {
                             "bbox": [
                                 50,
-                                550,
+                                549,
                                 322,
                                 558
                             ],
@@ -21024,7 +21107,7 @@
                                 {
                                     "bbox": [
                                         50,
-                                        550,
+                                        549,
                                         322,
                                         558
                                     ],
@@ -21032,7 +21115,7 @@
                                         {
                                             "bbox": [
                                                 50,
-                                                550,
+                                                549,
                                                 322,
                                                 558
                                             ],
@@ -21700,7 +21783,7 @@
                             "bbox": [
                                 49,
                                 267,
-                                382,
+                                383,
                                 276
                             ],
                             "type": "ref_text",
@@ -21710,7 +21793,7 @@
                                     "bbox": [
                                         49,
                                         267,
-                                        382,
+                                        383,
                                         276
                                     ],
                                     "spans": [
@@ -21718,11 +21801,11 @@
                                             "bbox": [
                                                 49,
                                                 267,
-                                                382,
+                                                383,
                                                 276
                                             ],
                                             "type": "text",
-                                            "content": "Clémenton S, Vayatis N (2009) Tree-based ranking methods. IEEE Trans Inform Theory 55:4316-4336"
+                                            "content": "Clémençon S, Vayatis N (2009) Tree-based ranking methods. IEEE Trans Inform Theory 55:4316-4336"
                                         }
                                     ]
                                 }
@@ -22063,7 +22146,7 @@
                             "bbox": [
                                 49,
                                 447,
-                                384,
+                                383,
                                 456
                             ],
                             "type": "ref_text",
@@ -22073,7 +22156,7 @@
                                     "bbox": [
                                         49,
                                         447,
-                                        384,
+                                        383,
                                         456
                                     ],
                                     "spans": [
@@ -22081,7 +22164,7 @@
                                             "bbox": [
                                                 49,
                                                 447,
-                                                384,
+                                                383,
                                                 456
                                             ],
                                             "type": "text",
@@ -23145,7 +23228,7 @@
                                 49,
                                 418,
                                 388,
-                                444
+                                445
                             ],
                             "type": "ref_text",
                             "angle": 0,
@@ -23155,7 +23238,7 @@
                                         49,
                                         418,
                                         388,
-                                        444
+                                        445
                                     ],
                                     "spans": [
                                         {
@@ -23163,7 +23246,7 @@
                                                 49,
                                                 418,
                                                 388,
-                                                444
+                                                445
                                             ],
                                             "type": "text",
                                             "content": "Kruppa J, Liu Y, Diener H-C, Holste T, Weimar C, König IR, Ziegler A (2014b) Probability estimation with machine learning methods for dichotomous and multicategory outcome: applications. Biometr J 56:564-583"
@@ -23376,7 +23459,7 @@
                                 49,
                                 541,
                                 388,
-                                569
+                                570
                             ],
                             "type": "ref_text",
                             "angle": 0,
@@ -23386,7 +23469,7 @@
                                         49,
                                         541,
                                         388,
-                                        569
+                                        570
                                     ],
                                     "spans": [
                                         {
@@ -23394,7 +23477,7 @@
                                                 49,
                                                 541,
                                                 388,
-                                                569
+                                                570
                                             ],
                                             "type": "text",
                                             "content": "Louppe G, Wehenkel L, Sutera A, Geurts P (2013) Understanding variable importances in forests of randomized trees. In: Burges CJC, Bottou L, Welling M, Ghahramani Z, Weinberger KQ (eds) Advances in neural information processing systems, pp 431-439"
@@ -23440,7 +23523,7 @@
                         {
                             "bbox": [
                                 49,
-                                588,
+                                589,
                                 309,
                                 598
                             ],
@@ -23450,7 +23533,7 @@
                                 {
                                     "bbox": [
                                         49,
-                                        588,
+                                        589,
                                         309,
                                         598
                                     ],
@@ -23458,12 +23541,12 @@
                                         {
                                             "bbox": [
                                                 49,
-                                                588,
+                                                589,
                                                 309,
                                                 598
                                             ],
                                             "type": "text",
-                                            "content": "Meinhausen N (2006) Quantile regression forests. J Mach Learn Res 7:983-999"
+                                            "content": "Meinshausen N (2006) Quantile regression forests. J Mach Learn Res 7:983-999"
                                         }
                                     ]
                                 }
@@ -23598,7 +23681,7 @@
                             "bbox": [
                                 49,
                                 58,
-                                266,
+                                267,
                                 67
                             ],
                             "type": "ref_text",
@@ -23608,7 +23691,7 @@
                                     "bbox": [
                                         49,
                                         58,
-                                        266,
+                                        267,
                                         67
                                     ],
                                     "spans": [
@@ -23616,11 +23699,11 @@
                                             "bbox": [
                                                 49,
                                                 58,
-                                                266,
+                                                267,
                                                 67
                                             ],
                                             "type": "text",
-                                            "content": "Meinshausen N (2009) Forest Garrote. Electron J Stat 3:1288-1304"
+                                            "content": "Meinhausen N (2009) Forest Garrote. Electron J Stat 3:1288-1304"
                                         }
                                     ]
                                 }
@@ -24027,7 +24110,7 @@
                             "bbox": [
                                 49,
                                 267,
-                                363,
+                                364,
                                 275
                             ],
                             "type": "ref_text",
@@ -24037,7 +24120,7 @@
                                     "bbox": [
                                         49,
                                         267,
-                                        363,
+                                        364,
                                         275
                                     ],
                                     "spans": [
@@ -24045,7 +24128,7 @@
                                             "bbox": [
                                                 49,
                                                 267,
-                                                363,
+                                                364,
                                                 275
                                             ],
                                             "type": "text",
@@ -24159,7 +24242,7 @@
                             "bbox": [
                                 49,
                                 323,
-                                288,
+                                289,
                                 333
                             ],
                             "type": "ref_text",
@@ -24169,7 +24252,7 @@
                                     "bbox": [
                                         49,
                                         323,
-                                        288,
+                                        289,
                                         333
                                     ],
                                     "spans": [
@@ -24177,7 +24260,7 @@
                                             "bbox": [
                                                 49,
                                                 323,
-                                                288,
+                                                289,
                                                 333
                                             ],
                                             "type": "text",
@@ -24588,7 +24671,7 @@
                             "bbox": [
                                 49,
                                 522,
-                                326,
+                                327,
                                 531
                             ],
                             "type": "ref_text",
@@ -24598,7 +24681,7 @@
                                     "bbox": [
                                         49,
                                         522,
-                                        326,
+                                        327,
                                         531
                                     ],
                                     "spans": [
@@ -24606,7 +24689,7 @@
                                             "bbox": [
                                                 49,
                                                 522,
-                                                326,
+                                                327,
                                                 531
                                             ],
                                             "type": "text",
@@ -24621,7 +24704,7 @@
                             "bbox": [
                                 49,
                                 532,
-                                332,
+                                333,
                                 540
                             ],
                             "type": "ref_text",
@@ -24631,7 +24714,7 @@
                                     "bbox": [
                                         49,
                                         532,
-                                        332,
+                                        333,
                                         540
                                     ],
                                     "spans": [
@@ -24639,7 +24722,7 @@
                                             "bbox": [
                                                 49,
                                                 532,
-                                                332,
+                                                333,
                                                 540
                                             ],
                                             "type": "text",
@@ -24862,5 +24945,5 @@
         }
     ],
     "_backend": "vlm",
-    "_version_name": "2.5.3"
+    "_version_name": "2.6.4"
 }
