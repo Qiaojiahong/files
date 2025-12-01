@@ -1,0 +1,2462 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        67,
+                        153,
+                        77
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                67,
+                                153,
+                                77
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        67,
+                                        153,
+                                        77
+                                    ],
+                                    "type": "text",
+                                    "content": "INVITED REVIEW ESSAY"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        47,
+                        94,
+                        359,
+                        128
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                94,
+                                359,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        94,
+                                        359,
+                                        128
+                                    ],
+                                    "type": "text",
+                                    "content": "Tracing the Feminist Maternal in a European Context: A Review"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        47,
+                        139,
+                        391,
+                        183
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                139,
+                                391,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        139,
+                                        391,
+                                        183
+                                    ],
+                                    "type": "text",
+                                    "content": "Gill Rye, Victoria Browne, Adalgisa Giorgio, Emily Jeremiah, and Abigail Lee Six (eds.), Motherhood in Literature and Culture: Interdisciplinary Perspectives from Europe, New York, Routledge, 2017."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        47,
+                        195,
+                        391,
+                        237
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                195,
+                                391,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        195,
+                                        391,
+                                        237
+                                    ],
+                                    "type": "text",
+                                    "content": "Luisa Muraro, The Symbolic Order of the Mother. 1991. Trans. Francesca Novello. Timothy Murphy (ed.), Albany, New York: SUNY Press, 2018."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        47,
+                        252,
+                        391,
+                        294
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                252,
+                                391,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        252,
+                                        391,
+                                        294
+                                    ],
+                                    "type": "text",
+                                    "content": "Cesare Casarino and Andrea Righi (eds.), Another Mother: Diotima and the Symbolic Order of Italian Feminism. Trans. Mark William Epstein, Minneapolis: University of Minnesota Press, 2018."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        47,
+                        305,
+                        120,
+                        316
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                305,
+                                120,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        305,
+                                        120,
+                                        316
+                                    ],
+                                    "type": "text",
+                                    "content": "Tatjana Takseva"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        121,
+                        305,
+                        129,
+                        315
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                121,
+                                305,
+                                129,
+                                315
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        121,
+                                        305,
+                                        129,
+                                        315
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                121,
+                                                305,
+                                                129,
+                                                315
+                                            ],
+                                            "type": "image",
+                                            "image_path": "c525a6ccde76f2b4aa0b398a81e5f1182f3a6148dab8a782e89a3d6b7ad50e20.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        47,
+                        324,
+                        215,
+                        333
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                324,
+                                215,
+                                333
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        324,
+                                        215,
+                                        333
+                                    ],
+                                    "type": "text",
+                                    "content": "St Mary's University, Halifax, Nova Scotia, Canada"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        47,
+                        334,
+                        152,
+                        343
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                334,
+                                152,
+                                343
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        334,
+                                        152,
+                                        343
+                                    ],
+                                    "type": "text",
+                                    "content": "Email: Tatjana.Takseva@smu.ca"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        47,
+                        353,
+                        140,
+                        363
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                353,
+                                140,
+                                363
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        353,
+                                        140,
+                                        363
+                                    ],
+                                    "type": "text",
+                                    "content": "(Received 20 October 2020)"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        47,
+                        382,
+                        391,
+                        585
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                382,
+                                391,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        382,
+                                        391,
+                                        585
+                                    ],
+                                    "type": "text",
+                                    "content": "\"What might motherhood and Europe have to do with one another?\" is a question posed by Lisa Baraitser in the Foreword to the collection, Motherhood in Literature and Culture: Interdisciplinary Perspectives from Europe. The question is certainly pertinent at a time when the very concept of Europe as a geopolitical space and an imaginary construct is being interrogated and critiqued from both within and without the carefully policed borders of the European Union project. It is also pertinent given the increased amount of scholarship on the maternal produced by scholars occupying various transnational locations and positionalities, working to deconstruct unitary and essentialist ideas about mothers and motherhood. The possibility of identifying a specifically European maternal theoretical and lived space thus invites us to carefully theorize the diversity of European contexts, a diversity that is often occluded or elided by easy references to Eurocentric bias in feminist research, as well as the dis/continuities between European-based and Anglo-American feminist scholarship on the maternal. And yet, precisely because the work of mothering always unfolds within specific micro and macro geographic, social, cultural, and ideological spaces, the question merits closer attention. In this essay I consider the cluster of three books delineating the contours of an Italian, as well as a more broadly conceptualized European, philosophy of the maternal in light of these evolving academic and experiential realities."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        34,
+                        131,
+                        43
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                34,
+                                131,
+                                43
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        34,
+                                        131,
+                                        43
+                                    ],
+                                    "type": "text",
+                                    "content": "Hypatia (2024), 39, 558-567"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        47,
+                        43,
+                        117,
+                        52
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                43,
+                                117,
+                                52
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        43,
+                                        117,
+                                        52
+                                    ],
+                                    "type": "text",
+                                    "content": "doi:10.1017/hyp.2024.26"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        313,
+                        35,
+                        390,
+                        53
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                313,
+                                35,
+                                390,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        313,
+                                        35,
+                                        390,
+                                        53
+                                    ],
+                                    "type": "text",
+                                    "content": "CAMBRIDGE UNIVERSITY PRESS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        596,
+                        372,
+                        606
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                596,
+                                372,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        596,
+                                        372,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "© The Author(s), 2024. Published by Cambridge University Press on behalf of Hypatia, a Nonprofit Corporation"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        54,
+                        383,
+                        244
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                54,
+                                383,
+                                244
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        54,
+                                        383,
+                                        244
+                                    ],
+                                    "type": "text",
+                                    "content": "Over 18 essays, Motherhood in Literature and Culture articulates aspects of recent European feminist thought on motherhood via four parts, each one containing several essays loosely centred around the themes of: Pregnancy and Birth; Generation and Relation; Experience and Affect; and two autobiographic works in the final and shortest section titled Reflections. The book engages some of the factors that shape women's experiences as mothers via case studies from across disciplines and a limited selection of European cultures. It contributes to current debates about maternal lived experiences by shedding contemporary light on agency, embodiment, identity, and power through literature, art, law, medicine, philosophy, politics, psychoanalysis, and social policy. The chapters highlight that maternal experience is affected by intersections among class, dis/ability, ethnicity, nationality, religion, sexual orientation, as well as race. Many chapters also refreshingly investigate how empowered forms of mothering involve maternal resistance to and negotiations with so-called \"regimes of truth\" or culturally normative assumptions and expectations surrounding the performance of good motherhood. Many suggest that empowered mothering also requires active revisioning of the language used to refer to conception and gestation: that is, to \"origin\" linked to the mother."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        246,
+                        383,
+                        504
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                246,
+                                383,
+                                504
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        246,
+                                        383,
+                                        504
+                                    ],
+                                    "type": "text",
+                                    "content": "For example, Gabrielle Griffin's essay, \"Erasing Mother, Seeking Father: Biotechnological Interventions, Anxieties over Motherhood, and Donor Offspring's Narratives of Self\" is especially illuminating of the ways in which, on the one hand, the mother is erased from the procreative process by a function of biotechnological intervention, and on the other hand, how donor offspring struggle with the lack of language to name their varied familial relations, socio-cultural norms about the family, and dominant cultural narratives of genetic connections that validate ideas about family. Emily Jeremiah brings to bear her excellent work on maternal ambivalence on Sarah Moss' 2011 unsentimental novel about motherhood, *Night Waking*, showing that literature has the capacity to articulate maternal ambivalence in ethically complex and politically significant ways. In \"How to Say Hello to the Sea\": Literary Perspectives on Medico-Legal Narratives of Maternal Filicide Ruth Cain tackles filicide, the killing of a child over one year old by a parent, through a feminist-informed critical theory as applied to Veronique Olmi's 2010 novel, *Beside the Sea*. Grounding her analysis within a literary aesthetic, Cain's reading analyzes the subjectivity of those mothers socially designated as \"bad\" while revealing the socio-cultural complexities behind acts that may otherwise remain \"unspeakable.\" Adalgisa Giorgio's \"Matrixial Creativity and the Wit(h)nessing of Trauma: Reconnecting Mothers and Daughters in Marosia Castaldi's Novel *Dentro le mie mani le tue: Tetralogia di Nightwater* (2007) investigates the re-establishment of a mother-daughter transsubjective becoming in a distinctly Italian context. Through a sensitive reading of Castaldi's four-part autobiographically-inspired narrative, Giorgio describes a process of becoming as originating in a maternal space that has been halted by external forces, thus leading to trauma."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        41,
+                        505,
+                        383,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                505,
+                                383,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        505,
+                                        383,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "The respective strengths and weaknesses of the collection hinge somewhat uneasily on the scope implied by the term \"European.\" The main strength of this collection is its activation of political and theoretical potential contained in the maternal through examining how literary discourse on mothers and motherhood intersects with other cultural forms as well as mothers' lived experience. Each of the essays in the collection is focused on a specific maternal context emerging either from specific women's lived experiences, or the representation of the maternal in works of fiction, where issues tend to be funneled through the consciousness of individual characters. As such the essays do interrogate the limits of normativity by generating agency from within distinct maternal and"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        318,
+                        35,
+                        349,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                35,
+                                349,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        35,
+                                        349,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "Hypatia"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        35,
+                        382,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                35,
+                                382,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        35,
+                                        382,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "559"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        53,
+                        390,
+                        99
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                53,
+                                390,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        53,
+                                        390,
+                                        99
+                                    ],
+                                    "type": "text",
+                                    "content": "body relations. Moreover, the rootedness of the collection in the sphere of cultural production and literary studies is a singular theoretical contribution to the field of motherhood studies as it reveals the interdependence between discourse and experience in particular literary and cultural contexts."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        98,
+                        390,
+                        436
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                98,
+                                390,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        98,
+                                        390,
+                                        436
+                                    ],
+                                    "type": "text",
+                                    "content": "At the same time, the collection positions itself as occupying a transnational space, acknowledging that \"concepts and practices of motherhood are shaped by historical and geographic contexts\" and aiming to \"raise questions about the very locatedness of maternity.\" The editors also observe that motherhood intersects questions of nationality, race, class, religion, sexuality, (dis)ability, making the maternal a field both fraught with complexity and rich in potential, since experiences of mothering are very diverse, depending on women's complex and multiple positionalities. And this is certainly true: while motherhood functions as universal to the extent that it is gendered female, that it remains connected to the birth and/or long-term care of children, and that it is common to all those who occupy the social position and category of woman and/or take on the role of mother, the subjective experience and socio-cultural practices of mothering vary widely based on multiple factors. Class, race, and sexuality are among those factors, but they exist alongside other important markers of identity, such as culture, ethnicity, religious denomination, citizenship, and majority/minority status, all of which are in turn situated within specific economic and political systems and structures. The multiplicity of these contexts and their implications for specific maternal identities are of pressing significance to the current European context. This context has been increasingly defined by extreme nationalist and protectionist movements, growing reproductive injustices, selective pronatalism, and the complex realities of all other European nation states and cultures that remain outside the EU, or at its political periphery. Much of this relates to the in/out logic of the European Union itself, which has come to function as a hegemonic geopolitical entity that defines the limits of \"European—ness.\" The current complexity of national belonging and the contestation of borders on the European continent have wide-reaching empirical and theoretical implications for different mothers. Careful application of the intersectional lens to such diversity would uncover the many different ways in which specific national belonging constructs specific types of normativity and marginality. The relationship between intersectional approaches and transnational feminism in a European setting has yet to be charted systematically, and it is a relationship that for the most part remains underdeveloped in the collection."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        48,
+                        437,
+                        390,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                437,
+                                390,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        437,
+                                        390,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "In the current European geopolitical climate, the space of the maternal, in feminist and transnational terms, is neither self-evident nor simple and requires careful handling. For example, only one essay in the collection discusses xenophobia and nationality, and even then, the context is glossed as involving an \"Occidental nationality\" (chapter 13). The term \"accident\" by definition means being situated in, or characteristic of the West, or of Western identity, a category of location and putative identity that is itself hotly debated, adopted, and rejected differently by different individuals and groups within Europe. The collection overall, however, does indeed reflect an occidental orientation. Except for one essay dealing with the contemporary Polish artist Joanna Rajkowska, the essays focus on France, Italy, Germany, Norway, Portugal, Spain, and the UK, nation states that have come to historically refer to and stand in for \"Western\" values and identities, thus constituting a normative \"Western\" discursive framework. Such a framework cannot, therefore, be simply contextualized as representing \"various European contexts\" or as unproblematically belonging to what the editors refer as the \"constellation 'Europe.'\" Even if we adopt the metaphor of Europe as a"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        35,
+                        63,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                35,
+                                63,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        35,
+                                        63,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "560"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        80,
+                        34,
+                        144,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                34,
+                                144,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        34,
+                                        144,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "Tatjana Takseva"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        54,
+                        383,
+                        268
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                54,
+                                383,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        54,
+                                        383,
+                                        268
+                                    ],
+                                    "type": "text",
+                                    "content": "constellation, the position of \"stars/planets\"/nation states to one another within this \"constellation\" has been hotly contested and is far from unitary. Vast regions of Europe remain unaccounted for in this configuration, such as for example the Scandinavian countries, reportedly specific in their practice of what Anglo-American media refer to as \"Nordic parenting\", as well as all European former socialist countries. The extent to which Poland partakes in \"Western\" European values and traditions is always precariously balanced with its classification as a recently transformed \"Eastern bloc\" country. All former Yugoslav countries—Slovenia, Croatia, Bosnia and Herzegovina, Serbia, North Macedonia, and Montenegro—as well as other Balkan countries such as Albania, Romania, Bulgaria, and Greece are missing from this configuration. Also missing are Hungary, Czechia, Slovakia, Ukraine, Belarus, Lithuania, Latvia, Estonia, as well as parts of Russia whose western border runs the long side of Finland, a country that is geopolitically categorized as belonging to Northern Europe. When seen from a \"Western\" perspective, and in terms of hegemonic cultural and geopolitical trends, many of the counties I have listed above have historically occupied the position of \"Europe's periphery,\" with all accompanying connotations about \"centers\" and \"margins\" and are thus simply overlooked in terms of how they constitute a European identity. The collection colludes in this habitual oversight, with significant implications for the subject of transnational maternity."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        269,
+                        382,
+                        548
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                269,
+                                382,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        269,
+                                        382,
+                                        548
+                                    ],
+                                    "type": "text",
+                                    "content": "Within each one of these specific European contexts, in turn, maternal experiences and subjectivities, as socially, culturally, and politically embedded and temporally situated, show great diversity in what counts as normative motherhood, as well as what can be recognized as either emancipatory or marginalized practices in relation to that norm. In so-called post-socialist countries, for example, over the last 50 years maternal ideology has been shaped in response to a very different social and economic system from the one established in France, Italy, Germany, Norway, Portugal, Spain, and the UK. This was a system that publicly valorized women's active participation in the political, public sphere, and in the labor force, and where ideas about gender equality, normative motherhood, and the nature of women's liberation resonate very differently. What constitutes normative motherhood in socio-cultural settings where free birth control and access to abortion services have been the norm since right after WWII, and the mother's paid work outside the home was expected and encouraged through an extensive publicly funded childcare system and generous child-related benefits, is very different from ideas about motherhood that originated in western economic systems with privatized, expensive childcare, with restrictive reproductive state management policies, and where dominant middle-class maternal ideologies have been built on the neoliberal premise that the best care of children is provided around the clock by a stay-at-home biological mother. Recent waves of both forced and voluntary migrations within Europe and across multiple international borders, and the increased pressures at the political borders of the EU, lend an additional layer of complexity to these settings, necessitating even greater self-reflexivity and specificity in terms of whose motherhood and normativity we speak of, how it is positioned in relation to various centres of power, and how we ourselves are located within and across such structures in Europe itself."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        41,
+                        550,
+                        382,
+                        605
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                550,
+                                382,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        550,
+                                        382,
+                                        605
+                                    ],
+                                    "type": "text",
+                                    "content": "If the focus of transnational feminist research is to \"decentre Western epistemologies\" and shake the foundation of \"the sometimes taken-for-granted framework of Western—and specifically UK, US or European-focused-feminist research in the English language\" (Kaur Hundle et al. 2019, 3), our theorizing about motherhood and mothering practices requires a more nuanced analysis of the diversity of"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        318,
+                        35,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                35,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        35,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Hypatia"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        35,
+                        381,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                35,
+                                381,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        35,
+                                        381,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "561"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        47,
+                        53,
+                        390,
+                        403
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                53,
+                                390,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        53,
+                                        390,
+                                        403
+                                    ],
+                                    "type": "text",
+                                    "content": "European contexts. Given the political, economic, and socio-cultural contestations across different parts of Europe, the labels \"European-focused\" or \"Eurocentric\" may now be too broad to be meaningful, running the risk of sliding into either facile generalizations or distinct strands of orientalism practiced by the \"West\" regarding those coded \"other\" within Europe itself. The numerous Balkan nation states, for example, have been historically at the receiving end of an orientalising epistemic shorthand—Balkanism—that either simply overlooks them in discussions of the European, or imagines them as \"other\" to civilized, that is, European values, often used as synonymous with \"Western\" values.<sup>1</sup> Great asymmetries of discursive and representational power are, therefore, built into the European geopolitical and cultural landscapes, and not all feminist research produced in Europe is situated the same way regarding these positional inequalities. This means that labeling something \"European-focused-feminist research\" may no longer suffice to express the reality of these asymmetries and their implications. If we accept that intersectionality aims to examine the lives and experiences of marginalized people as well as more broadly, to illustrate the constraints and demands of many social structures that influence their options and opportunities (Thornton Dill and Zambrana 2021), this perspective has implications for how we understand the transnational, and the ever-increasing complexities surrounding inclusion, exclusion, and diversity in the context of globalized flows of people within and across borders. In feminist theory, conversations about intersectionality and marginalization begin with specific experiences of racialization, but they do not end there. Outside of English-speaking European academic circles and publications, the concept of intersectionality has not made inroads into continental feminist thought, and this may be the first study of the European maternal to suggest that intersectional theory may have something to contribute to this geographic and conceptual area of inquiry. What that is, however, is currently not entirely clear. Therefore, systematic application of the intersectional lens to the study of motherhood in diverse European contexts has the potential to highlight important distinctions in how different European intellectual traditions have shaped normative, oppressive, emancipatory, and other types of maternal practice through the lived experiences of different European mothers. This theoretical potential yet remains to be tapped."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        47,
+                        403,
+                        390,
+                        595
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                403,
+                                390,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        403,
+                                        390,
+                                        595
+                                    ],
+                                    "type": "text",
+                                    "content": "Luisa Muraro's book, *The Symbolic Order of the Mother*, introduces to English-speaking audiences some of these exigencies through an Italian lens. First published in 1991 in the original Italian, the book has since been accessible to European audiences via translations into German, Spanish, and French. As a first English translation, it stands to make a singular impact on Anglo-American feminist philosophy and theory, whose exposure to European theorizing about the maternal has been limited to French strands of feminist writing, mainly through translations of the work by Julia Kristeva, Helene Cixous, and Luce Irigaray. While Muraro's work can be productively examined in dialogue with French feminist traditions and writing on the maternal, it makes a unique contribution on its own. Muraro has been a leading member of the Milan Women's Bookstore Collective: a historic feminist co-operative founded in 1975 by 64 women scholars and activists. The Collective publishes documents, meeting records, and other texts dealing with feminist political theory and practice, and thus represents an independent repository of archival feminist materials, mainly in Italian. Muraro describes the book as \"a personal search inspired by a concept—the symbolic order of the mother—developed through the collaborative thinking of women\" with whom Muraro \"has been doing politics and philosophy for many years\" (xxxiii)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        35,
+                        63,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                35,
+                                63,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        35,
+                                        63,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "562"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        80,
+                        34,
+                        144,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                34,
+                                144,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        34,
+                                        144,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Tatjana Takseva"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        39,
+                        54,
+                        383,
+                        155
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                54,
+                                383,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        54,
+                                        383,
+                                        155
+                                    ],
+                                    "type": "text",
+                                    "content": "The Symbolic Order of the Mother identifies and elaborates over six chapters a feminist philosophy of sexual difference that is rooted in the order of the maternal in its literal, embodied fullness, rather than in a figurative or metaphoric sense. Instead of theorizing the maternal as a role or a performative identity, Muraro starts from the premise of sexual difference and unapologetically theorizes cis-female biology. In dialogue with Cixous, Kristeva, and Irigaray, but with important revisions and contrasts, Muraro conceptualizes the mother as author of life, and from this position fully reorders the significance of the symbolic in Western philosophy, its discursive connection to femaleness and 'nature', and the relative importance of maternal embodiment."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        156,
+                        384,
+                        470
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                156,
+                                384,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        156,
+                                        384,
+                                        470
+                                    ],
+                                    "type": "text",
+                                    "content": "Muraro's feminist philosophy emerges out of linguistic reality and language as a symbolic tool for ordering our experience of others, ourselves, and the world around us: it is the mother who teaches us how to speak, introduces us into the world of words and human civilization via the specific language she uses. As such, at the beginning of human life and the relational world established between mother and child, the mother literally holds the child in the very \"matrix of life\" as she stands at the center of the child's \"realistic mythology,\" occupying what Muraro calls a \"nonmetaphoric symbolicity.\" Unlike Kristeva and Irigaray, who read the maternal subject as a crucial site of affect and relationality that poses interpretive difficulties for the Cartesian cogito ergo sum paradigm, Muraro does not claim that matricide is needed for entry into the symbolic order identified through the father/phallus. The mother for Muraro embodies the true symbolic function in her relational orientation toward her child, and as the person who authors how we as children experience the world around us. The true symbolic function is premised on a close correlation between words and experience, a philosophy that rewrites the order of the symbolic from within a uniquely positioned feminist genealogy of sexual difference. That gap that opens between words and experience manifests only with our entry into the patriarchal symbolic order, which effects all subsequent distance between language and reality and often results in an aversion toward the mother. What emerges from Muraro's perspective is that the root for individual, social, and political change lies in our capacity as daughters to recover the early love for our mothers, and thus to re-enter the \"matrix of life.\" The daughters' re-entry into this primary matrix effects the closing of the gap between words and experience, and represents the assertion of \"structure of the maternal continuum.\" The maternal continuum as proposed by Muraro represents a unique feminist alternative to the male-dominated psychoanalytic insistence on the Oedipal drama as the origin of the fully individuated, creative, and ideal male self, a self that relegates the mother, as Julie Phillips recently noted, \"not only to a supporting role but to a predetermined one\" (Phillips 2022, 5)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        39,
+                        471,
+                        385,
+                        608
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                39,
+                                471,
+                                385,
+                                608
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        471,
+                                        385,
+                                        608
+                                    ],
+                                    "type": "text",
+                                    "content": "The reach of Muraro's thought thus seeks to revise the very roots of Western philosophy in its patriarchal and misogynist dismissal of the \"real\" in favour of an \"ideal\" that is coded masculine. Muraro does not focus her energy on a gynocentric critique of the phallic order but reorders the metaphysical premise that separates subject from object by claiming maternal embodiment as the true beginning and shape of all meaningful life. Her position is founded on the refusal to recognize any point of view superior \"to that of the original relationship with the mother\" since, in her words, \"the real and the true world is precisely the one into which my mother has brought me after nine months of gestation\" (69). This intervention has significant implications for feminist psychoanalysis, as it opens an alternative view of female individuation—one predicated on the daughter's gendered sameness with the mother coded positively and relationally, as well as her recognition that the mother represents the matrix of all"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        318,
+                        35,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                35,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        35,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Hypatia"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        35,
+                        382,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                35,
+                                382,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        35,
+                                        382,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "563"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        53,
+                        390,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                53,
+                                390,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        53,
+                                        390,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "life. The ontological weight of maternal embodiment in Muraro's philosophy thus supersedes Freudian versions of female selfhood. It represents an affirmative feminist engagement with mother/daughter identity constructed relationally, a distinct feminist rewriting of a Freudian psychoanalytic position that makes the daughter's detachment from—and turning against—the mother a primary condition of her individuation."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        48,
+                        111,
+                        390,
+                        290
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                111,
+                                390,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        111,
+                                        390,
+                                        290
+                                    ],
+                                    "type": "text",
+                                    "content": "Three of Muraro's other essays are published in another collection, *Another Mother: Diotima and the Symbolic Order of Italian Feminism: a reworking of “To Knit or to Crochet: Metaphor and Metonymy in Symbolic Production”* (1980); an English translation of a brief essay here appearing as “On the Relation between Words and Things as Frequentation” (2014); and a translation of “Feminism and Psychoanalysis: The Dead Mother Complex” (2006), a title Muraro derived from the research undertaken by the Diotima philosophical community and the feminism of difference. Her work here also reveals “symbolic independence” from established philosophical schools of thought. Muraro is concerned with what it means for women to express themselves with words that start from themselves, rather than to seek to develop symbolic prostheses so that they resemble men. For Muraro the embodied feminine occupies a central place in the symbolic order and constitutes a “given reality.” This aspect of her philosophy stands in most striking contrast to the defining feature of Anglo-American feminist thought and the women's liberation movement: their theorizing of women's gendered realities through the struggle to achieve full equality with the valorized male subject."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        48,
+                        291,
+                        390,
+                        549
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                291,
+                                390,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        291,
+                                        390,
+                                        549
+                                    ],
+                                    "type": "text",
+                                    "content": "In addition to Muraro's texts, the primary focus of the collection, this volume features writings by three other contemporary intellectuals of the Diotima community: Ida Dominijanni, Diana Sartori, and Chiara Zamboni. The collection thus makes accessible to the Anglophone reader for the first time some of the important texts of the Diotima feminist community and the theory and practice of the Italian feminist philosophy of sexual difference. The introduction to the volume situates the Diotima community historically—it was founded in the early 1980s at the University of Verona as a \"space for cultural debates and political activism\" (10)—but also as a space that bridges theory and practice, conjoining different stands and experiences of Italian feminism. Through four parts and ten essays the collection foregrounds the philosophers' \"investigation of the question of biopolitics\" (12). It also brings forward an active, and largely unknown in the Anglophone world, \"reelaboration of a psychoanalytic as well as a feminist problematic\" centering on the constitutive feminine elements in contemporary biopolitics (12). In all essays, Mother is, as the editors point out, \"at once the woman who brought us into the world as well as that which gave us both life and language, thereby enabling everything else.\" In this sense, Mother in this feminist philosophy of sexual difference is a function of discourse enabling us to rethink \"the primary institution of reproduction and socialization of the human.\" This is a feminism that zeroes in on difference and biopolitics to demystify various forms of maternal subjectivity have elicited various responses by feminists in the Anglosphere, as well as in non-Anglophone Europe.maternal subjectivity have elicited various responses by feminists in the Anglosphere, as well as in non-Anglophone Europe. and other types of fundamentalism rooted in violent misogyny."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        48,
+                        550,
+                        390,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                550,
+                                390,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        550,
+                                        390,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "In the *Another Mother* collection, Dominijanni's work especially tackles head-on the relationship between language as the \"word\" and the political and social \"reality\" it constructs, revealing the \"complicity between symbolic order and social order\" (35). Dominijani is also interested in showing the \"centrality of the linguistic dimension to post-Fordist capitalist social formations to the mediatised politics of democracies in"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        35,
+                        63,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                35,
+                                63,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        35,
+                                        63,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "564"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        80,
+                        34,
+                        144,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                80,
+                                34,
+                                144,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        80,
+                                        34,
+                                        144,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Tatjana Takseva"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 6
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        41,
+                        53,
+                        383,
+                        268
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                53,
+                                383,
+                                268
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        53,
+                                        383,
+                                        268
+                                    ],
+                                    "type": "text",
+                                    "content": "crisis” (35). For Dominijanni the maternal body is the symbolic antithesis of the continued dematerialization of the individual and social body in capitalist economies. But the link between language and being-in-the maternal surfaces in multiple ways in all ten essays. In Chiara Zamboni's work, following Muraro, the connection between language and materiality is asserted through the reference to pleasure that children experience while developing knowledge of words in connection with bodily and affective communication with the mother. The rediscovery of this living experience of language is relational and intersubjective as it reveals that, although language belongs to everyone, there is a “relation between me as a speaker and the language I speak” since “language is produced through me” (152). Addressing some of the implications of current biopolitics in relation to reproductive justice issues, Diana Sartori's work investigates present conflicts and referenda on assisted reproductive technologies through the shadow of the mother concept. Her work shows how the maternal constitutes an object of political conflict, one that vacillates between a mythology of the maternal role on the one hand, and forms of matricide, erasure and negation of the mother in political life, on the other. The last section of the collection, “Thinking with Diotima”, features essays by Anne Emmanuelle Berger, Andrea Righi, and Cesare Casarino, and articulates a theory of feminist biopolitics intended to go “beyond the masculine symbolic” (Righi 289) in Western theory, psychoanalysis, and philosophy."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        268,
+                        383,
+                        425
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                268,
+                                383,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        268,
+                                        383,
+                                        425
+                                    ],
+                                    "type": "text",
+                                    "content": "This specifically Italian version of feminist philosophy of sexual difference provides some answers to the question, \"What might motherhood and Europe have to do with one another?\" If such analyses were indeed possible given the diversity of European feminist perspectives on the maternal that I have tried to draw attention to, I would be inclined to say that part of the answer consists in how the reproductively marked, and female-gendered maternal body is represented and theorized by different intellectual feminist traditions within Europe and outside of it. In turn, specific feminist genealogies shape how we understand, theorize, and represent motherhood in distinct sociocultural and geopolitical locations. In Western contexts, premised on gender equality, the study of the maternal has had a historically uneasy and ambivalent relationship with feminism and feminist theory. The traditional silence and omission of the mother in the Western symbolic order, alongside the suppression and erasure of distinctly maternal subjectivity have elicited various responses by feminists in the Anglosphere, as well as in non-Anglophone Europe."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        41,
+                        426,
+                        383,
+                        605
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                426,
+                                383,
+                                605
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        426,
+                                        383,
+                                        605
+                                    ],
+                                    "type": "text",
+                                    "content": "Since the second feminist wave there has been an established premise in the Anglosphere that women must strive for equality with men and that gender equality through erasure of difference is the primary goal of feminist struggle (Hollway 2016). While the pursuit of legal and political equality is self-evidently justifiable, the social and biological implications of the drive to equality have never been adequately addressed. When the erasure of sexual difference in the pursuit of gender equality becomes a foundation premise in feminist thought and liberation struggle, it is not surprising that motherhood is seen from the perspective of profound ambivalence. Ambivalence toward motherhood and the maternal has ranged widely: from radical feminist rejections of motherhood as a social and biological function that is inherently oppressive to women, to the view that \"motherhood has everything to do with a history with which women remain powerless by reproducing the world of men\" (Allen 1983, 316), and to more moderate accounts cautioning against sexist stereotypes that inform the \"recent positive feminist focus\" on romanticized motherhood (hooks 2000, 135). Julie Philips captures the persistence of this ambivalence in a recent book that explores the relationship between creativity and motherhood (2022). Here she"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        318,
+                        35,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                35,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        35,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Hypatia"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        35,
+                        382,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                35,
+                                382,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        35,
+                                        382,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "565"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 7
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        54,
+                        390,
+                        267
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                54,
+                                390,
+                                267
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        54,
+                                        390,
+                                        267
+                                    ],
+                                    "type": "text",
+                                    "content": "and numerous other Anglo-American women writers whose work she analyzes describe their experience of motherhood through versions of \"division of consciousness,\" \"uncomfortably close to erasure,\" \"being split in two,\" or even, a disintegration, an attack on selfhood (Phillips 2022, 8). From a feminist perspective founded in and nurtured by the idea that the true subject is or should be \"defensively autonomous,\" mothering is registered as a fundamental issue for feminism because it \"is a point of contradiction where women's formations as notionally gender-neutral individuals collide with the actuality of women's life-giving capacities\" (Holloway 2016, n.p.). In the Anglosphere, the rise of the post-structuralist feminist turn, and the widespread acceptance of the work of Judith Butler as normative, arguing for the largely performative nature of gendered identities, have contributed theoretically and discursively to a further distance and alienation from the symbolic and actual female fecundity of the maternal body. Maternal and reproductive embodiment, and the enmeshment of daily care, far from the autonomous model of the unencumbered individual that underpins neoliberal conceptions of the self, exist rather uncomfortably within much of Anglo-American feminist thought on motherhood. This ideological perspective often places maternal theory and philosophy into an awkward impasse with respect to biopolitics, connectivity, the physicality of the female body, and relational understanding of self."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        48,
+                        268,
+                        390,
+                        448
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                268,
+                                390,
+                                448
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        268,
+                                        390,
+                                        448
+                                    ],
+                                    "type": "text",
+                                    "content": "Continental European feminist philosophical traditions, on the other hand, reflected in the work of the Italian members of the Dotima community considered here, as well as in some of the work of French feminists like Kristeva, Irigaray, and Cixous, have always started from a position of gendered and sexual difference, taking the maternal body as the beginning of all feminist theoretical interventions. Interestingly, Kristeva herself was a transnational, transplanted European female subject, a Bulgarian émigrée to France, traversing imagined and real cultural boundaries between \"east\" and \"west\". If there is indeed something like a transnational European feminine sensibility with its own storehouse of memory, as Kristeva claimed there is, then it is likely defined by the easy intimacy such sensibility forms with what Muraro calls \"the realm of generation.\" The realm of generation encompasses \"good or bad nature, ordered or chaotic nature,\" that is, it assumes \"the possibility of another symbolic order that does not strip the mother of her qualities\" (cited by Casarino 309). Muraro's debt to Irigaray's critique of phallogocentrism in the history of Western philosophy is clear in these statements, but what is also clear is her extension of Irigaray's ideas from critique into a \"generative\" realm that affirms the mother's symbolic primacy."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        48,
+                        448,
+                        390,
+                        606
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                448,
+                                390,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        448,
+                                        390,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "Finally, there is something that connects all theorizing of the material—European, and Anglo-American alike—and that is a historical condition brought into being by the shared patriarchal and misogynous origins of a dominant epistemic order according to which the little girl's initial love for the mother, as strong as it may be, is destined to turn into hatred. Many of us have been born into cultures that do not teach women to love the Mother. To the extent that all scholarship on the maternal strives to write us back to recognizing what it means to know and to love the Mother, such scholarship has the potential, as Muraro notes, to break the \"vicious circle and free[ ] [us] from the trap of a culture that by not teaching to love my mother, has also deprived me of the strength required to change it\" (Symbolic Order, 10). In this sense, the three books I consider here constitute a welcome theoretical and philosophical intervention in the European maternal; they stand to refresh old and initiate new dialogue aimed at recovering and articulating the potential of a distinctly feminist maternal situated in productive tensions between the particular and the general, the local and the global."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        48,
+                        35,
+                        63,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                35,
+                                63,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        35,
+                                        63,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "566"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        81,
+                        35,
+                        143,
+                        45
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                81,
+                                35,
+                                143,
+                                45
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        81,
+                                        35,
+                                        143,
+                                        45
+                                    ],
+                                    "type": "text",
+                                    "content": "Tatjana Takseva"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 8
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        40,
+                        55,
+                        62,
+                        64
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                55,
+                                62,
+                                64
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        55,
+                                        62,
+                                        64
+                                    ],
+                                    "type": "text",
+                                    "content": "Note"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        41,
+                        68,
+                        384,
+                        168
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                41,
+                                68,
+                                384,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        68,
+                                        384,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "1 For more on Balkanism as a specific strand of orientalist thought, see Maria Todorova's classic study, Imagining the Balkans (2009). Todorova defines Balkanism as a type of discourse and a set of representational strategies based on reductionism, stereotyping, and prejudice, employed historically by the putative West to describe, define, and otherwise represent the Balkan region and it people to others and to itself. From the Balkanist perspective, and even though they occupy a central geographical position within Europe, the Balkans have persistently been described as the \"other\" of Europe, whose inhabitants do not care to conform to the standards of behavior devised as normative by and for the civilized and \"western\" European world. Such epistemic lapses and occlusions must come under the corrective lens of feminist theorizing on justice, representation, inclusion, exclusion, and diversity as they pertain to any scholarly subject, including analyses of the maternal."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        40,
+                        188,
+                        87,
+                        198
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                188,
+                                87,
+                                198
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        188,
+                                        87,
+                                        198
+                                    ],
+                                    "type": "text",
+                                    "content": "References"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        41,
+                        202,
+                        383,
+                        332
+                    ],
+                    "type": "list",
+                    "angle": 0,
+                    "index": 12,
+                    "blocks": [
+                        {
+                            "bbox": [
+                                41,
+                                202,
+                                383,
+                                221
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        202,
+                                        383,
+                                        221
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                202,
+                                                383,
+                                                221
+                                            ],
+                                            "type": "text",
+                                            "content": "Allen, Jeffner. 1983. Motherhood: The annihilation of women. In *Mothering: Essays in feminist theory*, ed. Joyce Treibicott. Totowa, NJ: Rowman & Littlefield."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                222,
+                                383,
+                                241
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        222,
+                                        383,
+                                        241
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                222,
+                                                383,
+                                                241
+                                            ],
+                                            "type": "text",
+                                            "content": "Holloway, Wendy. 2016. Feminism, psychology and becoming a mother. *Feminism and Psychology* 26 (2): 137-52."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                242,
+                                292,
+                                251
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        242,
+                                        292,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                242,
+                                                292,
+                                                251
+                                            ],
+                                            "type": "text",
+                                            "content": "hooks, bell. 2000. Feminist Theory: From Margin to Center, South End Press."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                252,
+                                382,
+                                270
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        252,
+                                        382,
+                                        270
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                252,
+                                                382,
+                                                270
+                                            ],
+                                            "type": "text",
+                                            "content": "Kaur Hundle, Anneeth, Ioanna Szeman, and Joanna Pares Hoare. 2019. What is transnational in transnational feminist research? *Feminist Review* 121: 2-8."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                272,
+                                383,
+                                290
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        272,
+                                        383,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                272,
+                                                383,
+                                                290
+                                            ],
+                                            "type": "text",
+                                            "content": "Phillips, Julie. 2022. The baby on the fire escape: Creativity, motherhood, and the mind-baby problem. New York: W. W. Norton & Co."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                292,
+                                383,
+                                322
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        292,
+                                        383,
+                                        322
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                292,
+                                                383,
+                                                322
+                                            ],
+                                            "type": "text",
+                                            "content": "Thornton Dill, Bonnie, and Ruth Enid Zambrana. 2021. Critical thinking about inequality: An emerging lens. In *Feminist theory reader: Local and global perspectives, 5th edn*, ed. Carole McCann and Seung-Kyung Kim. New York: Routledge."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                41,
+                                322,
+                                350,
+                                332
+                            ],
+                            "type": "ref_text",
+                            "angle": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        41,
+                                        322,
+                                        350,
+                                        332
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                41,
+                                                322,
+                                                350,
+                                                332
+                                            ],
+                                            "type": "text",
+                                            "content": "Todorova, Maria. 2009. Imagining the Balkans. Updated edn. Oxford: Oxford University Press."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "sub_type": "ref_text"
+                },
+                {
+                    "bbox": [
+                        40,
+                        342,
+                        384,
+                        404
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                342,
+                                384,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        342,
+                                        384,
+                                        404
+                                    ],
+                                    "type": "text",
+                                    "content": "Tatjana Takseva holds a PhD from the University of Toronto (2003). She is Professor and Chair of the Department for English Language and Literature, and the Women and Gender Studies program at St Mary's University. She is the author of numerous studies on the maternal, nationalism, multiculturalism, and feminist theory. Her most recent book, Unforgetting: Voices from contemporary Bosnia and Herzegovina deals with ecologies of peace as seen through the stories of women who have survived rape during the war and the children born of war (Routledge 2024, forthcoming)."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [
+                {
+                    "bbox": [
+                        318,
+                        34,
+                        350,
+                        46
+                    ],
+                    "type": "header",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                318,
+                                34,
+                                350,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        318,
+                                        34,
+                                        350,
+                                        46
+                                    ],
+                                    "type": "text",
+                                    "content": "Hypatia"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        368,
+                        34,
+                        383,
+                        44
+                    ],
+                    "type": "page_number",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                368,
+                                34,
+                                383,
+                                44
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        368,
+                                        34,
+                                        383,
+                                        44
+                                    ],
+                                    "type": "text",
+                                    "content": "567"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        40,
+                        585,
+                        383,
+                        606
+                    ],
+                    "type": "footer",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                40,
+                                585,
+                                383,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        40,
+                                        585,
+                                        383,
+                                        606
+                                    ],
+                                    "type": "text",
+                                    "content": "Cite this article: Takseva T (2024). Tracing the Feminist Maternal in a European Context: A Review. Hypatia 39, 558-567. https://doi.org/10.1017/hyp.2024.26"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                }
+            ],
+            "page_size": [
+                432,
+                648
+            ],
+            "page_idx": 9
+        },
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        69,
+                        70,
+                        513,
+                        126
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                70,
+                                513,
+                                126
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        70,
+                                        513,
+                                        126
+                                    ],
+                                    "type": "text",
+                                    "content": "Copyright of Hypatia is the property of Cambridge University Press and its content may not be copied or emailed to multiple sites or posted to a listserv without the copyright holder's express written permission. However, users may print, download, or email articles for individual use."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 10
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.5.3"
+}
